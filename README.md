@@ -11,4 +11,22 @@ conda install ipykernel
 python -m ipykernel install --user --name=sibyl-1 --display-name="Python (sibyl-1)"
 conda install pip
 pip install <packages>
-conda list
+pip list
+pip freeze > requirements.txt
+touch README.md
+brew install git
+git init
+touch .gitignore
+
+Create repo on Github and download PAT
+open -e ~/.bash_profile
+export GITHUB_TOKEN=<PAT>
+source ~/.bash_profile
+git config --global http.https://github.com/.extraheader "AUTHORIZATION: bearer $GITHUB_TOKEN"
+
+git remote add origin https://github.com/diegotanton/Sibyl-1.git
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
