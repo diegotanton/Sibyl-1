@@ -30,3 +30,5 @@ git add .
 git commit -m "Initial commit"
 git push -u origin main
 
+git commit -m "Updates"
+git push
