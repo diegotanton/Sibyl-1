@@ -1,7 +1,7 @@
-Setup:
+# Setup:
 
-Anaconda path: ~/Users/diegotanton/opt/anaconda3
-Project path: ~/Users/diegotanton/Documents/Python
+# Anaconda path: ~/Users/diegotanton/opt/anaconda3
+# Project path: ~/Users/diegotanton/Documents/Python
 
 mkdir Sibyl-1
 cd Sibyl-1
@@ -18,17 +18,31 @@ brew install git
 git init
 touch .gitignore
 
-Create repo on Github and download PAT
-open -e ~/.bash_profile
-export GITHUB_TOKEN=<PAT>
-source ~/.bash_profile
-git config --global http.https://github.com/.extraheader "AUTHORIZATION: bearer $GITHUB_TOKEN"
+# Generate SSH keys
+ssh-keygen -t ed25519 -C "diegotanton@gmail.com"
+# Save in default file
+eval "$(ssh-agent -s)"
+touch ~/.ssh/config
+open -e ~/.ssh/config
+# Paste the following:
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
+#
+ssh-add -K ~/.ssh/id_ed25519
+pbcopy < ~/.ssh/id_ed25519.pub
+# Paste publish SSH key to GitHub
+git remote set-url origin git@github.com:diegotanton/Sibyl-1.git
+ssh -T git@github.com
 
-git remote add origin https://github.com/diegotanton/Sibyl-1.git
+# Setup git repo
 git branch -M main
 git add .
 git commit -m "Initial commit"
 git push -u origin main
 
+# Update git repo
+git add .
 git commit -m "Updates"
 git push
