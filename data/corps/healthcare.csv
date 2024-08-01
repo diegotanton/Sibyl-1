@@ -1,0 +1,407 @@
+Ticker,Name,Sector,Cap,NameCln
+LLY,Lilly(Eli) & Co,Healthcare,767794.0,Eli Lilly
+UNH,Unitedhealth Group Inc,Healthcare,463580.0,Unitedhealth Group
+JNJ,Johnson & Johnson,Healthcare,347476.0,Johnson & Johnson
+MRK,Merck & Co Inc,Healthcare,319362.0,Merck
+ABBV,Abbvie Inc,Healthcare,274310.0,Abbvie
+TMO,Thermo Fisher Scientific Inc.,Healthcare,218559.0,Thermo Fisher Scientific
+DHR,Danaher Corp.,Healthcare,191623.0,Danaher
+ABT,Abbott Laboratories,Healthcare,177356.0,Abbott Laboratories
+AMGN,AMGEN Inc.,Healthcare,161032.0,AMGEN
+PFE,Pfizer Inc.,Healthcare,160365.0,Pfizer
+ISRG,Intuitive Surgical Inc,Healthcare,142245.0,Intuitive Surgical
+SYK,Stryker Corp.,Healthcare,129260.0,Stryker
+VRTX,"Vertex Pharmaceuticals, Inc.",Healthcare,115319.0,Vertex Pharmaceuticals
+BSX,Boston Scientific Corp.,Healthcare,110513.0,Boston Scientific
+MDT,Medtronic Plc,Healthcare,108881.0,Medtronic
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,105047.0,Regeneron Pharmaceuticals
+CI,Cigna Group (The),Healthcare,94656.0,Cigna Group
+HCA,HCA Healthcare Inc,Healthcare,83462.0,HCA Healthcare
+BMY,Bristol-Myers Squibb Co.,Healthcare,82077.0,Bristol-Myers Squibb
+GILD,"Gilead Sciences, Inc.",Healthcare,79660.0,Gilead Sciences
+ZTS,Zoetis Inc,Healthcare,78163.0,Zoetis
+MCK,Mckesson Corporation,Healthcare,71396.0,Mckesson
+CVS,CVS Health Corp,Healthcare,67326.0,CVS Health
+BDX,Becton Dickinson & Co.,Healthcare,65547.0,Becton Dickinson
+EW,Edwards Lifesciences Corp,Healthcare,52450.0,Edwards Lifesciences
+DXCM,Dexcom Inc,Healthcare,50657.0,Dexcom
+A,Agilent Technologies Inc.,Healthcare,43434.0,Agilent Technologies
+HUM,Humana Inc.,Healthcare,42080.0,Humana
+IDXX,"Idexx Laboratories, Inc.",Healthcare,41740.0,Idexx Laboratories
+IQV,IQVIA Holdings Inc,Healthcare,41307.0,IQVIA
+CNC,Centene Corp.,Healthcare,38807.0,Centene
+VEEV,Veeva Systems Inc,Healthcare,32822.0,Veeva Systems
+BIIB,Biogen Inc,Healthcare,31846.0,Biogen
+MTD,"Mettler-Toledo International, Inc.",Healthcare,31065.0,Mettler-Toledo International
+RMD,Resmed Inc.,Healthcare,30435.0,Resmed
+ZBH,Zimmer Biomet Holdings Inc,Healthcare,23932.0,Zimmer Biomet
+WST,"West Pharmaceutical Services, Inc.",Healthcare,23854.0,West Pharmaceutical Services
+CAH,"Cardinal Health, Inc.",Healthcare,23078.0,Cardinal Health
+STE,Steris Plc,Healthcare,22074.0,Steris
+WAT,Waters Corp.,Healthcare,19685.0,Waters
+ALGN,"Align Technology, Inc.",Healthcare,19104.0,Align Technology
+MOH,Molina Healthcare Inc,Healthcare,18992.0,Molina Healthcare
+ALNY,Alnylam Pharmaceuticals Inc,Healthcare,18981.0,Alnylam Pharmaceuticals
+COO,"Cooper Companies, Inc.",Healthcare,18222.0,Cooper
+BAX,Baxter International Inc.,Healthcare,17249.0,Baxter International
+HOLX,"Hologic, Inc.",Healthcare,17121.0,Hologic
+ILMN,Illumina Inc,Healthcare,16731.0,Illumina
+VAR,"Varian Medical Systems, Inc.",Healthcare,16262.0,Varian Medical Systems
+GEN,Gen Digital Inc,Healthcare,15535.0,Gen Digital
+DGX,"Quest Diagnostics, Inc.",Healthcare,15432.0,Quest Diagnostics
+PKI,Revvity Inc.,Healthcare,14456.0,Revvity
+NBIX,"Neurocrine Biosciences, Inc.",Healthcare,14138.0,Neurocrine Biosciences
+BMRN,Biomarin Pharmaceutical Inc.,Healthcare,14133.0,Biomarin Pharmaceutical
+NTRA,Natera Inc,Healthcare,13455.0,Natera
+WBA,Walgreens Boots Alliance Inc,Healthcare,13269.0,Walgreens Boots Alliance
+INCY,Incyte Corp.,Healthcare,12855.0,Incyte
+UHS,"Universal Health Services, Inc.",Healthcare,12783.0,Universal Health Services
+THC,Tenet Healthcare Corp.,Healthcare,12783.0,Tenet Healthcare
+DVA,DaVita Inc,Healthcare,12600.0,DaVita
+SWAV,Shockwave Medical Inc.,Healthcare,12560.0,Shockwave Medical
+TECH,Bio-Techne Corp,Healthcare,12511.0,Bio-Techne
+PODD,Insulet Corporation,Healthcare,12454.0,Insulet
+MEDP,Medpace Holdings Inc,Healthcare,12109.0,Medpace
+UTHR,United Therapeutics Corp,Healthcare,11938.0,United Therapeutics
+CRL,Charles River Laboratories International Inc.,Healthcare,11049.0,Charles River Laboratories International
+BRKR,Bruker Corp,Healthcare,11025.0,Bruker
+SRPT,Sarepta Therapeutics Inc,Healthcare,10712.0,Sarepta Therapeutics
+HRC,Hill-Rom Holdings Inc,Healthcare,10301.0,Hill-Rom
+CTLT,Catalent Inc.,Healthcare,9773.0,Catalent
+TFX,Teleflex Incorporated,Healthcare,9639.0,Teleflex
+HSIC,Henry Schein Inc.,Healthcare,9111.0,Henry Schein
+RGEN,Repligen Corp.,Healthcare,8759.0,Repligen
+EXAS,Exact Sciences Corp.,Healthcare,8677.0,Exact Sciences
+ELAN,Elanco Animal Health Inc,Healthcare,8470.0,Elanco Animal Health
+EHC,Encompass Health Corp,Healthcare,8404.0,Encompass Health
+CHE,Chemed Corp.,Healthcare,8226.0,Chemed
+BIO,Bio-Rad Laboratories Inc.,Healthcare,8129.0,Bio-Rad Laboratories
+PEN,Penumbra Inc,Healthcare,7474.0,Penumbra
+GMED,Globus Medical Inc,Healthcare,7376.0,Globus Medical
+VKTX,Viking Therapeutics Inc,Healthcare,7207.0,Viking Therapeutics
+ITCI,Intra-Cellular Therapies Inc,Healthcare,6928.0,Intra-Cellular Therapies
+HQY,Healthequity Inc,Healthcare,6890.0,Healthequity
+ENSG,Ensign Group Inc,Healthcare,6770.0,Ensign Group
+MASI,Masimo Corp,Healthcare,6751.0,Masimo
+JAZZ,Jazz Pharmaceuticals plc,Healthcare,6623.0,Jazz Pharmaceuticals
+BPMC,Blueprint Medicines Corp,Healthcare,6409.0,Blueprint Medicines
+EXEL,Exelixis Inc,Healthcare,5925.0,Exelixis
+ACHC,Acadia Healthcare Company Inc,Healthcare,5833.0,Acadia Healthcare
+XRAY,DENTSPLY Sirona Inc,Healthcare,5739.0,DENTSPLY Sirona
+LNTH,Lantheus Holdings Inc,Healthcare,5506.0,Lantheus
+GKOS,Glaukos Corporation,Healthcare,5505.0,Glaukos
+IONS,Ionis Pharmaceuticals Inc,Healthcare,5494.0,Ionis Pharmaceuticals
+HALO,Halozyme Therapeutics Inc.,Healthcare,5483.0,Halozyme Therapeutics
+CYTK,Cytokinetics Inc,Healthcare,5055.0,Cytokinetics
+APLS,Apellis Pharmaceuticals Inc,Healthcare,4923.0,Apellis Pharmaceuticals
+MDGL,Madrigal Pharmaceuticals Inc,Healthcare,4759.0,Madrigal Pharmaceuticals
+MMSI,"Merit Medical Systems, Inc.",Healthcare,4736.0,Merit Medical Systems
+TMDX,Transmedics Group Inc,Healthcare,4705.0,Transmedics Group
+INSP,Inspire Medical Systems Inc,Healthcare,4693.0,Inspire Medical Systems
+KRYS,Krystal Biotech Inc,Healthcare,4541.0,Krystal Biotech
+HAE,Haemonetics Corp.,Healthcare,4523.0,Haemonetics
+RDNT,Radnet Inc,Healthcare,4389.0,Radnet
+SEM,Select Medical Holdings Corporation,Healthcare,4324.0,Select Medical
+ITGR,Integer Holdings Corp,Healthcare,4067.0,Integer
+ALKS,Alkermes plc,Healthcare,4019.0,Alkermes
+PRGO,Perrigo Company plc,Healthcare,3726.0,Perrigo
+CRNX,Crinetics Pharmaceuticals Inc,Healthcare,3695.0,Crinetics Pharmaceuticals
+AXSM,Axsome Therapeutics Inc,Healthcare,3646.0,Axsome Therapeutics
+RCM,R1 RCM Inc.,Healthcare,3566.0,R1 RCM
+AXNX,Axonics Inc,Healthcare,3425.0,Axonics
+TNDM,Tandem Diabetes Care Inc,Healthcare,3417.0,Tandem Diabetes Care
+CMD,Cantel Medical Corp,Healthcare,3401.0,Cantel Medical
+BHVN,Biohaven Ltd,Healthcare,3350.0,Biohaven
+CORT,Corcept Therapeutics Inc,Healthcare,3291.0,Corcept Therapeutics
+RARE,Ultragenyx Pharmaceutical Inc.,Healthcare,3270.0,Ultragenyx Pharmaceutical
+INSM,Insmed Inc,Healthcare,3269.0,Insmed
+LIVN,LivaNova PLC,Healthcare,3251.0,LivaNova
+SGRY,Surgery Partners Inc,Healthcare,3245.0,Surgery Partners
+GH,Guardant Health Inc,Healthcare,3201.0,Guardant Health
+PBH,Prestige Consumer Healthcare Inc,Healthcare,3154.0,Prestige Consumer Healthcare
+AMED,Amedisys Inc.,Healthcare,3124.0,Amedisys
+ARWR,Arrowhead Pharmaceuticals Inc.,Healthcare,2971.0,Arrowhead Pharmaceuticals
+QDEL,QuidelOrtho Corporation,Healthcare,2950.0,QuidelOrtho
+NEOG,Neogen Corp.,Healthcare,2929.0,Neogen
+FOLD,Amicus Therapeutics Inc,Healthcare,2838.0,Amicus Therapeutics
+PTCT,PTC Therapeutics Inc,Healthcare,2797.0,PTC Therapeutics
+IRTC,iRhythm Technologies Inc,Healthcare,2730.0,iRhythm Technologies
+IOVA,Iovance Biotherapeutics Inc,Healthcare,2714.0,Iovance Biotherapeutics
+DNLI,Denali Therapeutics Inc,Healthcare,2695.0,Denali Therapeutics
+EVH,Evolent Health Inc,Healthcare,2683.0,Evolent Health
+TGTX,TG Therapeutics Inc,Healthcare,2604.0,TG Therapeutics
+ICUI,"ICU Medical, Inc.",Healthcare,2556.0,ICU Medical
+ACAD,Acadia Pharmaceuticals Inc,Healthcare,2493.0,Acadia Pharmaceuticals
+TWST,Twist Bioscience Corp,Healthcare,2471.0,Twist Bioscience
+ARVN,Arvinas Inc,Healthcare,2412.0,Arvinas
+AMEH,Apollo Medical Holdings Inc,Healthcare,2379.0,Apollo Medical
+CLDX,Celldex Therapeutics Inc.,Healthcare,2332.0,Celldex Therapeutics
+VCEL,Vericel Corp,Healthcare,2331.0,Vericel
+CNMD,Conmed Corp.,Healthcare,2295.0,Conmed
+IART,Integra Lifesciences Holdings Corp,Healthcare,2275.0,Integra Lifesciences
+RYTM,Rhythm Pharmaceuticals Inc.,Healthcare,2208.0,Rhythm Pharmaceuticals
+PRSC,Providence Service Corp,Healthcare,2207.0,Providence Service
+DCPH,Deciphera Pharmaceuticals Inc,Healthcare,2206.0,Deciphera Pharmaceuticals
+ADMA,Adma Biologics Inc,Healthcare,2205.0,Adma Biologics
+AGIO,Agios Pharmaceuticals Inc,Healthcare,2203.0,Agios Pharmaceuticals
+NTLA,Intellia Therapeutics Inc,Healthcare,2192.0,Intellia Therapeutics
+NVAX,"Novavax, Inc.",Healthcare,2178.0,Novavax
+PDCO,Patterson Companies Inc.,Healthcare,2148.0,Patterson
+MYGN,"Myriad Genetics, Inc.",Healthcare,2111.0,Myriad Genetics
+AMN,AMN Healthcare Services Inc.,Healthcare,2100.0,AMN Healthcare Services
+AMRX,Amneal Pharmaceuticals Inc,Healthcare,2096.0,Amneal Pharmaceuticals
+AMPH,Amphastar Pharmaceuticals Inc,Healthcare,2053.0,Amphastar Pharmaceuticals
+STAA,Staar Surgical Co.,Healthcare,2011.0,Staar Surgical
+GERN,Geron Corp.,Healthcare,1987.0,Geron
+PINC,Premier Inc,Healthcare,1985.0,Premier
+CPRX,Catalyst Pharmaceuticals Inc,Healthcare,1957.0,Catalyst Pharmaceuticals
+TDOC,Teladoc Health Inc,Healthcare,1927.0,Teladoc Health
+RCKT,Rocket Pharmaceuticals Inc,Healthcare,1901.0,Rocket Pharmaceuticals
+ADUS,Addus HomeCare Corporation,Healthcare,1830.0,Addus HomeCare
+NEO,Neogenomics Inc.,Healthcare,1805.0,Neogenomics
+LMAT,Lemaitre Vascular Inc,Healthcare,1800.0,Lemaitre Vascular
+PTGX,Protagonist Therapeutics Inc,Healthcare,1758.0,Protagonist Therapeutics
+SNDX,Syndax Pharmaceuticals Inc,Healthcare,1707.0,Syndax Pharmaceuticals
+SINT,SINTX Technologies Inc,Healthcare,1659.0,SINTX Technologies
+VCYT,Veracyte Inc,Healthcare,1640.0,Veracyte
+KURA,Kura Oncology Inc,Healthcare,1637.0,Kura Oncology
+ARDX,Ardelyx Inc,Healthcare,1606.0,Ardelyx
+NHC,National Healthcare Corp.,Healthcare,1579.0,National Healthcare
+LGND,"Ligand Pharmaceuticals, Inc.",Healthcare,1548.0,Ligand Pharmaceuticals
+USPH,"U.S. Physical Therapy, Inc.",Healthcare,1529.0,US Physical Therapy
+DVAX,Dynavax Technologies Corp.,Healthcare,1505.0,Dynavax Technologies
+SUPN,Supernus Pharmaceuticals Inc,Healthcare,1488.0,Supernus Pharmaceuticals
+OMCL,"Omnicell, Inc.",Healthcare,1488.0,Omnicell
+MDRX,Veradigm Inc,Healthcare,1477.0,Veradigm
+XNCR,Xencor Inc,Healthcare,1443.0,Xencor
+ATEC,Alphatec Holdings Inc,Healthcare,1438.0,Alphatec
+RCUS,Arcus Biosciences Inc,Healthcare,1425.0,Arcus Biosciences
+PCRX,Pacira BioSciences Inc,Healthcare,1399.0,Pacira BioSciences
+SLNO,Soleno Therapeutics Inc,Healthcare,1363.0,Soleno Therapeutics
+ANIP,ANI Pharmaceuticals Inc,Healthcare,1328.0,ANI Pharmaceuticals
+OMI,"Owens & Minor, Inc.",Healthcare,1323.0,Owens & Minor
+BKD,Brookdale Senior Living Inc,Healthcare,1293.0,Brookdale Senior Living
+BCRX,Biocryst Pharmaceuticals Inc.,Healthcare,1277.0,Biocryst Pharmaceuticals
+MNKD,Mannkind Corp,Healthcare,1261.0,Mannkind
+JAGX,Jaguar Health Inc,Healthcare,1182.0,Jaguar Health
+COLL,Collegium Pharmaceutical Inc,Healthcare,1124.0,Collegium Pharmaceutical
+ATRC,Atricure Inc,Healthcare,1079.0,Atricure
+PRTA,Prothena Corporation plc,Healthcare,1073.0,Prothena
+SAVA,Cassava Sciences Inc,Healthcare,1040.0,Cassava Sciences
+BLFS,Biolife Solutions Inc,Healthcare,1019.0,Biolife Solutions
+SLP,Simulations Plus Inc.,Healthcare,994.0,Simulations Plus
+INVA,Innoviva Inc,Healthcare,970.0,Innoviva
+OPK,Opko Health Inc,Healthcare,948.0,Opko Health
+LQDA,Liquidia Corp,Healthcare,939.0,Liquidia
+IRWD,Ironwood Pharmaceuticals Inc,Healthcare,935.0,Ironwood Pharmaceuticals
+AVNS,Avanos Medical Inc,Healthcare,927.0,Avanos Medical
+OCUL,Ocular Therapeutix Inc,Healthcare,918.0,Ocular Therapeutix
+GTS,Triple-S Management Corp,Healthcare,856.0,Triple-S Management
+SILK,Silk Road Medical Inc,Healthcare,842.0,Silk Road Medical
+CDNA,Caredx Inc,Healthcare,841.0,Caredx
+HSTM,Healthstream Inc,Healthcare,824.0,Healthstream
+SRRK,Scholar Rock Holding Corp,Healthcare,824.0,Scholar Rock
+KIDS,OrthoPediatrics corp,Healthcare,806.0,OrthoPediatrics
+ATRI,Atrion Corp.,Healthcare,803.0,Atrion
+EOLS,Evolus Inc,Healthcare,791.0,Evolus
+HCSG,"Healthcare Services Group, Inc.",Healthcare,790.0,Healthcare Services Group
+KNSA,Kiniksa Pharmaceuticals Ltd,Healthcare,767.0,Kiniksa Pharmaceuticals
+WVE,Wave Life Sciences Ltd.,Healthcare,752.0,Wave Life Sciences
+RGNX,Regenxbio Inc,Healthcare,737.0,Regenxbio
+PLSE,Pulse Biosciences Inc,Healthcare,736.0,Pulse Biosciences
+HNGR,Hanger Inc,Healthcare,732.0,Hanger
+NRC,National Research Corp,Healthcare,719.0,National Research
+SAGE,Sage Therapeutics Inc,Healthcare,718.0,Sage Therapeutics
+HROW,Harrow Inc,Healthcare,657.0,Harrow
+ANAB,AnaptysBio Inc,Healthcare,638.0,AnaptysBio
+QTRX,Quanterix Corp,Healthcare,632.0,Quanterix
+MD,Pediatrix Medical Group Inc,Healthcare,615.0,Pediatrix Medical Group
+VREX,Varex Imaging Corp,Healthcare,614.0,Varex Imaging
+LXRX,Lexicon Pharmaceuticals Inc,Healthcare,611.0,Lexicon Pharmaceuticals
+PETQ,PetIQ Inc,Healthcare,588.0,PetIQ
+TRXC,TransEnterix Inc,Healthcare,583.0,TransEnterix
+EYPT,EyePoint Pharmaceuticals Inc,Healthcare,580.0,EyePoint Pharmaceuticals
+SVRA,Savara Inc,Healthcare,573.0,Savara
+SIBN,SI-BONE Inc,Healthcare,565.0,SI-BONE
+OFIX,Orthofix Medical Inc,Healthcare,549.0,Orthofix Medical
+CDMO,Avid Bioservices Inc,Healthcare,547.0,Avid Bioservices
+IRMD,Iradimed Corp,Healthcare,546.0,Iradimed
+SIGA,SIGA Technologies Inc,Healthcare,543.0,SIGA Technologies
+YMAB,Y-Mabs Therapeutics Inc,Healthcare,533.0,Y-Mabs Therapeutics
+CNCE,Concert Pharmaceuticals Inc,Healthcare,521.0,Concert Pharmaceuticals
+HRTX,Heron Therapeutics Inc,Healthcare,514.0,Heron Therapeutics
+PACB,Pacific Biosciences of California Inc,Healthcare,511.0,Pacific Biosciences of California
+CYH,"Community Health Systems, Inc.",Healthcare,503.0,Community Health Systems
+SRDX,"Surmodics, Inc.",Healthcare,501.0,Surmodics
+RDUS,Radius Recycling Inc.,Healthcare,496.0,Radius Recycling
+ALEC,Alector Inc,Healthcare,494.0,Alector
+ALT,Altimmune Inc,Healthcare,494.0,Altimmune
+CELC,Celcuity Inc,Healthcare,473.0,Celcuity
+KALV,KalVista Pharmaceuticals Inc,Healthcare,467.0,KalVista Pharmaceuticals
+CRBP,Corbus Pharmaceuticals Holdings Inc,Healthcare,456.0,Corbus Pharmaceuticals
+EDIT,Editas Medicine Inc,Healthcare,438.0,Editas Medicine
+VYGR,Voyager Therapeutics Inc,Healthcare,436.0,Voyager Therapeutics
+ALLO,Allogene Therapeutics Inc,Healthcare,415.0,Allogene Therapeutics
+TBPH,Theravance Biopharma Inc,Healthcare,409.0,Theravance Biopharma
+FATE,Fate Therapeutics Inc,Healthcare,403.0,Fate Therapeutics
+ESPR,Esperion Therapeutics Inc.,Healthcare,398.0,Esperion Therapeutics
+ARA,American Renal Associates Holdings Inc.,Healthcare,397.0,American Renal Associates
+ANIK,Anika Therapeutics Inc.,Healthcare,367.0,Anika Therapeutics
+PAHC,Phibro Animal Health Corp.,Healthcare,367.0,Phibro Animal Health
+OSUR,Orasure Technologies Inc.,Healthcare,357.0,Orasure Technologies
+ORGO,Organogenesis Holdings Inc,Healthcare,354.0,Organogenesis
+NVRO,Nevro Corp,Healthcare,350.0,Nevro
+AVXL,Anavex Life Sciences Corporation,Healthcare,344.0,Anavex Life Sciences
+CERS,Cerus Corp.,Healthcare,335.0,Cerus
+ZYXI,Zynex Inc,Healthcare,321.0,Zynex
+AGEN,Agenus Inc,Healthcare,320.0,Agenus
+REPL,Replimune Group Inc,Healthcare,318.0,Replimune Group
+TCMD,Tactile Systems Technology Inc,Healthcare,301.0,Tactile Systems Technology
+XOMA,XOMA Corp,Healthcare,297.0,XOMA
+CRMD,CorMedix Inc,Healthcare,295.0,CorMedix
+MRSN,Mersana Therapeutics Inc,Healthcare,294.0,Mersana Therapeutics
+SLDB,Solid Biosciences Inc,Healthcare,291.0,Solid Biosciences
+AXGN,Axogen Inc.,Healthcare,290.0,Axogen
+VNDA,Vanda Pharmaceuticals Inc,Healthcare,290.0,Vanda Pharmaceuticals
+XERS,Xeris Biopharma Holdings Inc,Healthcare,285.0,Xeris Biopharma
+RVNC,Revance Therapeutics Inc,Healthcare,279.0,Revance Therapeutics
+NKTR,Nektar Therapeutics,Healthcare,275.0,Nektar Therapeutics
+CSLT,Castlight Health Inc,Healthcare,274.0,Castlight Health
+MGNX,Macrogenics Inc,Healthcare,272.0,Macrogenics
+INO,Inovio Pharmaceuticals Inc,Healthcare,269.0,Inovio Pharmaceuticals
+ENTA,Enanta Pharmaceuticals Inc,Healthcare,253.0,Enanta Pharmaceuticals
+ANGO,Angiodynamic Inc,Healthcare,250.0,Angiodynamic
+EBS,Emergent Biosolutions Inc,Healthcare,247.0,Emergent Biosolutions
+ATNM,Actinium Pharmaceuticals Inc,Healthcare,245.0,Actinium Pharmaceuticals
+UTMD,"Utah Medical Products, Inc.",Healthcare,243.0,Utah Medical Products
+JYNT,Joint Corp,Healthcare,239.0,Joint
+XBIT,XBiotech Inc,Healthcare,238.0,XBiotech
+OPRX,OptimizeRx Corp,Healthcare,231.0,OptimizeRx
+SENS,Senseonics Holdings Inc,Healthcare,231.0,Senseonics
+ALDX,Aldeyra Therapeutics Inc,Healthcare,225.0,Aldeyra Therapeutics
+AKBA,Akebia Therapeutics Inc.,Healthcare,224.0,Akebia Therapeutics
+CDXS,Codexis Inc.,Healthcare,222.0,Codexis
+CHRS,Coherus Biosciences Inc,Healthcare,216.0,Coherus Biosciences
+CDXC,Chromadex Corp,Healthcare,209.0,Chromadex
+INGN,Inogen Inc,Healthcare,203.0,Inogen
+KMPH,Zevra Therapeutics Inc,Healthcare,198.0,Zevra Therapeutics
+CAPR,Capricor Therapeutics Inc,Healthcare,194.0,Capricor Therapeutics
+PBYI,Puma Biotechnology Inc,Healthcare,194.0,Puma Biotechnology
+OMER,Omeros Corporation,Healthcare,192.0,Omeros
+ZIOP,Alaunos Therapeutics Inc,Healthcare,187.0,Alaunos Therapeutics
+LCTX,Lineage Cell Therapeutics Inc,Healthcare,185.0,Lineage Cell Therapeutics
+ACHV,Achieve Life Sciences Inc.,Healthcare,184.0,Achieve Life Sciences
+ATOS,Atossa Therapeutics Inc,Healthcare,179.0,Atossa Therapeutics
+GTHX,G1 Therapeutics Inc,Healthcare,178.0,G1 Therapeutics
+GALT,Galectin Therapeutics Inc,Healthcare,175.0,Galectin Therapeutics
+ABEO,Abeona Therapeutics Inc,Healthcare,169.0,Abeona Therapeutics
+ALIM,Alimera Sciences Inc.,Healthcare,163.0,Alimera Sciences
+RIGL,Rigel Pharmaceuticals,Healthcare,163.0,Rigel Pharmaceuticals
+EYES,Vivani Medical Inc,Healthcare,163.0,Vivani Medical
+VERU,Veru Inc,Healthcare,162.0,Veru
+INFU,InfuSystem Holdings Inc,Healthcare,160.0,InfuSystem
+ADVM,Adverum Biotechnologies Inc,Healthcare,159.0,Adverum Biotechnologies
+XFOR,X4 Pharmaceuticals Inc,Healthcare,158.0,X4 Pharmaceuticals
+ARAY,Accuray Inc,Healthcare,158.0,Accuray
+KOD,Kodiak Sciences Inc,Healthcare,158.0,Kodiak Sciences
+VXRT,Vaxart Inc,Healthcare,147.0,Vaxart
+MCRB,Seres Therapeutics Inc,Healthcare,141.0,Seres Therapeutics
+CTMX,CytomX Therapeutics Inc,Healthcare,139.0,CytomX Therapeutics
+HBIO,Harvard Bioscience Inc.,Healthcare,138.0,Harvard Bioscience
+SELB,Selecta Biosciences Inc,Healthcare,137.0,Selecta Biosciences
+GOSS,Gossamer Bio Inc,Healthcare,134.0,Gossamer Bio
+RGLS,Regulus Therapeutics Inc,Healthcare,134.0,Regulus Therapeutics
+OPTN,OptiNose Inc,Healthcare,132.0,OptiNose
+SGMO,Sangamo Therapeutics Inc,Healthcare,129.0,Sangamo Therapeutics
+FGEN,FibroGen Inc,Healthcare,127.0,FibroGen
+CRVS,Corvus Pharmaceuticals Inc,Healthcare,126.0,Corvus Pharmaceuticals
+LIFE,Atyr Pharma Inc,Healthcare,124.0,Atyr Pharma
+ALLK,Allakos Inc,Healthcare,123.0,Allakos
+ELMD,Electromed Inc.,Healthcare,123.0,Electromed
+KPTI,Karyopharm Therapeutics Inc,Healthcare,117.0,Karyopharm Therapeutics
+PDSB,PDS Biotechnology Corporation,Healthcare,114.0,PDS Biotechnology
+IMUX,Immunic Inc,Healthcare,113.0,Immunic
+CLRB,Cellectar Biosciences Inc,Healthcare,106.0,Cellectar Biosciences
+ARPO,Aerpio Pharmaceuticals Inc,Healthcare,105.0,Aerpio Pharmaceuticals
+BLUE,Bluebird bio Inc,Healthcare,103.0,Bluebird bio
+VSTM,Verastem Inc,Healthcare,102.0,Verastem
+FONR,Fonar Corp.,Healthcare,98.0,Fonar
+PRPH,ProPhase Labs Inc,Healthcare,98.0,ProPhase Labs
+XTNT,Xtant Medical Holdings Inc,Healthcare,98.0,Xtant Medical
+ASRT,Assertio Holdings Inc,Healthcare,95.0,Assertio
+ARMP,Armata Pharmaceuticals Inc,Healthcare,95.0,Armata Pharmaceuticals
+FVE,Five Star Senior Living Inc.,Healthcare,91.0,Five Star Senior Living
+SCYX,Scynexis Inc,Healthcare,89.0,Scynexis
+SRTS,Sensus Healthcare Inc,Healthcare,89.0,Sensus Healthcare
+PETS,"Petmed Express, Inc.",Healthcare,88.0,Petmed Express
+GRTS,Gritstone Bio Inc,Healthcare,87.0,Gritstone Bio
+TTOO,T2 Biosystems Inc,Healthcare,86.0,T2 Biosystems
+CMRX,Chimerix Inc,Healthcare,84.0,Chimerix
+ASMB,Assembly Biosciences Inc,Healthcare,83.0,Assembly Biosciences
+MRNS,Marinus Pharmaceuticals Inc,Healthcare,82.0,Marinus Pharmaceuticals
+SLS,SELLAS Life Sciences Group Inc,Healthcare,80.0,SELLAS Life Sciences Group
+ANIX,Anixa Biosciences Inc,Healthcare,79.0,Anixa Biosciences
+CUE,Cue Biopharma Inc,Healthcare,79.0,Cue Biopharma
+SPRO,Spero Therapeutics Inc,Healthcare,78.0,Spero Therapeutics
+BEAT,HeartBeam Inc,Healthcare,77.0,HeartBeam
+ACRS,Aclaris Therapeutics Inc,Healthcare,75.0,Aclaris Therapeutics
+ATRA,Atara Biotherapeutics Inc,Healthcare,74.0,Atara Biotherapeutics
+CVM,Cel-Sci Corp.,Healthcare,69.0,Cel-Sci
+PDEX,Pro-Dex Inc. (co),Healthcare,67.0,Pro-Dex
+AVRO,AvroBio Inc,Healthcare,66.0,AvroBio
+CRIS,Curis Inc,Healthcare,66.0,Curis
+MNOV,Medicinova Inc,Healthcare,65.0,Medicinova
+STIM,Neuronetics Inc,Healthcare,62.0,Neuronetics
+HTBX,Heat Biologics Inc,Healthcare,61.0,Heat Biologics
+ENZ,"Enzo Biochem, Inc.",Healthcare,60.0,Enzo Biochem
+VTVT,vTv Therapeutics Inc,Healthcare,60.0,vTv Therapeutics
+PTI,Proteostasis Therapeutics Inc,Healthcare,58.0,Proteostasis Therapeutics
+DYAI,"Dyadic International Inc., DE",Healthcare,57.0,Dyadic InternationalDE
+MLSS,Milestone Scientific Inc.,Healthcare,56.0,Milestone Scientific
+VNRX,VolitionRX Ltd,Healthcare,56.0,VolitionRX
+APYX,Apyx Medical Corp,Healthcare,55.0,Apyx Medical
+RMTI,Rockwell Medical Inc,Healthcare,54.0,Rockwell Medical
+CDTX,Cidara Therapeutics Inc,Healthcare,54.0,Cidara Therapeutics
+KZR,Kezar Life Sciences Inc,Healthcare,52.0,Kezar Life Sciences
+ABIO,ARCA biopharma Inc,Healthcare,52.0,ARCA biopharma
+EGRX,Eagle Pharmaceuticals Inc,Healthcare,51.0,Eagle Pharmaceuticals
+CASI,CASI Pharmaceuticals Inc,Healthcare,49.0,CASI Pharmaceuticals
+CTSO,Cytosorbents Corp,Healthcare,47.0,Cytosorbents
+MTNB,Matinas Biopharma Holdings Inc,Healthcare,42.0,Matinas Biopharma
+OPGN,Opgen Inc,Healthcare,42.0,Opgen
+DARE,Dare Bioscience Inc,Healthcare,41.0,Dare Bioscience
+ENOB,Enochian Biosciences Inc,Healthcare,41.0,Enochian Biosciences
+ICAD,Icad Inc,Healthcare,41.0,Icad
+CUTR,Cutera Inc,Healthcare,41.0,Cutera
+IRIX,IRIDEX Corp.,Healthcare,40.0,IRIDEX
+DRRX,Durect Corp,Healthcare,38.0,Durect
+RFL,Rafael Holdings Inc,Healthcare,37.0,Rafael
+RAD,Rite Aid Corp.,Healthcare,37.0,Rite Aid
+CARA,Cara Therapeutics Inc,Healthcare,37.0,Cara Therapeutics
+BCLI,"Brainstorm Cell Therapeutics, Inc.",Healthcare,36.0,Brainstorm Cell Therapeutics
+OCX,Oncocyte Corporation,Healthcare,36.0,Oncocyte
+CGIX,Cancer Genetics Inc.,Healthcare,36.0,Cancer Genetics
+LPCN,Lipocine Inc,Healthcare,35.0,Lipocine
+FBIO,Fortress Biotech Inc,Healthcare,35.0,Fortress Biotech
+MRKR,Marker Therapeutics Inc,Healthcare,35.0,Marker Therapeutics
+ICCC,Immucell Corp.,Healthcare,34.0,Immucell
+AXDX,Accelerate Diagnostics Inc,Healthcare,32.0,Accelerate Diagnostics
+SYRS,Syros Pharmaceuticals Inc.,Healthcare,32.0,Syros Pharmaceuticals
+PTN,Palatin Technologies Inc.,Healthcare,31.0,Palatin Technologies
+LCI,"Lannett Co., Inc.",Healthcare,30.0,Lannett
+RVP,Retractable Technologies Inc,Healthcare,28.0,Retractable Technologies
+ONCT,Oncternal Therapeutics Inc,Healthcare,28.0,Oncternal Therapeutics
+AGE,AgeX Therapeutics Inc,Healthcare,28.0,AgeX Therapeutics
+NNVC,NanoViricides Inc,Healthcare,26.0,NanoViricides
+BSGM,Biosig Technologies Inc,Healthcare,26.0,Biosig Technologies
+TXMD,TherapeuticsMD Inc,Healthcare,25.0,TherapeuticsMD
+IVC,Invacare Corp.,Healthcare,25.0,Invacare
+EYEG,AB Active ETFs Inc,Healthcare,25.0,AB Active ETFs
+SEEL,Seelos Therapeutics Inc,Healthcare,24.0,Seelos Therapeutics
+STRM,"Streamline Health Solutions, Inc",Healthcare,23.0,Streamline Health Solutions
+EKSO,Ekso Bionics Holdings Inc,Healthcare,22.0,Ekso Bionics
+CPIX,Cumberland Pharmaceuticals Inc.,Healthcare,21.0,Cumberland Pharmaceuticals
+AMS,American Shared Hospital Services,Healthcare,21.0,American Shared Hospital Services
+ONTX,Onconova Therapeutics Inc,Healthcare,21.0,Onconova Therapeutics
+IBIO,iBio Inc,Healthcare,21.0,iBio
+MEIP,MEI Pharma Inc,Healthcare,20.0,MEI Pharma

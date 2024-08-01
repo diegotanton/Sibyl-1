@@ -1,0 +1,437 @@
+Ticker,Name,Sector,Cap,NameCln
+AMZN,Amazon.com Inc.,Consumer Cyclical,1895567.0,Amazon
+TSLA,Tesla Inc,Consumer Cyclical,553841.0,Tesla
+WMT,Walmart Inc,Consumer Defensive,523572.0,Walmart
+PG,Procter & Gamble Co.,Consumer Defensive,384962.0,Procter & Gamble
+COST,Costco Wholesale Corp,Consumer Defensive,360644.0,Costco Wholesale
+HD,"Home Depot, Inc.",Consumer Cyclical,325944.0,Home Depot
+KO,Coca-Cola Co,Consumer Defensive,266318.0,Coca-Cola
+PEP,PepsiCo Inc,Consumer Defensive,238360.0,PepsiCo
+MCD,McDonald`s Corp,Consumer Cyclical,182722.0,McDonald's
+PM,Philip Morris International Inc,Consumer Defensive,155533.0,Philip Morris International
+NKE,"Nike, Inc.",Consumer Cyclical,143520.0,Nike
+BKNG,Booking Holdings Inc,Consumer Cyclical,128589.0,Booking
+LOW,"Lowe`s Cos., Inc.",Consumer Cyclical,123233.0,Lowe's
+TJX,"TJX Companies, Inc.",Consumer Cyclical,114906.0,TJX
+MDLZ,Mondelez International Inc.,Consumer Defensive,90636.0,Mondelez International
+SBUX,Starbucks Corp.,Consumer Cyclical,87762.0,Starbucks
+CMG,Chipotle Mexican Grill,Consumer Cyclical,86627.0,Chipotle
+MO,Altria Group Inc.,Consumer Defensive,78118.0,Altria Group
+CL,Colgate-Palmolive Co.,Consumer Defensive,75431.0,Colgate-Palmolive
+TGT,Target Corp,Consumer Defensive,68053.0,Target
+MAR,"Marriott International, Inc.",Consumer Cyclical,66876.0,Marriott International
+ORLY,"O`Reilly Automotive, Inc.",Consumer Cyclical,56392.0,O'Reilly Automotive
+MNST,Monster Beverage Corp.,Consumer Defensive,53805.0,Monster Beverage
+HLT,Hilton Worldwide Holdings Inc,Consumer Cyclical,50009.0,Hilton Worldwide
+GM,General Motors Company,Consumer Cyclical,49164.0,General Motors
+AZO,Autozone Inc.,Consumer Cyclical,48493.0,Autozone
+DHI,D.R. Horton Inc.,Consumer Cyclical,47042.0,DR Horton
+ROST,"Ross Stores, Inc.",Consumer Cyclical,46343.0,Ross Stores
+F,Ford Motor Co.,Consumer Cyclical,45803.0,Ford Motor
+KDP,Keurig Dr Pepper Inc,Consumer Defensive,45696.0,Keurig Dr Pepper
+EL,"Estee Lauder Cos., Inc.",Consumer Defensive,44991.0,Estee Lauder
+STZ,Constellation Brands Inc,Consumer Defensive,44925.0,Constellation Brands
+KMB,Kimberly-Clark Corp.,Consumer Defensive,43486.0,Kimberly-Clark
+LEN,Lennar Corp.,Consumer Cyclical,42700.0,Lennar
+KHC,Kraft Heinz Co,Consumer Defensive,42561.0,Kraft Heinz
+HSY,Hershey Company,Consumer Defensive,40526.0,Hershey
+RCL,Royal Caribbean Group,Consumer Cyclical,38636.0,Royal Caribbean Group
+YUM,Yum Brands Inc.,Consumer Cyclical,38263.0,Yum Brands
+GIS,"General Mills, Inc.",Consumer Defensive,37868.0,General Mills
+KR,Kroger Co.,Consumer Defensive,37751.0,Kroger
+SYY,Sysco Corp.,Consumer Defensive,36089.0,Sysco
+LULU,Lululemon Athletica inc.,Consumer Cyclical,35665.0,Lululemon Athletica
+LVS,Las Vegas Sands Corp,Consumer Cyclical,33326.0,Las Vegas Sands
+DG,Dollar General Corp.,Consumer Defensive,31252.0,Dollar General
+TSCO,Tractor Supply Co.,Consumer Cyclical,30387.0,Tractor Supply
+ADM,Archer Daniels Midland Co.,Consumer Defensive,30106.0,Archer Daniels Midland
+DECK,Deckers Outdoor Corp.,Consumer Cyclical,27456.0,Deckers Outdoor
+EBAY,EBay Inc.,Consumer Cyclical,26767.0,EBay
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,25470.0,Church & Dwight
+DLTR,Dollar Tree Inc,Consumer Defensive,24663.0,Dollar Tree
+PHM,PulteGroup Inc,Consumer Cyclical,23823.0,PulteGroup
+NVR,NVR Inc.,Consumer Cyclical,23047.0,NVR
+APTV,Aptiv PLC,Consumer Cyclical,22617.0,Aptiv
+ROL,"Rollins, Inc.",Consumer Cyclical,22352.0,Rollins
+BLL,Ball Corp.,Consumer Cyclical,22222.0,Ball
+LB,L Brands Inc,Consumer Cyclical,21958.0,L Brands
+TSN,"Tyson Foods, Inc.",Consumer Defensive,20779.0,Tyson Foods
+K,Kellanova Co,Consumer Defensive,20237.0,Kellanova
+CVNA,Carvana Co.,Consumer Cyclical,19752.0,Carvana
+GPC,Genuine Parts Co.,Consumer Cyclical,19748.0,Genuine Parts
+CELH,Celsius Holdings Inc,Consumer Defensive,19327.0,Celsius
+MKC,"McCormick & Co., Inc.",Consumer Defensive,19132.0,McCormick
+HRL,Hormel Foods Corp.,Consumer Defensive,19005.0,Hormel Foods
+WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,18284.0,Williams-Sonoma
+ULTA,Ulta Beauty Inc,Consumer Cyclical,18269.0,Ulta Beauty
+DPZ,Dominos Pizza Inc,Consumer Cyclical,17757.0,Dominos Pizza
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,17703.0,Darden Restaurants
+CCL,Carnival Corp.,Consumer Cyclical,17564.0,Carnival
+PKG,Packaging Corp Of America,Consumer Cyclical,16246.0,PackagingOf America
+CLX,Clorox Co.,Consumer Defensive,16004.0,Clorox
+TIF,Tiffany & Co.,Consumer Cyclical,15961.0,Tiffany
+BBY,Best Buy Co. Inc.,Consumer Cyclical,15696.0,Best Buy
+IP,International Paper Co.,Consumer Cyclical,15682.0,International Paper
+BG,Bunge Global SA,Consumer Defensive,15069.0,Bunge Global SA
+CAG,Conagra Brands Inc,Consumer Defensive,14213.0,Conagra Brands
+AMCR,Amcor Plc,Consumer Cyclical,14208.0,Amcor
+EXPE,Expedia Group Inc,Consumer Cyclical,13978.0,Expedia Group
+POOL,Pool Corporation,Consumer Cyclical,13708.0,Pool
+WRK,WestRock Co,Consumer Cyclical,13703.0,WestRock
+CPB,Campbell Soup Co.,Consumer Defensive,13182.0,Campbell Soup
+USFD,US Foods Holding Corp,Consumer Defensive,13065.0,US Foods
+LW,Lamb Weston Holdings Inc,Consumer Defensive,12764.0,Lamb Weston
+BURL,Burlington Stores Inc,Consumer Cyclical,12712.0,Burlington Stores
+TOL,Toll Brothers Inc.,Consumer Cyclical,12507.0,Toll Brothers
+CASY,"Casey`s General Stores, Inc.",Consumer Defensive,12487.0,Casey's General Stores
+RL,Ralph Lauren Corp,Consumer Cyclical,12285.0,Ralph Lauren
+MGM,MGM Resorts International,Consumer Cyclical,12227.0,MGM Resorts International
+FND,Floor & Decor Holdings Inc,Consumer Cyclical,12158.0,Floor & Decor
+BJ,BJ`s Wholesale Club Holdings Inc,Consumer Defensive,11572.0,BJ's Wholesale Club
+SJM,J.M. Smucker Co.,Consumer Defensive,11518.0,JM Smucker
+TXRH,Texas Roadhouse Inc,Consumer Cyclical,11495.0,Texas Roadhouse
+LKQ,LKQ Corp,Consumer Cyclical,11466.0,LKQ
+WING,Wingstop Inc,Consumer Cyclical,11415.0,Wingstop
+DKS,"Dicks Sporting Goods, Inc.",Consumer Cyclical,11354.0,Dicks Sporting Goods
+KMX,Carmax Inc,Consumer Cyclical,10883.0,Carmax
+ELF,e.l.f. Beauty Inc,Consumer Defensive,10810.0,elf Beauty
+PFGC,Performance Food Group Company,Consumer Defensive,10689.0,Performance Food Group
+TAP,Molson Coors Beverage Company,Consumer Defensive,10598.0,Molson Coors Beverage
+ALV,Autoliv Inc.,Consumer Cyclical,10506.0,Autoliv
+WYNN,Wynn Resorts Ltd.,Consumer Cyclical,10480.0,Wynn Resorts
+SCI,Service Corp. International,Consumer Cyclical,10162.0,ServiceInternational
+PAG,Penske Automotive Group Inc,Consumer Cyclical,10128.0,Penske Automotive Group
+CCK,"Crown Holdings, Inc.",Consumer Cyclical,9968.0,Crown
+ATR,Aptargroup Inc.,Consumer Cyclical,9722.0,Aptargroup
+CHDN,"Churchill Downs, Inc.",Consumer Cyclical,9628.0,Churchill Downs
+TPR,Tapestry Inc,Consumer Cyclical,9515.0,Tapestry
+CROX,Crocs Inc,Consumer Cyclical,9403.0,Crocs
+SKX,"Skechers U S A, Inc.",Consumer Cyclical,9329.0,Skechers USA
+COTY,Coty Inc,Consumer Defensive,9295.0,Coty
+MUSA,Murphy USA Inc,Consumer Cyclical,9238.0,Murphy USA
+TPX,Tempur Sealy International Inc,Consumer Cyclical,8614.0,Tempur Sealy International
+HAS,"Hasbro, Inc.",Consumer Cyclical,8597.0,Hasbro
+PPC,Pilgrim`s Pride Corp.,Consumer Defensive,8554.0,Pilgrim's Pride
+GPK,Graphic Packaging Holding Co,Consumer Cyclical,8491.0,Graphic Packaging
+ARMK,Aramark,Consumer Cyclical,8368.0,Aramark
+COKE,Coca-Cola Consolidated Inc,Consumer Defensive,8272.0,Coca-Cola Consolidated
+BWA,BorgWarner Inc,Consumer Cyclical,8188.0,BorgWarner
+GNTX,Gentex Corp.,Consumer Cyclical,7960.0,Gentex
+SFM,Sprouts Farmers Market Inc,Consumer Defensive,7932.0,Sprouts Farmers Market
+ANF,Abercrombie & Fitch Co.,Consumer Cyclical,7787.0,Abercrombie & Fitch
+INGR,Ingredion Inc,Consumer Defensive,7644.0,Ingredion
+GPS,"Gap, Inc.",Consumer Cyclical,7601.0,Gap
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,7393.0,Mohawk Industries
+FIVE,Five Below Inc,Consumer Cyclical,7332.0,Five Below
+GME,Gamestop Corporation,Consumer Cyclical,7241.0,Gamestop
+MTN,Vail Resorts Inc.,Consumer Cyclical,7236.0,Vail Resorts
+CZR,Caesars Entertainment Inc,Consumer Cyclical,7198.0,Caesars Entertainment
+ETSY,Etsy Inc,Consumer Cyclical,7141.0,Etsy
+NCLH,Norwegian Cruise Line Holdings Ltd,Consumer Cyclical,7105.0,Norwegian Cruise Line
+LEA,Lear Corp.,Consumer Cyclical,7096.0,Lear
+LAD,"Lithia Motors, Inc.",Consumer Cyclical,7070.0,Lithia Motors
+AN,Autonation Inc.,Consumer Cyclical,6835.0,Autonation
+HRB,H&R Block Inc.,Consumer Cyclical,6826.0,H&R Block
+BERY,Berry Global Group Inc,Consumer Cyclical,6776.0,Berry Global Group
+DAR,Darling Ingredients Inc,Consumer Defensive,6680.0,Darling Ingredients
+H,Hyatt Hotels Corporation,Consumer Cyclical,6677.0,Hyatt Hotels
+ALSN,Allison Transmission Holdings Inc,Consumer Cyclical,6571.0,Allison Transmission
+PVH,PVH Corp,Consumer Cyclical,6498.0,PVH
+FRPT,Freshpet Inc,Consumer Defensive,6396.0,Freshpet
+POST,Post Holdings Inc,Consumer Defensive,6370.0,Post
+MTH,Meritage Homes Corp.,Consumer Cyclical,6256.0,Meritage Homes
+BFAM,"Bright Horizons Family Solutions, Inc.",Consumer Cyclical,6148.0,Bright Horizons Family Solutions
+MAT,"Mattel, Inc.",Consumer Cyclical,6097.0,Mattel
+TMHC,Taylor Morrison Home Corp.,Consumer Cyclical,6032.0,Taylor Morrison Home
+SON,Sonoco Products Co.,Consumer Cyclical,5864.0,Sonoco Products
+W,Wayfair Inc,Consumer Cyclical,5734.0,Wayfair
+M,Macy`s Inc,Consumer Cyclical,5608.0,Macy's
+WH,Wyndham Hotels & Resorts Inc,Consumer Cyclical,5604.0,Wyndham Hotels & Resorts
+DDS,Dillard`s Inc.,Consumer Cyclical,5527.0,Dillard's
+SEE,Sealed Air Corp.,Consumer Cyclical,5414.0,Sealed Air
+CHH,"Choice Hotels International, Inc.",Consumer Cyclical,5393.0,Choice Hotels International
+PLNT,Planet Fitness Inc,Consumer Cyclical,5386.0,Planet Fitness
+BC,Brunswick Corp.,Consumer Cyclical,5273.0,Brunswick
+KBH,KB Home,Consumer Cyclical,5257.0,KB Home
+MOD,Modine Manufacturing Co.,Consumer Cyclical,5250.0,Modine Manufacturing
+LANC,Lancaster Colony Corp.,Consumer Defensive,5066.0,Lancaster Colony
+THO,"Thor Industries, Inc.",Consumer Cyclical,5035.0,Thor Industries
+SLGN,Silgan Holdings Inc.,Consumer Cyclical,4979.0,Silgan
+COLM,Columbia Sportswear Co.,Consumer Cyclical,4906.0,Columbia Sportswear
+OLLI,Ollies Bargain Outlet Holdings Inc,Consumer Defensive,4837.0,Ollies Bargain Outlet
+FLO,"Flowers Foods, Inc.",Consumer Defensive,4825.0,Flowers Foods
+VFC,VF Corp.,Consumer Cyclical,4803.0,VF
+BYD,Boyd Gaming Corp.,Consumer Cyclical,4778.0,Boyd Gaming
+WHR,Whirlpool Corp.,Consumer Cyclical,4740.0,Whirlpool
+MDC,"M.D.C. Holdings, Inc.",Consumer Cyclical,4727.0,MDC
+AEO,American Eagle Outfitters Inc.,Consumer Cyclical,4697.0,American Eagle Outfitters
+ABG,Asbury Automotive Group Inc,Consumer Cyclical,4689.0,Asbury Automotive Group
+HOG,"Harley-Davidson, Inc.",Consumer Cyclical,4678.0,Harley-Davidson
+SIG,Signet Jewelers Ltd,Consumer Cyclical,4669.0,Signet Jewelers
+PII,Polaris Inc,Consumer Cyclical,4632.0,Polaris
+RH,RH,Consumer Cyclical,4597.0,RH
+HGV,Hilton Grand Vacations Inc,Consumer Cyclical,4334.0,Hilton Grand Vacations
+LOPE,Grand Canyon Education Inc,Consumer Defensive,4307.0,Grand Canyon Education
+FIZZ,National Beverage Corp.,Consumer Defensive,4297.0,National Beverage
+GPI,"Group 1 Automotive, Inc.",Consumer Cyclical,4191.0,Group 1 Automotive
+AAP,Advance Auto Parts Inc,Consumer Cyclical,4183.0,Advance Auto Parts
+VNE,Veoneer Inc,Consumer Cyclical,4139.0,Veoneer
+SKY,Skyline Champion Corp,Consumer Cyclical,4077.0,Skyline Champion
+GOLF,Acushnet Holdings Corp,Consumer Cyclical,4007.0,Acushnet
+CPRI,Capri Holdings Ltd,Consumer Cyclical,3992.0,Capri
+KTB,Kontoor Brands Inc,Consumer Cyclical,3991.0,Kontoor Brands
+ELY,Topgolf Callaway Brands Corp,Consumer Cyclical,3941.0,Topgolf Callaway Brands
+URBN,"Urban Outfitters, Inc.",Consumer Cyclical,3893.0,Urban Outfitters
+IPAR,"Inter Parfums, Inc.",Consumer Defensive,3870.0,Inter Parfums
+SHAK,Shake Shack Inc,Consumer Cyclical,3785.0,Shake Shack
+SMPL,Simply Good Foods Co,Consumer Defensive,3696.0,Simply Good Foods
+PRMW,Primo Water Corporation,Consumer Defensive,3620.0,Primo Water
+TPH,Tri Pointe Homes Inc.,Consumer Cyclical,3594.0,Tri Pointe Homes
+WEN,Wendy`s Co,Consumer Cyclical,3539.0,Wendy's
+JWN,"Nordstrom, Inc.",Consumer Cyclical,3517.0,Nordstrom
+GT,Goodyear Tire & Rubber Co.,Consumer Cyclical,3467.0,Goodyear Tire & Rubber
+RUSHA,Rush Enterprises Inc,Consumer Cyclical,3460.0,Rush Enterprises
+MHO,MI Homes Inc.,Consumer Cyclical,3455.0,MI Homes
+BOOT,Boot Barn Holdings Inc,Consumer Cyclical,3410.0,Boot Barn
+YETI,YETI Holdings Inc,Consumer Cyclical,3354.0,YETI
+VAC,Marriott Vacations Worldwide Corp,Consumer Cyclical,3283.0,Marriott Vacations Worldwide
+NWL,Newell Brands Inc,Consumer Defensive,3201.0,Newell Brands
+SHOO,Steven Madden Ltd.,Consumer Cyclical,3192.0,Steven Madden
+JJSF,J&J Snack Foods Corp.,Consumer Defensive,3135.0,J&J Snack Foods
+LRN,Stride Inc,Consumer Defensive,3060.0,Stride
+GEF,Greif Inc,Consumer Cyclical,3048.0,Greif
+CTB,Cooper Tire & Rubber Co.,Consumer Cyclical,3040.0,Cooper Tire & Rubber
+UAA,Under Armour Inc,Consumer Cyclical,3034.0,Under Armour
+EAT,"Brinker International, Inc.",Consumer Cyclical,3020.0,Brinker International
+VC,Visteon Corp.,Consumer Cyclical,3016.0,Visteon
+KSS,Kohl`s Corp.,Consumer Cyclical,3011.0,Kohl's
+RRR,Red Rock Resorts Inc,Consumer Cyclical,2904.0,Red Rock Resorts
+CVCO,Cavco Industries Inc,Consumer Cyclical,2891.0,Cavco Industries
+DORM,Dorman Products Inc,Consumer Cyclical,2841.0,Dorman Products
+STRA,Strategic Education Inc,Consumer Defensive,2784.0,Strategic Education
+LCII,LCI Industries,Consumer Cyclical,2730.0,LCI Industries
+AIN,Albany International Corp.,Consumer Cyclical,2727.0,Albany International
+FTDR,Frontdoor Inc.,Consumer Cyclical,2721.0,Frontdoor
+CALM,"Cal-Maine Foods, Inc.",Consumer Defensive,2678.0,Cal-Maine Foods
+CCS,Century Communities Inc,Consumer Cyclical,2641.0,Century Communities
+CENT,Central Garden & Pet Co.,Consumer Defensive,2635.0,Central Garden & Pet
+SPB,Spectrum Brands Holdings Inc.,Consumer Defensive,2631.0,Spectrum Brands
+MTOR,Meritor Inc,Consumer Cyclical,2586.0,Meritor
+GHC,Graham Holdings Co.,Consumer Defensive,2575.0,Graham
+SAM,"Boston Beer Co., Inc.",Consumer Defensive,2565.0,Boston Beer
+PSMT,Pricesmart Inc.,Consumer Defensive,2548.0,Pricesmart
+ATGE,Adtalem Global Education Inc,Consumer Defensive,2487.0,Adtalem Global Education
+LAUR,Laureate Education Inc,Consumer Defensive,2476.0,Laureate Education
+HELE,Helen of Troy Ltd,Consumer Defensive,2471.0,Helen of Troy
+ADNT,Adient plc,Consumer Cyclical,2462.0,Adient
+GRBK,Green Brick Partners Inc,Consumer Cyclical,2460.0,Green Brick Partners
+HOME,At Home Group Inc,Consumer Cyclical,2426.0,At Home Group
+CRI,Carters Inc,Consumer Cyclical,2406.0,Carters
+LEVI,Levi Strauss & Co.,Consumer Cyclical,2338.0,Levi Strauss
+PENN,PENN Entertainment Inc,Consumer Cyclical,2302.0,PENN Entertainment
+TRIP,TripAdvisor Inc.,Consumer Cyclical,2267.0,TripAdvisor
+LGIH,LGI Homes Inc,Consumer Cyclical,2239.0,LGI Homes
+SIX,Six Flags Entertainment Corp,Consumer Cyclical,2217.0,Six Flags Entertainment
+FL,Foot Locker Inc,Consumer Cyclical,2175.0,Foot Locker
+DAN,Dana Inc,Consumer Cyclical,2022.0,Dana
+GTX,Garrett Motion Inc,Consumer Cyclical,2011.0,Garrett Motion
+UFPT,UFP Technologies Inc.,Consumer Cyclical,1983.0,UFP Technologies
+OI,O-I Glass Inc,Consumer Cyclical,1979.0,O-I Glass
+VSTO,Vista Outdoor Inc,Consumer Cyclical,1971.0,Vista Outdoor
+PLAY,Dave & Buster`s Entertainment Inc,Consumer Cyclical,1969.0,Dave & Buster's Entertainment
+CAKE,Cheesecake Factory Inc.,Consumer Cyclical,1932.0,Cheesecake Factory
+FOXF,Fox Factory Holding Corp,Consumer Cyclical,1859.0,Fox Factory
+THS,Treehouse Foods Inc,Consumer Defensive,1850.0,Treehouse Foods
+BKE,"Buckle, Inc.",Consumer Cyclical,1840.0,Buckle
+KAR,Openlane Inc.,Consumer Cyclical,1840.0,Openlane
+BLMN,Bloomin Brands Inc,Consumer Cyclical,1818.0,Bloomin Brands
+EPC,Edgewell Personal Care Co,Consumer Defensive,1815.0,Edgewell Personal Care
+ANDE,Andersons Inc.,Consumer Defensive,1792.0,Andersons
+BLBD,Blue Bird Corp,Consumer Cyclical,1783.0,Blue Bird
+WGO,"Winnebago Industries, Inc.",Consumer Cyclical,1744.0,Winnebago Industries
+WMK,"Weis Markets, Inc.",Consumer Defensive,1735.0,Weis Markets
+VGR,Vector Group Ltd,Consumer Defensive,1735.0,Vector Group
+HBI,Hanesbrands Inc,Consumer Cyclical,1680.0,Hanesbrands
+OXM,"Oxford Industries, Inc.",Consumer Cyclical,1675.0,Oxford Industries
+TEN,"Tenneco, Inc.",Consumer Cyclical,1669.0,Tenneco
+MGPI,"MGP Ingredients, Inc.",Consumer Defensive,1660.0,MGP Ingredients
+THRM,Gentherm Inc,Consumer Cyclical,1617.0,Gentherm
+OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,1583.0,OneSpaWorld  Limited
+CHEF,Chefs` Warehouse Inc,Consumer Defensive,1562.0,Chefs' Warehouse
+PZZA,"Papa John`s International, Inc.",Consumer Cyclical,1556.0,Papa John's International
+LZB,La-Z-Boy Inc.,Consumer Cyclical,1536.0,La-Z-Boy
+ODP,ODP Corporation (The),Consumer Cyclical,1409.0,ODP
+AMWD,American Woodmark Corp.,Consumer Cyclical,1384.0,American Woodmark
+LEG,"Leggett & Platt, Inc.",Consumer Cyclical,1383.0,Leggett & Platt
+GIII,G-III Apparel Group Ltd.,Consumer Cyclical,1335.0,G-III Apparel Group
+CAL,Caleres Inc,Consumer Cyclical,1318.0,Caleres
+CARS,Cars.com,Consumer Cyclical,1278.0,Cars.com
+GES,Guess Inc.,Consumer Cyclical,1278.0,Guess
+SAH,"Sonic Automotive, Inc.",Consumer Cyclical,1231.0,Sonic Automotive
+MCRI,"Monarch Casino & Resort, Inc.",Consumer Cyclical,1230.0,Monarch Casino & Resort
+WINA,Winmark Corporation,Consumer Cyclical,1226.0,Winmark
+TR,"Tootsie Roll Industries, Inc.",Consumer Defensive,1217.0,Tootsie Roll Industries
+CNNE,Cannae Holdings Inc,Consumer Cyclical,1188.0,Cannae
+SBH,Sally Beauty Holdings Inc,Consumer Cyclical,1186.0,Sally Beauty
+UVV,Universal Corp.,Consumer Defensive,1154.0,Universal
+PLYA,Playa Hotels & Resorts N.V.,Consumer Cyclical,1123.0,Playa Hotels & Resorts NV
+FDP,Fresh Del Monte Produce Inc,Consumer Defensive,1109.0,Fresh Del Monte Produce
+EYE,National Vision Holdings Inc,Consumer Cyclical,1108.0,National Vision
+WWW,"Wolverine World Wide, Inc.",Consumer Cyclical,1100.0,Wolverine World Wide
+HLF,Herbalife Ltd,Consumer Defensive,1082.0,Herbalife
+IMKTA,"Ingles Markets, Inc.",Consumer Defensive,1052.0,Ingles Markets
+JACK,"Jack In The Box, Inc.",Consumer Cyclical,1044.0,Jack In The Box
+CBRL,Cracker Barrel Old Country Store Inc,Consumer Cyclical,1035.0,Cracker Barrel Old Country Store
+OSTK,Beyond Inc,Consumer Cyclical,1028.0,Beyond
+HIBB,Hibbett Inc,Consumer Cyclical,1019.0,Hibbett
+SCVL,"Shoe Carnival, Inc.",Consumer Cyclical,1002.0,Shoe Carnival
+CHS,"Chico`s Fas, Inc.",Consumer Cyclical,937.0,Chico's Fas
+JBSS,"Sanfilippo (John B.) & Son, Inc",Consumer Defensive,909.0,John B Sanfilippo & Son
+CWH,Camping World Holdings Inc,Consumer Cyclical,902.0,Camping World
+TILE,Interface Inc.,Consumer Cyclical,900.0,Interface
+USNA,Usana Health Sciences Inc,Consumer Defensive,894.0,Usana Health Sciences
+BZH,Beazer Homes USA Inc.,Consumer Cyclical,880.0,Beazer Homes USA
+UTI,Universal Technical Institute Inc,Consumer Defensive,880.0,Universal Technical Institute
+AXL,American Axle & Manufacturing Holdings Inc,Consumer Cyclical,876.0,American Axle & Manufacturing
+GDEN,Golden Entertainment Inc,Consumer Cyclical,846.0,Golden Entertainment
+BJRI,BJ`s Restaurant Inc.,Consumer Cyclical,816.0,BJ's Restaurant
+HOV,"Hovnanian Enterprises, Inc.",Consumer Cyclical,775.0,Hovnanian Enterprises
+BGS,"B&G Foods, Inc",Consumer Defensive,749.0,B&G Foods
+MBUU,Malibu Boats Inc,Consumer Cyclical,743.0,Malibu Boats
+MNRO,Monro Inc,Consumer Cyclical,710.0,Monro
+UNFI,United Natural Foods Inc.,Consumer Defensive,701.0,United Natural Foods
+SPTN,SpartanNash Co,Consumer Defensive,698.0,SpartanNash
+MLR,Miller Industries Inc.,Consumer Cyclical,677.0,Miller Industries
+SMP,"Standard Motor Products, Inc.",Consumer Cyclical,669.0,Standard Motor Products
+NUS,"Nu Skin Enterprises, Inc.",Consumer Defensive,663.0,Nu Skin Enterprises
+HAIN,Hain Celestial Group Inc,Consumer Defensive,633.0,Hain Celestial Group
+HZO,"Marinemax, Inc.",Consumer Cyclical,611.0,Marinemax
+BH,Biglari Holdings Inc.,Consumer Cyclical,604.0,Biglari
+DIN,Dine Brands Global Inc,Consumer Cyclical,590.0,Dine Brands Global
+LQDT,Liquidity Services Inc,Consumer Cyclical,584.0,Liquidity Services
+PLOW,Douglas Dynamics Inc,Consumer Cyclical,582.0,Douglas Dynamics
+TPB,Turning Point Brands Inc,Consumer Defensive,576.0,Turning Point Brands
+MYE,Myers Industries Inc.,Consumer Cyclical,573.0,Myers Industries
+LEGH,Legacy Housing Corp,Consumer Cyclical,567.0,Legacy Housing
+EVRI,Everi Holdings Inc,Consumer Cyclical,563.0,Everi
+SMRT,SmartRent Inc,Consumer Cyclical,519.0,SmartRent
+NGVC,Natural Grocers by Vitamin Cottage Inc,Consumer Defensive,478.0,Natural Grocers by Vitamin Cottage
+DBI,Designer Brands Inc,Consumer Cyclical,477.0,Designer Brands
+CVGW,"Calavo Growers, Inc",Consumer Defensive,469.0,Calavo Growers
+BYND,Beyond Meat Inc,Consumer Defensive,465.0,Beyond Meat
+BBW,Build A Bear Workshop Inc,Consumer Cyclical,455.0,Build A Bear Workshop
+SRI,Stoneridge Inc.,Consumer Cyclical,453.0,Stoneridge
+AGS,PlayAGS Inc,Consumer Cyclical,453.0,PlayAGS
+FNKO,Funko Inc,Consumer Cyclical,451.0,Funko
+CHUY,Chuy`s Holdings Inc,Consumer Cyclical,450.0,Chuy's
+HVT,"Haverty Furniture Cos., Inc.",Consumer Cyclical,450.0,Haverty Furniture
+RICK,RCI Hospitality Holdings Inc,Consumer Cyclical,444.0,RCI Hospitality
+LE,"Lands` End, Inc.",Consumer Cyclical,439.0,Lands' End
+LOVE,Lovesac Company,Consumer Cyclical,436.0,Lovesac
+SENEA,Seneca Foods Corp.,Consumer Defensive,432.0,Seneca Foods
+MOV,"Movado Group, Inc.",Consumer Cyclical,426.0,Movado Group
+LIND,Lindblad Expeditions Holdings Inc,Consumer Cyclical,423.0,Lindblad Expeditions
+CSV,"Carriage Services, Inc.",Consumer Cyclical,404.0,Carriage Services
+CRMT,"Americas Car Mart, Inc.",Consumer Cyclical,390.0,Americas Car Mart
+ZUMZ,Zumiez Inc,Consumer Cyclical,384.0,Zumiez
+LINC,Lincoln Educational Services Corp,Consumer Defensive,373.0,Lincoln Educational Services
+CHGG,Chegg Inc,Consumer Defensive,371.0,Chegg
+GPX,GP Strategies Corp.,Consumer Defensive,366.0,GP Strategies
+LMNR,Limoneira Co,Consumer Defensive,366.0,Limoneira
+DENN,Denny`s Corp.,Consumer Cyclical,364.0,Denny's
+MCFT,MasterCraft Boat Holdings Inc,Consumer Cyclical,361.0,MasterCraft Boat
+MPX,Marine Products Corp,Consumer Cyclical,353.0,Marine Products
+JILL,J.Jill Inc,Consumer Cyclical,350.0,JJill
+FLWS,1-800 Flowers.com Inc.,Consumer Cyclical,347.0,1-800 Flowers.com
+SGC,Superior Group of Companies Inc..,Consumer Cyclical,329.0,Superior Group of Companies
+LOCO,El Pollo Loco Holdings Inc,Consumer Cyclical,325.0,El Pollo Loco
+VLGEA,"Village Super Market, Inc.",Consumer Defensive,325.0,Village Super Market
+JOUT,Johnson Outdoors Inc,Consumer Cyclical,318.0,Johnson Outdoors
+APEI,American Public Education Inc,Consumer Defensive,317.0,American Public Education
+QRTEA,Qurate Retail Inc,Consumer Cyclical,316.0,Qurate Retail
+GCO,Genesco Inc.,Consumer Cyclical,314.0,Genesco
+SNBR,Sleep Number Corp,Consumer Cyclical,307.0,Sleep Number
+NATR,"Nature`s Sunshine Products, Inc.",Consumer Defensive,285.0,Nature's Sunshine Products
+WEYS,"Weyco Group, Inc",Consumer Cyclical,285.0,Weyco Group
+NATH,"Nathan`s Famous, Inc.",Consumer Cyclical,281.0,Nathan's Famous
+MED,Medifast Inc,Consumer Cyclical,271.0,Medifast
+PBPB,Potbelly Corp,Consumer Cyclical,269.0,Potbelly
+RCKY,"Rocky Brands, Inc",Consumer Cyclical,265.0,Rocky Brands
+CLAR,Clarus Corp,Consumer Cyclical,265.0,Clarus
+VRA,Vera Bradley Inc,Consumer Cyclical,244.0,Vera Bradley
+LCUT,"Lifetime Brands, Inc.",Consumer Cyclical,234.0,Lifetime Brands
+CPS,Cooper-Standard Holdings Inc,Consumer Cyclical,226.0,Cooper-Standard
+LWAY,"Lifeway Foods, Inc.",Consumer Defensive,224.0,Lifeway Foods
+SFIX,Stitch Fix Inc,Consumer Cyclical,218.0,Stitch Fix
+REV,"Revlon, Inc.",Consumer Defensive,212.0,Revlon
+JAX,J. Alexanders Holdings Inc,Consumer Cyclical,211.0,J Alexanders
+DXLG,Destination XL Group Inc,Consumer Cyclical,208.0,Destination XL Group
+CTRN,Citi Trends Inc,Consumer Cyclical,203.0,Citi Trends
+ALCO,Alico Inc.,Consumer Defensive,203.0,Alico
+JAKK,Jakks Pacific Inc.,Consumer Cyclical,202.0,Jakks Pacific
+VIRC,Virco Manufacturing Corp.,Consumer Cyclical,188.0,Virco Manufacturing
+ESCA,"Escalade, Inc.",Consumer Cyclical,188.0,Escalade
+HOFT,Hooker Furnishings Corporation,Consumer Cyclical,175.0,Hooker Furnishings
+FLXS,"Flexsteel Industries, Inc.",Consumer Cyclical,175.0,Flexsteel Industries
+CVGI,Commercial Vehicle Group Inc,Consumer Cyclical,174.0,Commercial Vehicle Group
+FLL,"Full House Resorts, Inc.",Consumer Cyclical,173.0,Full House Resorts
+PLCE,Childrens Place Inc,Consumer Cyclical,169.0,Childrens Place
+STKS,ONE Group Hospitality Inc,Consumer Cyclical,168.0,ONE Group Hospitality
+NWHM,New Home Company Inc (The),Consumer Cyclical,163.0,New Home
+LAKE,"Lakeland Industries, Inc.",Consumer Cyclical,134.0,Lakeland Industries
+ACU,Acme United Corp.,Consumer Defensive,132.0,Acme United
+TLYS,Tillys Inc,Consumer Cyclical,131.0,Tillys
+SPWH,Sportsman`s Warehouse Holdings Inc,Consumer Cyclical,129.0,Sportsman's Warehouse
+BSET,Bassett Furniture Industries Inc.,Consumer Cyclical,128.0,Bassett Furniture Industries
+DLTH,Duluth Holdings Inc,Consumer Cyclical,128.0,Duluth
+UFI,"UNIFI, Inc.",Consumer Cyclical,120.0,UNIFI
+WW,WW International Inc,Consumer Cyclical,117.0,WW International
+CPHC,Canterbury Park Holding Corp,Consumer Cyclical,114.0,Canterbury Park
+KEQU,Kewaunee Scientific Corporation,Consumer Cyclical,114.0,Kewaunee Scientific
+CATO,Cato Corp.,Consumer Cyclical,112.0,Cato
+STRT,Strattec Security Corp.,Consumer Cyclical,109.0,Strattec Security
+RRGB,Red Robin Gourmet Burgers Inc,Consumer Cyclical,107.0,Red Robin Gourmet Burgers
+MPAA,Motorcar Parts of America Inc.,Consumer Cyclical,105.0,Motorcar Parts of America
+TZOO,Travelzoo,Consumer Cyclical,105.0,Travelzoo
+SUP,"Superior Industries International, Inc.",Consumer Cyclical,104.0,Superior Industries International
+BIG,Big Lots Inc,Consumer Defensive,98.0,Big Lots
+LFVN,Lifevantage Corporation,Consumer Defensive,98.0,Lifevantage
+SERV,Serve Robotics Inc,Consumer Cyclical,96.0,Serve Robotics
+BRID,Bridgford Foods Corp.,Consumer Defensive,91.0,Bridgford Foods
+RLH,Red Lion Hotels Corporation,Consumer Cyclical,89.0,Red Lion Hotels
+DIT,Amcon Distributing Company,Consumer Defensive,88.0,Amcon Distributing
+CONN,Conns Inc,Consumer Cyclical,85.0,Conns
+NDLS,Noodles & Company,Consumer Cyclical,84.0,Noodles & Company
+TUP,Tupperware Brands Corporation,Consumer Cyclical,83.0,Tupperware Brands
+CNTY,Century Casinos Inc.,Consumer Cyclical,83.0,Century Casinos
+NHTC,Natural Health Trends Corp.,Consumer Cyclical,81.0,Natural Health Trends
+LIVE,Live Ventures Inc,Consumer Cyclical,80.0,Live Ventures
+WKHS,Workhorse Group Inc,Consumer Cyclical,79.0,Workhorse Group
+VOXX,VOXX International Corp,Consumer Cyclical,75.0,VOXX International
+BGFV,Big 5 Sporting Goods Corp,Consumer Cyclical,74.0,Big 5 Sporting Goods
+FOSL,Fossil Group Inc,Consumer Cyclical,73.0,Fossil Group
+CTHR,Charles & Colvard Ltd,Consumer Cyclical,71.0,Charles & Colvard
+PRTS,CarParts.com Inc,Consumer Cyclical,66.0,CarParts.com
+DVD,Dover Motorsports Inc,Consumer Cyclical,65.0,Dover Motorsports
+FARM,Farmer Bros. Co.,Consumer Defensive,63.0,Farmer Bros
+LUB,"Luby`s, Inc.",Consumer Cyclical,55.0,Luby's
+CULP,Culp Inc.,Consumer Cyclical,55.0,Culp
+ARKR,Ark Restaurants Corp.,Consumer Cyclical,54.0,Ark Restaurants
+CRWS,"Crown Crafts, Inc.",Consumer Cyclical,54.0,Crown Crafts
+BDL,"Flanigan`s Enterprises, Inc.",Consumer Cyclical,52.0,Flanigan's Enterprises
+LL,LL Flooring Holdings Inc,Consumer Cyclical,50.0,LL Flooring
+INTG,Intergroup Corp.,Consumer Cyclical,49.0,Intergroup
+HZN,Horizon Global Corp,Consumer Cyclical,49.0,Horizon Global
+PRTY,Party City Holdco Inc,Consumer Cyclical,42.0,Party City Holdco
+UG,"United-Guardian, Inc.",Consumer Defensive,42.0,United-Guardian
+NAII,"Natural Alternatives International, Inc.",Consumer Defensive,41.0,Natural Alternatives International
+TLF,Tandy Leather Factory Inc,Consumer Cyclical,40.0,Tandy Leather Factory
+TCS,Container Store Group Inc,Consumer Cyclical,34.0,Container Store Group
+BNED,Barnes & Noble Education Inc,Consumer Cyclical,34.0,Barnes & Noble Education
+SYPR,"Sypris Solutions, Inc.",Consumer Cyclical,33.0,Sypris Solutions
+GTIM,Good Times Restaurants Inc.,Consumer Cyclical,29.0,Good Times Restaurants
+KIRK,Kirkland`s Inc,Consumer Cyclical,29.0,Kirkland's
+RAVE,Rave Restaurant Group Inc,Consumer Cyclical,28.0,Rave Restaurant Group
+TWOU,2U Inc,Consumer Defensive,25.0,2U
+VNCE,Vince Holding Corp,Consumer Cyclical,23.0,Vince
+WVVI,Willamette Valley Vineyard Inc.,Consumer Defensive,21.0,Willamette Valley Vineyard

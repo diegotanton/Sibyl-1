@@ -1,0 +1,679 @@
+Ticker,Name,Sector,Cap,NameCln
+JPM,JPMorgan Chase & Co.,Financial Services,572898.0,JPMorgan Chase
+V,Visa Inc,Financial Services,512265.0,Visa Inc
+MA,Mastercard Incorporated,Financial Services,410573.0,Mastercard
+BAC,Bank Of America Corp.,Financial Services,307497.0,Bank Of America
+WFC,Wells Fargo & Co.,Financial Services,217624.0,Wells Fargo
+AXP,American Express Co.,Financial Services,170655.0,American Express
+MS,Morgan Stanley,Financial Services,160355.0,Morgan Stanley
+GS,"Goldman Sachs Group, Inc.",Financial Services,148272.0,Goldman Sachs Group
+SPGI,S&P Global Inc,Financial Services,143220.0,S&P Global
+SCHW,Charles Schwab Corp.,Financial Services,125814.0,Charles Schwab
+PGR,Progressive Corp.,Financial Services,120174.0,Progressive
+C,Citigroup Inc,Financial Services,119120.0,Citigroup
+BLK,Blackrock Inc.,Financial Services,114632.0,Blackrock
+CB,Chubb Limited,Financial Services,106648.0,Chubb Limited
+MMC,"Marsh & McLennan Cos., Inc.",Financial Services,100501.0,Marsh & McLennan
+PLD,Prologis Inc,Real Estate,97214.0,Prologis
+KKR,KKR & Co. Inc,Financial Services,90661.0,KKR
+AMT,American Tower Corp.,Real Estate,86404.0,American Tower
+ICE,Intercontinental Exchange Inc,Financial Services,76677.0,Intercontinental Exchange
+CME,CME Group Inc,Financial Services,74997.0,CME Group
+MCO,Moody`s Corp.,Financial Services,74099.0,Moody's
+EQIX,Equinix Inc,Real Estate,72955.0,Equinix
+PYPL,PayPal Holdings Inc,Financial Services,65033.0,PayPal
+USB,U.S. Bancorp.,Financial Services,62059.0,US Bancorp
+AON,Aon plc.,Financial Services,60720.0,Aon
+PNC,PNC Financial Services Group Inc,Financial Services,60617.0,PNC Financial Services Group
+WELL,Welltower Inc.,Real Estate,60288.0,Welltower
+AJG,Arthur J. Gallagher & Co.,Financial Services,54260.0,Arthur J Gallagher
+COF,Capital One Financial Corp.,Financial Services,51943.0,Capital One Financial
+AIG,American International Group Inc,Financial Services,51341.0,American International Group
+MET,Metlife Inc,Financial Services,50476.0,Metlife
+AFL,Aflac Inc.,Financial Services,49583.0,Aflac
+TRV,Travelers Companies Inc.,Financial Services,48173.0,Travelers
+SPG,"Simon Property Group, Inc.",Real Estate,47971.0,Simon Property Group
+PSA,Public Storage.,Real Estate,47560.0,Public Storage
+DLR,Digital Realty Trust Inc,Real Estate,44918.0,Digital Realty Trust
+O,Realty Income Corp.,Real Estate,44906.0,Realty Income
+BK,Bank Of New York Mellon Corp,Financial Services,43553.0,Bank Of New York Mellon
+ALL,Allstate Corp (The),Financial Services,43459.0,Allstate
+AMP,Ameriprise Financial Inc,Financial Services,43203.0,Ameriprise Financial
+COR,Cencora Inc.,Real Estate,43123.0,Cencora
+CCI,Crown Castle Inc,Real Estate,42453.0,Crown Castle
+PRU,Prudential Financial Inc.,Financial Services,42265.0,Prudential Financial
+MSCI,MSCI Inc,Financial Services,39271.0,MSCI
+ACGL,Arch Capital Group Ltd,Financial Services,38394.0,Arch Capital Group
+NDAQ,Nasdaq Inc,Financial Services,34627.0,Nasdaq
+CSGP,"Costar Group, Inc.",Real Estate,33999.0,Costar Group
+DFS,Discover Financial Services,Financial Services,30528.0,Discover Financial Services
+EXR,Extra Space Storage Inc.,Real Estate,30141.0,Extra Space Storage
+HIG,Hartford Financial Services Group Inc.,Financial Services,29673.0,Hartford Financial Services Group
+VICI,VICI Properties Inc,Real Estate,29480.0,VICI Properties
+ARES,Ares Management Corp,Financial Services,27598.0,Ares Management
+AVB,Avalonbay Communities Inc.,Real Estate,27335.0,Avalonbay Communities
+CBRE,CBRE Group Inc,Real Estate,26620.0,CBRE Group
+TROW,T. Rowe Price Group Inc.,Financial Services,25976.0,T Rowe Price Group
+RJF,"Raymond James Financial, Inc.",Financial Services,25607.0,Raymond James Financial
+FITB,Fifth Third Bancorp,Financial Services,25091.0,Fifth Third Bancorp
+BRO,"Brown & Brown, Inc.",Financial Services,24982.0,Brown & Brown
+MTB,M & T Bank Corp,Financial Services,24831.0,M & T Bank
+EQR,Equity Residential Properties Trust,Real Estate,24534.0,Equity Residential Properties Trust
+FCNCA,"First Citizens Bancshares, Inc (NC)",Financial Services,24049.0,First Citizens Bancshares
+IRM,Iron Mountain Inc.,Real Estate,23304.0,Iron Mountain
+STT,State Street Corp.,Financial Services,22266.0,State Street
+WY,Weyerhaeuser Co.,Real Estate,21696.0,Weyerhaeuser
+LPLA,LPL Financial Holdings Inc,Financial Services,21131.0,LPL Financial
+INVH,Invitation Homes Inc,Real Estate,20869.0,Invitation Homes
+MKL,Markel Group Inc,Financial Services,20852.0,Markel Group
+ARE,Alexandria Real Estate Equities Inc.,Real Estate,20456.0,Alexandria Real Estate Equities
+SBAC,SBA Communications Corp,Real Estate,20123.0,SBA Communications
+WRB,W.R. Berkley Corp.,Financial Services,20087.0,WR Berkley
+HBAN,"Huntington Bancshares, Inc.",Financial Services,19797.0,Huntington Bancshares
+VTR,Ventas Inc,Real Estate,19097.0,Ventas
+PFG,Principal Financial Group Inc,Financial Services,19013.0,Principal Financial Group
+CBOE,Cboe Global Markets Inc.,Financial Services,18807.0,Cboe Global Markets
+DRE,Duke Realty Corp,Real Estate,18557.0,Duke Realty
+CINF,Cincinnati Financial Corp.,Financial Services,18120.0,Cincinnati Financial
+RF,Regions Financial Corp.,Financial Services,17456.0,Regions Financial
+ERIE,Erie Indemnity Co.,Financial Services,17454.0,Erie Indemnity
+SYF,Synchrony Financial,Financial Services,17355.0,Synchrony Financial
+NTRS,Northern Trust Corp.,Financial Services,16793.0,Northern Trust
+ESS,"Essex Property Trust, Inc.",Real Estate,16394.0,Essex Property Trust
+L,Loews Corp.,Financial Services,16375.0,Loews
+FDS,Factset Research Systems Inc.,Financial Services,16277.0,Factset Research Systems
+ATH,Athene Holding Ltd,Financial Services,16011.0,Athene
+CFG,Citizens Financial Group Inc,Financial Services,15771.0,Citizens Financial Group
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,15224.0,Mid-America Apartment Communities
+SUI,"Sun Communities, Inc.",Real Estate,14481.0,Sun Communities
+IBKR,Interactive Brokers Group Inc,Financial Services,13774.0,Interactive Brokers Group
+FNF,Fidelity National Financial Inc,Financial Services,13744.0,Fidelity National Financial
+RGA,"Reinsurance Group Of America, Inc.",Financial Services,13665.0,Reinsurance Group Of America
+KEY,Keycorp,Financial Services,13379.0,Keycorp
+DOC,Healthpeak Properties Inc.,Real Estate,13309.0,Healthpeak Properties
+EQH,Equitable Holdings Inc,Financial Services,13146.0,Equitable
+AMH,American Homes 4 Rent,Real Estate,13059.0,American Homes 4 Rent
+TW,Tradeweb Markets Inc,Financial Services,12846.0,Tradeweb Markets
+HST,Host Hotels & Resorts Inc,Real Estate,12811.0,Host Hotels & Resorts
+SC,Santander Consumer USA Holdings Inc,Financial Services,12734.0,Santander Consumer USA
+UDR,UDR Inc,Real Estate,12583.0,UDR
+MORN,Morningstar Inc,Financial Services,12479.0,Morningstar
+KIM,Kimco Realty Corporation,Real Estate,12289.0,Kimco Realty
+WPC,W. P. Carey Inc,Real Estate,12276.0,W P Carey
+BEN,"Franklin Resources, Inc.",Financial Services,12137.0,Franklin Resources
+RNR,RenaissanceRe Holdings Ltd,Financial Services,12108.0,RenaissanceRe
+CNA,CNA Financial Corp.,Financial Services,12084.0,CNA Financial
+GLPI,Gaming and Leisure Properties Inc,Real Estate,11976.0,Gaming and Leisure Properties
+ALLY,Ally Financial Inc,Financial Services,11588.0,Ally Financial
+VER,VEREIT Inc,Real Estate,11491.0,VEREIT
+ELS,Equity Lifestyle Properties Inc.,Real Estate,11423.0,Equity Lifestyle Properties
+Y,Alleghany Corp.,Financial Services,11407.0,Alleghany
+LSI,Life Storage Inc,Real Estate,11325.0,Life Storage
+REG,Regency Centers Corporation,Real Estate,10885.0,Regency Centers
+CPT,Camden Property Trust,Real Estate,10814.0,Camden Property Trust
+AFG,American Financial Group Inc,Financial Services,10608.0,American Financial Group
+LAMR,Lamar Advertising Co,Real Estate,10401.0,Lamar Advertising
+EWBC,"East West Bancorp, Inc.",Financial Services,10235.0,East West Bancorp
+UNM,Unum Group,Financial Services,9901.0,Unum Group
+JEF,Jefferies Financial Group Inc,Financial Services,9731.0,Jefferies Financial Group
+NLY,Annaly Capital Management Inc,Real Estate,9679.0,Annaly Capital Management
+REXR,Rexford Industrial Realty Inc,Real Estate,9519.0,Rexford Industrial Realty
+JLL,Jones Lang Lasalle Inc.,Real Estate,9346.0,Jones Lang Lasalle
+CUBE,CubeSmart,Real Estate,9343.0,CubeSmart
+ACC,American Campus Communities Inc.,Real Estate,9125.0,American Campus Communities
+BXP,"Boston Properties, Inc.",Real Estate,9124.0,Boston Properties
+STOR,Store Capital Corp,Real Estate,9105.0,Store Capital
+KNSL,Kinsale Capital Group Inc,Financial Services,8821.0,Kinsale Capital Group
+SEIC,SEI Investments Co.,Financial Services,8793.0,SEI Investments
+AIZ,Assurant Inc,Financial Services,8763.0,Assurant
+FHN,First Horizon Corporation,Financial Services,8575.0,First Horizon
+ORI,Old Republic International Corp.,Financial Services,8484.0,Old Republic International
+SF,Stifel Financial Corp.,Financial Services,8264.0,Stifel Financial
+FRT,Federal Realty Investment Trust.,Real Estate,8129.0,Federal Realty Investment Trust
+MKTX,MarketAxess Holdings Inc.,Financial Services,7820.0,MarketAxess
+EVR,Evercore Inc,Financial Services,7780.0,Evercore
+GL,Globe Life Inc,Financial Services,7747.0,Globe Life
+OHI,"Omega Healthcare Investors, Inc.",Real Estate,7690.0,Omega Healthcare Investors
+EGP,"Eastgroup Properties, Inc.",Real Estate,7678.0,Eastgroup Properties
+PRI,Primerica Inc,Financial Services,7669.0,Primerica
+WBS,Webster Financial Corp.,Financial Services,7515.0,Webster Financial
+NNN,NNN REIT Inc,Real Estate,7475.0,NNN REIT
+VOYA,Voya Financial Inc,Financial Services,7454.0,Voya Financial
+COLD,Americold Realty Trust Inc,Real Estate,7345.0,Americold Realty Trust
+CBSH,"Commerce Bancshares, Inc.",Financial Services,7097.0,Commerce Bancshares
+HLI,Houlihan Lokey Inc,Financial Services,7055.0,Houlihan Lokey
+AGNC,AGNC Investment Corp,Real Estate,6971.0,AGNC Investment
+IVZ,Invesco Ltd,Financial Services,6950.0,Invesco
+WAL,Western Alliance Bancorp,Financial Services,6945.0,Western Alliance Bancorp
+CMA,"Comerica, Inc.",Financial Services,6692.0,Comerica
+RLI,RLI Corp.,Financial Services,6556.0,RLI
+BRX,Brixmor Property Group Inc,Real Estate,6508.0,Brixmor Property Group
+CFR,Cullen Frost Bankers Inc.,Financial Services,6508.0,Cullen Frost Bankers
+BPOP,Popular Inc.,Financial Services,6403.0,Popular
+STAG,STAG Industrial Inc,Real Estate,6320.0,STAG Industrial
+ZION,Zions Bancorporation N.A,Financial Services,6278.0,Zions Ban NA
+RHP,Ryman Hospitality Properties Inc,Real Estate,6269.0,Ryman Hospitality Properties
+PNFP,Pinnacle Financial Partners Inc.,Financial Services,6092.0,Pinnacle Financial Partners
+FR,"First Industrial Realty Trust, Inc.",Real Estate,6085.0,First Industrial Realty Trust
+AXS,Axis Capital Holdings Ltd,Financial Services,6051.0,Axis Capital
+WTFC,Wintrust Financial Corp.,Financial Services,6017.0,Wintrust Financial
+QTS,Qts Realty Trust Inc,Real Estate,6000.0,Qts Realty Trust
+SRC,Spirit Realty Capital Inc,Real Estate,5980.0,Spirit Realty Capital
+ADC,Agree Realty Corp.,Real Estate,5962.0,Agree Realty
+STWD,Starwood Property Trust Inc,Real Estate,5953.0,Starwood Property Trust
+HR,Healthcare Realty Trust Inc,Real Estate,5939.0,Healthcare Realty Trust
+ESNT,Essent Group Ltd,Financial Services,5929.0,Essent Group
+PB,Prosperity Bancshares Inc.,Financial Services,5911.0,Prosperity Bancshares
+SSB,SouthState Corporation,Financial Services,5895.0,SouthState
+CACC,Credit Acceptance Corp.,Financial Services,5883.0,Credit Acceptance
+MARA,Marathon Digital Holdings Inc,Financial Services,5862.0,Marathon Digital
+BOKF,BOK Financial Corp.,Financial Services,5860.0,BOK Financial
+SIGI,Selective Insurance Group Inc.,Financial Services,5775.0,Selective Insurance Group
+OMF,OneMain Holdings Inc,Financial Services,5757.0,OneMain
+SNV,Synovus Financial Corp.,Financial Services,5720.0,Synovus Financial
+FAF,First American Financial Corp,Financial Services,5654.0,First American Financial
+OZK,Bank OZK,Financial Services,5616.0,Bank OZK
+LNC,Lincoln National Corp.,Financial Services,5480.0,Lincoln National
+MTG,MGIC Investment Corp,Financial Services,5444.0,MGIC Investment
+JHG,Janus Henderson Group plc,Financial Services,5422.0,Janus Henderson Group
+TRNO,Terreno Realty Corp,Real Estate,5415.0,Terreno Realty
+FCFS,FirstCash Holdings Inc,Financial Services,5381.0,FirstCash
+ONB,Old National Bancorp,Financial Services,5346.0,Old National Bancorp
+COOP,Mr. Cooper Group Inc,Financial Services,5334.0,Mr Cooper Group
+CIT,CIT Group Inc,Financial Services,5306.0,CIT Group
+HLNE,Hamilton Lane Inc,Financial Services,5269.0,Hamilton Lane
+PSB,"PS Business Parks, Inc.",Real Estate,5178.0,PS Business Parks
+CADE,Cadence Bank,Financial Services,5130.0,Cadence Bank
+FG,F&G Annuities & Life Inc,Financial Services,5097.0,F&G Annuities & Life
+AMG,Affiliated Managers Group Inc.,Financial Services,5096.0,Affiliated Managers Group
+STL,Sterling Bancorp.,Financial Services,5066.0,Sterling Bancorp
+FNB,F.N.B. Corp.,Financial Services,4918.0,FNB
+ESGR,Enstar Group Limited,Financial Services,4782.0,Enstar Group Limited
+HOMB,Home Bancshares Inc,Financial Services,4722.0,Home Bancshares
+THG,Hanover Insurance Group Inc,Financial Services,4694.0,Hanover Insurance Group
+EPRT,Essential Properties Realty Trust Inc,Real Estate,4623.0,Essential Properties Realty Trust
+RDN,"Radian Group, Inc.",Financial Services,4623.0,Radian Group
+KRG,Kite Realty Group Trust,Real Estate,4607.0,Kite Realty Group Trust
+SLM,SLM Corp.,Financial Services,4506.0,SLM
+AEL,American Equity Investment Life Holding Co,Financial Services,4493.0,American Equity Investment Life
+VNO,Vornado Realty Trust,Real Estate,4410.0,Vornado Realty Trust
+WTM,"White Mountains Insurance Group, Ltd.",Financial Services,4400.0,White Mountains Insurance Group
+CRVL,Corvel Corp.,Financial Services,4347.0,Corvel
+UBSI,"United Bankshares, Inc.",Financial Services,4344.0,United Bankshares
+RYN,Rayonier Inc.,Real Estate,4332.0,Rayonier
+WU,Western Union Company,Financial Services,4314.0,Western Union
+FFIN,"First Financial Bankshares, Inc.",Financial Services,4307.0,First Financial Bankshares
+GBCI,"Glacier Bancorp, Inc.",Financial Services,4226.0,Glacier Bancorp
+MAIN,Main Street Capital Corporation,Financial Services,4133.0,Main Street Capital
+AGO,Assured Guaranty Ltd,Financial Services,4094.0,Assured Guaranty
+MC,Moelis & Co,Financial Services,4069.0,Moelis
+WRI,Weingarten Realty Investors,Real Estate,4018.0,Weingarten Realty Investors
+HWC,Hancock Whitney Corp.,Financial Services,3973.0,Hancock Whitney
+HHC,Howard Hughes Corporation,Real Estate,3940.0,Howard Hughes
+COLB,"Columbia Banking System, Inc.",Financial Services,3930.0,Columbia Banking System
+UMBF,UMB Financial Corp.,Financial Services,3928.0,UMB Financial
+KRC,Kilroy Realty Corp.,Real Estate,3797.0,Kilroy Realty
+HASI,Hannon Armstrong Sustainable Infrastructure capital Inc,Real Estate,3729.0,Hannon Armstrong Sustainable Infrastructure capital
+KMPR,Kemper Corporation,Financial Services,3718.0,Kemper
+VLY,Valley National Bancorp,Financial Services,3671.0,Valley National Bancorp
+IRT,Independence Realty Trust Inc,Real Estate,3626.0,Independence Realty Trust
+LAZ,Lazard Inc.,Financial Services,3597.0,Lazard
+CTRE,CareTrust REIT Inc,Real Estate,3581.0,CareTrust REIT
+TFSL,TFS Financial Corporation,Financial Services,3579.0,TFS Financial
+IBOC,International Bancshares Corp.,Financial Services,3566.0,International Bancshares
+APLE,Apple Hospitality REIT Inc,Real Estate,3478.0,Apple Hospitality REIT
+CNS,Cohen & Steers Inc.,Financial Services,3468.0,Cohen & Steers
+CUZ,Cousins Properties Inc.,Real Estate,3447.0,Cousins Properties
+VCTR,Victory Capital Holdings Inc,Financial Services,3402.0,Victory Capital
+PCH,PotlatchDeltic Corp,Real Estate,3398.0,PotlatchDeltic
+SFBS,ServisFirst Bancshares Inc,Financial Services,3374.0,ServisFirst Bancshares
+PK,Park Hotels & Resorts Inc,Real Estate,3353.0,Park Hotels & Resorts
+SLG,SL Green Realty Corp.,Real Estate,3304.0,SL Green Realty
+SBRA,Sabra Healthcare REIT Inc,Real Estate,3303.0,Sabra Healthcare REIT
+ABCB,Ameris Bancorp,Financial Services,3281.0,Ameris Bancorp
+JOE,St. Joe Co.,Real Estate,3235.0,St Joe
+MAC,Macerich Co.,Real Estate,3178.0,Macerich
+AX,Axos Financial Inc.,Financial Services,3177.0,Axos Financial
+ASB,Associated Banc-Corp.,Financial Services,3169.0,Associated Banc-Corp
+WD,Walker & Dunlop Inc,Financial Services,3146.0,Walker & Dunlop
+MCY,Mercury General Corp.,Financial Services,3099.0,Mercury General
+APAM,Artisan Partners Asset Management Inc,Financial Services,3089.0,Artisan Partners Asset Management
+EPR,EPR Properties,Real Estate,3064.0,EPR Properties
+MPW,Medical Properties Trust Inc,Real Estate,3061.0,Medical Properties Trust
+CNO,CNO Financial Group Inc,Financial Services,3038.0,CNO Financial Group
+UCBI,United Community Banks Inc,Financial Services,3018.0,United Community Banks
+FBP,First Bancorp PR,Financial Services,3017.0,First Bancorp PR
+FULT,Fulton Financial Corp.,Financial Services,3015.0,Fulton Financial
+IIPR,Innovative Industrial Properties Inc,Real Estate,3003.0,Innovative Industrial Properties
+BXMT,Blackstone Mortgage Trust Inc,Real Estate,2982.0,Blackstone Mortgage Trust
+SKT,Tanger Inc.,Real Estate,2965.0,Tanger
+SITC,SITE Centers Corp,Real Estate,2963.0,SITE Centers
+BANF,Bancfirst Corp.,Financial Services,2896.0,Bancfirst
+CIM,Chimera Investment Corp,Real Estate,2875.0,Chimera Investment
+AUB,Atlantic Union Bankshares Corp,Financial Services,2868.0,Atlantic Union Bankshares
+RPAI,Retail Properties of America Inc,Real Estate,2825.0,Retail Properties of America
+NHI,"National Health Investors, Inc.",Real Estate,2813.0,National Health Investors
+FIBK,First Interstate BancSystem Inc.,Financial Services,2771.0,First Interstate BancSystem
+TCBI,"Texas Capital Bancshares, Inc.",Financial Services,2754.0,Texas Capital Bancshares
+GNW,Genworth Financial Inc,Financial Services,2727.0,Genworth Financial
+NYCB,New York Community Bancorp Inc.,Financial Services,2708.0,New York Community Bancorp
+NNI,Nelnet Inc,Financial Services,2705.0,Nelnet
+NSA,National Storage Affiliates Trust,Real Estate,2661.0,National Storage Affiliates Trust
+HIW,"Highwoods Properties, Inc.",Real Estate,2660.0,Highwoods Properties
+BHF,Brighthouse Financial Inc,Financial Services,2655.0,Brighthouse Financial
+TCO,"Taubman Centers, Inc.",Real Estate,2654.0,Taubman Centers
+WSFS,WSFS Financial Corp.,Financial Services,2633.0,WSFS Financial
+CATY,Cathay General Bancorp,Financial Services,2613.0,Cathay General Bancorp
+FHB,First Hawaiian INC,Financial Services,2599.0,First Hawaiian
+PJT,PJT Partners Inc,Financial Services,2589.0,PJT Partners
+DREUF,Dream Industrial Real Estate Investment Trust,Financial Services,2531.0,Dream Industrial Real Estate Investment Trust
+ABR,Arbor Realty Trust Inc.,Real Estate,2500.0,Arbor Realty Trust
+LXP,LXP Industrial Trust,Real Estate,2472.0,LXP Industrial Trust
+CBU,Community Financial System Inc.,Financial Services,2388.0,Community Financial System
+OUT,Outfront Media Inc,Real Estate,2344.0,Outfront Media
+PSEC,Prospect Capital Corp,Financial Services,2319.0,Prospect Capital
+CVBF,CVB Financial Corp.,Financial Services,2257.0,CVB Financial
+BOH,Bank of Hawaii Corp.,Financial Services,2240.0,Bank of Hawaii
+WAFD,WaFd Inc,Financial Services,2218.0,WaFd
+CXP,Columbia Property Trust Inc,Real Estate,2215.0,Columbia Property Trust
+DEI,Douglas Emmett Inc,Real Estate,2213.0,Douglas Emmett
+FCPT,Four Corners Property Trust Inc,Real Estate,2199.0,Four Corners Property Trust
+PRK,Park National Corp.,Financial Services,2180.0,Park National
+SFNC,Simmons First National Corp.,Financial Services,2160.0,Simmons First National
+BANC,Banc of California Inc,Financial Services,2153.0,Banc of California
+INDB,Independent Bank Corp.,Financial Services,2137.0,Independent Bank
+FFBC,First Financial Bancorp,Financial Services,2123.0,First Financial Bancorp
+BKU,BankUnited Inc,Financial Services,2121.0,BankUnited
+PPBI,"Pacific Premier Bancorp, Inc.",Financial Services,2104.0,Pacific Premier Bancorp
+SHO,Sunstone Hotel Investors Inc,Real Estate,2084.0,Sunstone Hotel Investors
+EQC,Equity Commonwealth,Real Estate,2059.0,Equity Commonwealth
+VIRT,Virtu Financial Inc,Financial Services,2046.0,Virtu Financial
+HTH,Hilltop Holdings Inc,Financial Services,2027.0,Hilltop
+UE,Urban Edge Properties,Real Estate,2019.0,Urban Edge Properties
+FBC,"Flagstar Bancorp, Inc.",Financial Services,2002.0,Flagstar Bancorp
+SBCF,Seacoast Banking Corp. Of Florida,Financial Services,1953.0,Seacoast BankingOf Florida
+FRME,First Merchants Corp.,Financial Services,1930.0,First Merchants
+IBTX,Independent Bank Group Inc,Financial Services,1927.0,Independent Bank Group
+GEO,"Geo Group, Inc.",Real Estate,1895.0,Geo Group
+HTLF,"Heartland Financial USA, Inc.",Financial Services,1832.0,Heartland Financial USA
+MNR,Mach Natural Resources LP,Real Estate,1825.0,Mach Natural Resources LP
+TRMK,Trustmark Corp.,Financial Services,1793.0,Trustmark
+DFIN,Donnelley Financial Solutions Inc,Financial Services,1783.0,Donnelley Financial Solutions
+DRH,Diamondrock Hospitality Co.,Real Estate,1775.0,Diamondrock Hospitality
+AGM,Federal Agricultural Mortgage Corp.,Financial Services,1773.0,Federal Agricultural Mortgage
+STC,Stewart Information Services Corp.,Financial Services,1773.0,Stewart Information Services
+MBIN,Merchants Bancorp,Financial Services,1758.0,Merchants Bancorp
+EXPI,eXp World Holdings Inc,Real Estate,1742.0,eXp World
+FBK,FB Financial Corp,Financial Services,1731.0,FB Financial
+NBTB,NBT Bancorp. Inc.,Financial Services,1723.0,NBT Bancorp
+OFG,OFG Bancorp,Financial Services,1720.0,OFG Bancorp
+TBBK,Bancorp Inc. (The),Financial Services,1714.0,Bancorp
+GWB,Great Western Bancorp Inc,Financial Services,1705.0,Great Western Bancorp
+ENVA,Enova International Inc.,Financial Services,1702.0,Enova International
+FOR,Forestar Group Inc,Real Estate,1694.0,Forestar Group
+AKR,Acadia Realty Trust,Real Estate,1688.0,Acadia Realty Trust
+CXW,CoreCivic Inc,Real Estate,1688.0,CoreCivic
+NWLI,National Western Life Group Inc,Financial Services,1680.0,National Western Life Group
+PEB,Pebblebrook Hotel Trust,Real Estate,1674.0,Pebblebrook Hotel Trust
+RNST,Renasant Corp.,Financial Services,1674.0,Renasant
+GNL,Global Net Lease Inc,Real Estate,1668.0,Global Net Lease
+NAVI,Navient Corp,Financial Services,1660.0,Navient
+GSHD,Goosehead Insurance Inc,Financial Services,1644.0,Goosehead Insurance
+VRTS,Virtus Investment Partners Inc,Financial Services,1629.0,Virtus Investment Partners
+WSBC,"Wesbanco, Inc.",Financial Services,1617.0,Wesbanco
+APTS,Preferred Apartment Communities Inc,Real Estate,1611.0,Preferred Apartment Communities
+BANR,Banner Corp.,Financial Services,1585.0,Banner
+LKFN,Lakeland Financial Corp.,Financial Services,1556.0,Lakeland Financial
+RLJ,RLJ Lodging Trust,Real Estate,1553.0,RLJ Lodging Trust
+CLBK,"Columbia Financial, Inc",Financial Services,1550.0,Columbia Financial
+WDR,"Waddell & Reed Financial, Inc.",Financial Services,1549.0,Waddell & Reed Financial
+NMRK,Newmark Group Inc,Real Estate,1542.0,Newmark Group
+ROIC,Retail Opportunity Investments Corp,Real Estate,1537.0,Retail Opportunity Investments
+LOB,Live Oak Bancshares Inc,Financial Services,1510.0,Live Oak Bancshares
+BGCP,BGC Partners Inc,Financial Services,1499.0,BGC Partners
+CHCO,City Holding Co.,Financial Services,1497.0,City
+FFG,"FBL Financial Group, Inc.",Financial Services,1487.0,FBL Financial Group
+LTC,"LTC Properties, Inc.",Real Estate,1480.0,LTC Properties
+ESRT,Empire State Realty Trust Inc,Real Estate,1471.0,Empire State Realty Trust
+GTY,Getty Realty Corp.,Real Estate,1454.0,Getty Realty
+XHR,Xenia Hotels & Resorts Inc,Real Estate,1445.0,Xenia Hotels & Resorts
+EFSC,Enterprise Financial Services Corp.,Financial Services,1433.0,Enterprise Financial Services
+ARI,Apollo Commercial Real Estate Finance Inc,Real Estate,1420.0,Apollo Commercial Real Estate Finance
+CUBI,Customers Bancorp Inc,Financial Services,1416.0,Customers Bancorp
+LADR,Ladder Capital Corp,Real Estate,1402.0,Ladder Capital
+NBHC,National Bank Holdings Corp,Financial Services,1400.0,National Bank
+KW,Kennedy-Wilson Holdings Inc,Real Estate,1399.0,Kennedy-Wilson
+RC,Ready Capital Corp,Real Estate,1398.0,Ready Capital
+HMN,Horace Mann Educators Corp.,Financial Services,1398.0,Horace Mann Educators
+NWBI,Northwest Bancshares Inc,Financial Services,1396.0,Northwest Bancshares
+TOWN,Townebank Portsmouth VA,Financial Services,1384.0,Townebank Portsmouth VA
+FCF,First Commonwealth Financial Corp.,Financial Services,1376.0,First Commonwealth Financial
+SAFE,Safehold Inc.,Real Estate,1353.0,Safehold
+CASH,Pathward Financial Inc,Financial Services,1346.0,Pathward Financial
+SYBT,Stock Yards Bancorp Inc,Financial Services,1343.0,Stock Yards Bancorp
+BCOR,Blucora Inc,Financial Services,1309.0,Blucora
+TWO,Two Harbors Investment Corp,Real Estate,1301.0,Two Harbors Investment
+FBNC,First Bancorp,Financial Services,1296.0,First Bancorp
+JBGS,JBG SMITH Properties,Real Estate,1285.0,JBG SMITH Properties
+BUSE,First Busey Corp.,Financial Services,1282.0,First Busey
+WABC,Westamerica Bancorporation,Financial Services,1277.0,Westamerica Ban
+AAT,American Assets Trust Inc,Real Estate,1273.0,American Assets Trust
+MMI,Marcus & Millichap Inc,Real Estate,1258.0,Marcus & Millichap
+HOPE,Hope Bancorp Inc,Financial Services,1247.0,Hope Bancorp
+SRCE,1st Source Corp.,Financial Services,1247.0,1st Source
+TCBK,Trico Bancshares,Financial Services,1246.0,Trico Bancshares
+STBA,"S & T Bancorp, Inc.",Financial Services,1235.0,S & T Bancorp
+DEA,Easterly Government Properties Inc,Real Estate,1191.0,Easterly Government Properties
+ALEX,Alexander & Baldwin Inc.,Real Estate,1185.0,Alexander & Baldwin
+PMT,Pennymac Mortgage Investment Trust,Real Estate,1180.0,Pennymac Mortgage Investment Trust
+TRUP,Trupanion Inc,Financial Services,1173.0,Trupanion
+AIV,Apartment Investment & Management Co.,Real Estate,1153.0,Apartment Investment & Management
+SAFT,"Safety Insurance Group, Inc.",Financial Services,1141.0,Safety Insurance Group
+RPT,RPT Realty,Real Estate,1112.0,RPT Realty
+VBTX,Veritex Holdings Inc,Financial Services,1108.0,Veritex
+PFS,Provident Financial Services Inc,Financial Services,1107.0,Provident Financial Services
+MFA,MFA Financial Inc,Real Estate,1078.0,MFA Financial
+ALX,Alexander`s Inc.,Real Estate,1068.0,Alexander's
+UMH,UMH Properties Inc,Real Estate,1062.0,UMH Properties
+ARGO,Argo Group International Holdings Ltd,Financial Services,1056.0,Argo Group International
+ECPG,"Encore Capital Group, Inc.",Financial Services,1050.0,Encore Capital Group
+HCI,HCI Group Inc,Financial Services,1040.0,HCI Group
+EIG,Employers Holdings Inc,Financial Services,1036.0,Employers
+PEBO,"Peoples Bancorp, Inc. (Marietta, OH)",Financial Services,1031.0,Peoples Bancorp
+EFC,Ellington Financial Inc,Financial Services,1022.0,Ellington Financial
+BY,Byline Bancorp Inc,Financial Services,1021.0,Byline Bancorp
+SASR,Sandy Spring Bancorp,Financial Services,1005.0,Sandy Spring Bancorp
+LC,LendingClub Corp,Financial Services,1001.0,LendingClub
+PFBC,"Preferred Bank (Los Angeles, CA)",Financial Services,996.0,Preferred Bank
+NCBS,Nicolet Bankshares Inc.,Financial Services,995.0,Nicolet Bankshares
+PGRE,Paramount Group Inc,Real Estate,963.0,Paramount Group
+QCRH,"QCR Holding, Inc.",Financial Services,961.0,QCR
+BHLB,Berkshire Hills Bancorp Inc.,Financial Services,954.0,Berkshire Hills Bancorp
+GABC,German American Bancorp Inc,Financial Services,952.0,German American Bancorp
+CPLG,CorePoint Lodging Inc,Real Estate,933.0,CorePoint Lodging
+NXRT,NexPoint Residential Trust Inc,Real Estate,931.0,NexPoint Residential Trust
+ARR,ARMOUR Residential REIT Inc,Real Estate,926.0,ARMOUR Residential REIT
+PLYM,Plymouth Industrial Reit Inc,Real Estate,919.0,Plymouth Industrial Reit
+OBNK,Origin Bancorp Inc,Financial Services,906.0,Origin Bancorp
+AMRK,A-Mark Precious Metals Inc,Financial Services,902.0,A-Mark Precious Metals
+RBCAA,"Republic Bancorp, Inc. (KY)",Financial Services,893.0,Republic Bancorp
+OCFC,OceanFirst Financial Corp.,Financial Services,870.0,OceanFirst Financial
+PRAA,PRA Group Inc,Financial Services,869.0,PRA Group
+RILY,B. Riley Financial Inc,Financial Services,863.0,B Riley Financial
+BFS,"Saul Centers, Inc.",Real Estate,862.0,Saul Centers
+PDM,Piedmont Office Realty Trust Inc,Real Estate,861.0,Piedmont Office Realty Trust
+IHC,Independence Holding Co.,Financial Services,841.0,Independence
+AMSF,Amerisafe Inc,Financial Services,841.0,Amerisafe
+UBA,"Urstadt Biddle Properties, Inc.",Real Estate,832.0,Urstadt Biddle Properties
+RWT,Redwood Trust Inc.,Real Estate,831.0,Redwood Trust
+BRG,Bluerock Residential Growth REIT Inc,Real Estate,811.0,Bluerock Residential Growth REIT
+SBSI,Southside Bancshares Inc,Financial Services,798.0,Southside Bancshares
+BDN,Brandywine Realty Trust,Real Estate,786.0,Brandywine Realty Trust
+AMBC,AMBAC Financial Group Inc.,Financial Services,779.0,AMBAC Financial Group
+DX,"Dynex Capital, Inc.",Real Estate,779.0,Dynex Capital
+FBMS,First Bancshares Inc Miss,Financial Services,778.0,First BancsharesMiss
+AMAL,Amalgamated Financial Corp,Financial Services,768.0,Amalgamated Financial
+BRKL,"Brookline Bancorp, Inc.",Financial Services,766.0,Brookline Bancorp
+CTBI,"Community Trust Bancorp, Inc.",Financial Services,757.0,Community Trust Bancorp
+AHH,Armada Hoffler Properties Inc,Real Estate,754.0,Armada Hoffler Properties
+FMBH,First Mid Bancshares Inc.,Financial Services,752.0,First Mid Bancshares
+PRA,Proassurance Corporation,Financial Services,750.0,Proassurance
+PFLT,PennantPark Floating Rate Capital Ltd,Financial Services,750.0,PennantPark Floating Rate Capital
+UNIT,Uniti Group Inc,Real Estate,747.0,Uniti Group
+SNR,New Senior Investment Group Inc,Real Estate,741.0,New Senior Investment Group
+CNOB,ConnectOne Bancorp Inc.,Financial Services,739.0,ConnectOne Bancorp
+WRLD,World Acceptance Corp.,Financial Services,738.0,World Acceptance
+RDFN,Redfin Corp,Real Estate,735.0,Redfin
+DCOM,Dime Community Bancshares Inc,Financial Services,726.0,Dime Community Bancshares
+CFFN,Capitol Federal Financial,Financial Services,690.0,Capitol Federal Financial
+CBL,"CBL& Associates Properties, Inc.",Real Estate,681.0,CBL& Associates Properties
+TMP,Tompkins Financial Corp,Financial Services,664.0,Tompkins Financial
+STAR,iStar Inc,Real Estate,663.0,iStar
+KREF,KKR Real Estate Finance Trust Inc,Real Estate,654.0,KKR Real Estate Finance Trust
+INN,Summit Hotel Properties Inc,Real Estate,651.0,Summit Hotel Properties
+WSR,Whitestone REIT,Real Estate,648.0,Whitestone REIT
+TRTX,TPG RE Finance Trust Inc,Real Estate,644.0,TPG RE Finance Trust
+UVSP,Univest Financial Corp,Financial Services,639.0,Univest Financial
+OSBC,Old Second Bancorporation Inc.,Financial Services,639.0,Old Second Ban
+TIPT,Tiptree Inc,Financial Services,637.0,Tiptree
+BRMK,Broadmark Realty Capital Inc,Real Estate,635.0,Broadmark Realty Capital
+HPP,Hudson Pacific Properties Inc,Real Estate,634.0,Hudson Pacific Properties
+FRC,First Republic Bank,Financial Services,631.0,First Republic Bank
+CMO,Capstead Mortgage Corp.,Real Estate,630.0,Capstead Mortgage
+HFWA,Heritage Financial Corp.,Financial Services,624.0,Heritage Financial
+FCBC,First Community Bankshares Inc.,Financial Services,624.0,First Community Bankshares
+CHCT,Community Healthcare Trust Inc,Real Estate,621.0,Community Healthcare Trust
+TREE,LendingTree Inc.,Financial Services,614.0,LendingTree
+MBWM,Mercantile Bank Corp.,Financial Services,610.0,Mercantile Bank
+GSBC,"Great Southern Bancorp, Inc.",Financial Services,599.0,Great Southern Bancorp
+GMRE,Global Medical REIT Inc,Real Estate,597.0,Global Medical REIT
+FRPH,FRP Holdings Inc,Real Estate,589.0,FRP
+UFCS,United Fire Group Inc,Financial Services,578.0,United Fire Group
+GOOD,Gladstone Commercial Corp,Real Estate,563.0,Gladstone Commercial
+UVE,Universal Insurance Holdings Inc,Financial Services,554.0,Universal Insurance
+CPF,Central Pacific Financial Corp.,Financial Services,554.0,Central Pacific Financial
+GCBC,Greene County Bancorp Inc,Financial Services,547.0,Greene County Bancorp
+EGBN,Eagle Bancorp Inc (MD),Financial Services,539.0,Eagle Bancorp
+NYMT,New York Mortgage Trust Inc,Real Estate,538.0,New York Mortgage Trust
+BFST,Business First Bancshares Inc.,Financial Services,536.0,Business First Bancshares
+GDOT,Green Dot Corp.,Financial Services,534.0,Green Dot
+EZPW,"EZCorp, Inc.",Financial Services,532.0,EZCorp
+TRST,Trustco Bank Corp.,Financial Services,530.0,Trustco Bank
+HBNC,Horizon Bancorp Inc (IN),Financial Services,530.0,Horizon Bancorp
+FPI,Farmland Partners Inc,Real Estate,525.0,Farmland Partners
+IBCP,"Independent Bank Corporation (Ionia, MI)",Financial Services,524.0,Independent Bank
+NBN,Northeast Bank,Financial Services,523.0,Northeast Bank
+CATC,Cambridge Bancorp,Financial Services,518.0,Cambridge Bancorp
+UHT,Universal Health Realty Income Trust,Real Estate,516.0,Universal Health Realty Income Trust
+CTT,CatchMark Timber Trust Inc,Real Estate,511.0,CatchMark Timber Trust
+EQBK,Equity Bancshares Inc,Financial Services,511.0,Equity Bancshares
+GAIN,Gladstone Investment Corporation,Financial Services,509.0,Gladstone Investment
+HTBK,Heritage Commerce Corp.,Financial Services,499.0,Heritage Commerce
+MSBI,Midland States Bancorp Inc,Financial Services,492.0,Midland States Bancorp
+OLP,"One Liberty Properties, Inc.",Real Estate,489.0,One Liberty Properties
+GLAD,Gladstone Capital Corp.,Financial Services,484.0,Gladstone Capital
+MCBC,Macatawa Bank Corp.,Financial Services,483.0,Macatawa Bank
+BDGE,"Bridge Bancorp, Inc.",Financial Services,483.0,Bridge Bancorp
+HTBI,HomeTrust Bancshares Inc,Financial Services,482.0,HomeTrust Bancshares
+MCB,Metropolitan Bank Holding Corp,Financial Services,481.0,Metropolitan Bank
+LAND,Gladstone Land Corp,Real Estate,478.0,Gladstone Land
+SMBC,"Southern Missouri Bancorp, Inc.",Financial Services,478.0,Southern Missouri Bancorp
+CAC,Camden National Corp.,Financial Services,470.0,Camden National
+HAFC,Hanmi Financial Corp.,Financial Services,469.0,Hanmi Financial
+GLRE,Greenlight Capital Re Ltd,Financial Services,468.0,Greenlight Capital Re
+OPY,Oppenheimer Holdings Inc,Financial Services,467.0,Oppenheimer
+FMNB,Farmers National Banc Corp.,Financial Services,466.0,Farmers National Banc
+CCBG,"Capital City Bank Group, Inc.",Financial Services,458.0,Capital City Bank Group
+HONE,HarborOne Bancorp Inc.,Financial Services,455.0,HarborOne Bancorp
+ORC,Orchid Island Capital Inc,Real Estate,452.0,Orchid Island Capital
+IVR,Invesco Mortgage Capital Inc,Real Estate,451.0,Invesco Mortgage Capital
+WASH,"Washington Trust Bancorp, Inc.",Financial Services,444.0,Washington Trust Bancorp
+THFF,First Financial Corp. - Indiana,Financial Services,438.0,First Financial- Indiana
+DGICA,Donegal Group Inc.,Financial Services,430.0,Donegal Group
+AROW,Arrow Financial Corp.,Financial Services,426.0,Arrow Financial
+MLP,"Maui Land & Pineapple Co., Inc.",Real Estate,417.0,Maui Land & Pineapple
+CLDT,Chatham Lodging Trust,Real Estate,416.0,Chatham Lodging Trust
+DHIL,"Diamond Hill Investment Group, Inc.",Financial Services,415.0,Diamond Hill Investment Group
+CCNE,CNB Financial Corp (PA),Financial Services,412.0,CNB Financial
+VALU,"Value Line, Inc.",Financial Services,407.0,Value Line
+HRZN,Horizon Technology Finance Corp,Financial Services,404.0,Horizon Technology Finance
+HT,Hersha Hospitality Trust,Real Estate,403.0,Hersha Hospitality Trust
+CTO,CTO Realty Growth Inc,Real Estate,401.0,CTO Realty Growth
+ATLC,Atlanticus Holdings Corp,Financial Services,398.0,Atlanticus
+NFBK,Northfield Bancorp Inc,Financial Services,397.0,Northfield Bancorp
+CDR,Cedar Realty Trust Inc,Real Estate,396.0,Cedar Realty Trust
+SMBK,SmartFinancial Inc,Financial Services,392.0,SmartFinancial
+BHB,Bar Harbor Bankshares Inc,Financial Services,390.0,Bar Harbor Bankshares
+ESQ,Esquire Financial Holdings Inc,Financial Services,387.0,Esquire Financial
+PGC,Peapack-Gladstone Financial Corp.,Financial Services,385.0,Peapack-Gladstone Financial
+FFIC,Flushing Financial Corp.,Financial Services,375.0,Flushing Financial
+SHBI,Shore Bancshares Inc.,Financial Services,371.0,Shore Bancshares
+RMR,RMR Group Inc (The),Real Estate,363.0,RMR Group
+KRNY,Kearny Financial Corp.,Financial Services,361.0,Kearny Financial
+MPB,"Mid Penn Bancorp, Inc.",Financial Services,361.0,Mid Penn Bancorp
+HIFS,Hingham Institution For Savings,Financial Services,359.0,Hingham Institution For Savings
+ACRE,Ares Commercial Real Estate Corp,Real Estate,356.0,Ares Commercial Real Estate
+RBB,RBB Bancorp,Financial Services,344.0,RBB Bancorp
+UIHC,American Coastal Insurance Corp,Financial Services,343.0,American Coastal Insurance
+MOFG,MidWestOne Financial Group Inc,Financial Services,341.0,MidWestOne Financial Group
+FFWM,First Foundation Inc,Financial Services,329.0,First Foundation
+GNTY,"Guaranty Bancshares, Inc. (TX)",Financial Services,327.0,Guaranty Bancshares
+CWBC,Community West Bancshares.,Financial Services,319.0,Community West Bancshares
+BRT,BRT Apartments Corp,Real Estate,318.0,BRT Apartments
+BWB,Bridgewater Bancshares Inc,Financial Services,318.0,Bridgewater Bancshares
+NODK,NI Holdings Inc,Financial Services,315.0,NI
+GBLI,Global Indemnity Group LLC,Financial Services,313.0,Global Indemnity Group
+EBTC,"Enterprise Bancorp, Inc.",Financial Services,312.0,Enterprise Bancorp
+ITIC,Investors Title Co.,Financial Services,309.0,Investors Title
+BSRR,Sierra Bancorp,Financial Services,308.0,Sierra Bancorp
+SRG,Seritage Growth Properties,Real Estate,303.0,Seritage Growth Properties
+NRIM,"Northrim Bancorp, Inc.",Financial Services,302.0,Northrim Bancorp
+FMAO,Farmers & Merchants Bancorp Inc.,Financial Services,301.0,Farmers & Merchants Bancorp
+HBCP,Home Bancorp Inc,Financial Services,296.0,Home Bancorp
+ANH,Anworth Mortgage Asset Corp.,Real Estate,296.0,Anworth Mortgage Asset
+CARE,Carter Bankshares Inc,Financial Services,292.0,Carter Bankshares
+WTBA,West Bancorporation,Financial Services,290.0,West Ban
+MBI,MBIA Inc.,Financial Services,288.0,MBIA
+FBIZ,First Business Financial Services Inc,Financial Services,283.0,First Business Financial Services
+ORRF,"Orrstown Financial Services, Inc.",Financial Services,283.0,Orrstown Financial Services
+PFIS,Peoples Financial Services Corp,Financial Services,283.0,Peoples Financial Services
+GHL,Greenhill & Co Inc,Financial Services,282.0,Greenhill
+JRVR,James River Group Holdings Ltd,Financial Services,278.0,James River Group
+UNTY,"Unity Bancorp, Inc.",Financial Services,275.0,Unity Bancorp
+ACNB,ACNB Corp.,Financial Services,275.0,ACNB
+FISI,Financial Institutions Inc.,Financial Services,274.0,Financial Institutions
+RM,Regional Management Corp,Financial Services,272.0,Regional Management
+FNLC,First Bancorp Inc (ME),Financial Services,270.0,First Bancorp
+CZNC,Citizens & Northern Corp,Financial Services,269.0,Citizens & Northern
+FDBC,"Fidelity D&D Bancorp, Inc.",Financial Services,265.0,Fidelity D&D Bancorp
+SBT,Sterling Bancorp Inc,Financial Services,259.0,Sterling Bancorp
+FSBW,FS Bancorp Inc,Financial Services,254.0,FS Bancorp
+INBK,First Internet Bancorp,Financial Services,253.0,First Internet Bancorp
+BMRC,Bank of Marin Bancorp,Financial Services,249.0,Bank of Marin Bancorp
+MN,Manning & Napier Inc,Financial Services,246.0,Manning & Napier
+ILPT,Industrial Logistics Properties Trust,Real Estate,245.0,Industrial Logistics Properties Trust
+HRTG,Heritage Insurance Holdings Inc.,Financial Services,241.0,Heritage Insurance
+WSBF,Waterstone Financial Inc,Financial Services,241.0,Waterstone Financial
+TCI,"Transcontinental Realty Investors, Inc.",Real Estate,240.0,Transcontinental Realty Investors
+FRBA,First Bank (NJ),Financial Services,239.0,First Bank
+SBNY,Signature Bank,Financial Services,238.0,Signature Bank
+MVBF,MVB Financial Corp.,Financial Services,233.0,MVB Financial
+SFST,Southern First Bancshares Inc,Financial Services,226.0,Southern First Bancshares
+CIVB,Civista Bancshares Inc,Financial Services,226.0,Civista Bancshares
+FLIC,First Of Long Island Corp.,Financial Services,223.0,First Of Long Island
+ARL,American Realty Investors Inc.,Real Estate,216.0,American Realty Investors
+PDLB,Ponce Financial Group Inc,Financial Services,216.0,Ponce Financial Group
+CVLY,"Codorus Valley Bancorp, Inc.",Financial Services,215.0,Codorus Valley Bancorp
+TSBK,"Timberland Bancorp, Inc.",Financial Services,209.0,Timberland Bancorp
+CBAN,"Colony Bankcorp, Inc.",Financial Services,208.0,Colony Bankcorp
+CHMG,Chemung Financial Corp.,Financial Services,207.0,Chemung Financial
+PLBC,Plumas Bancorp.,Financial Services,206.0,Plumas Bancorp
+NWFL,Norwood Financial Corp.,Financial Services,202.0,Norwood Financial
+MHLD,Maiden Holdings Ltd,Financial Services,201.0,Maiden
+OVLY,Oak Valley Bancorp,Financial Services,201.0,Oak Valley Bancorp
+FSP,Franklin Street Properties Corp.,Real Estate,198.0,Franklin Street Properties
+MITT,AG Mortgage Investment Trust Inc,Real Estate,197.0,AG Mortgage Investment Trust
+PKBK,Parke Bancorp Inc,Financial Services,196.0,Parke Bancorp
+LCNB,LCNB Corp,Financial Services,196.0,LCNB
+OCN,Ocwen Financial Corp.,Financial Services,196.0,Ocwen Financial
+FFNW,First Financial Northwest Inc,Financial Services,193.0,First Financial Northwest
+BPRN,Princeton Bancorp Inc,Financial Services,193.0,Princeton Bancorp
+BWFG,Bankwell Financial Group Inc,Financial Services,193.0,Bankwell Financial Group
+CIO,City Office REIT Inc,Real Estate,192.0,City Office REIT
+STRS,Stratus Properties Inc.,Real Estate,188.0,Stratus Properties
+BHR,Braemar Hotels & Resorts Inc,Real Estate,183.0,Braemar Hotels & Resorts
+OXSQ,Oxford Square Capital Corp,Financial Services,182.0,Oxford Square Capital
+ATLO,Ames National Corp.,Financial Services,180.0,Ames National
+ESSA,ESSA Bancorp Inc,Financial Services,177.0,ESSA Bancorp
+MBCN,Middlefield Banc Corp.,Financial Services,177.0,Middlefield Banc
+NKSH,National Bankshares Inc.,Financial Services,176.0,National Bankshares
+BCBP,BCB Bancorp Inc (NJ),Financial Services,172.0,BCB Bancorp
+HMST,HomeStreet Inc,Financial Services,171.0,HomeStreet
+EHTH,eHealth Inc,Financial Services,170.0,eHealth
+CPSS,"Consumer Portfolio Service, Inc.",Financial Services,167.0,Consumer Portfolio Service
+PVBC,Provident Bancorp Inc,Financial Services,166.0,Provident Bancorp
+PZN,Pzena Investment Management Inc,Financial Services,162.0,Pzena Investment Management
+RMAX,RE/MAX Holdings Inc,Real Estate,160.0,RE/MAX
+PEBK,Peoples Bancorp Of North Carolina Inc,Financial Services,158.0,Peoples Bancorp Of North Carolina
+ISTR,Investar Holding Corp,Financial Services,156.0,Investar
+SNFCA,Security National Financial Corp.,Financial Services,151.0,Security National Financial
+GPMT,Granite Point Mortgage Trust Inc,Real Estate,150.0,Granite Point Mortgage Trust
+CFFI,C & F Financial Corp,Financial Services,150.0,C & F Financial
+PWOD,"Penns Woods Bancorp, Inc.",Financial Services,148.0,Penns Woods Bancorp
+WNEB,Western New England Bancorp Inc,Financial Services,146.0,Western New England Bancorp
+EVBN,Evans Bancorp Inc,Financial Services,145.0,Evans Bancorp
+EARN,Ellington Credit Co.,Real Estate,143.0,Ellington Credit
+CIA,"Citizens, Inc.",Financial Services,142.0,Citizens
+SAMG,Silvercrest Asset Management Group Inc,Financial Services,142.0,Silvercrest Asset Management Group
+WHLR,Wheeler Real Estate Investment Trust Inc,Real Estate,140.0,Wheeler Real Estate Investment Trust
+SACH,Sachem Capital Corp,Real Estate,137.0,Sachem Capital
+HWBK,Hawthorn Bancshares Inc,Financial Services,133.0,Hawthorn Bancshares
+FUNC,First United Corporation,Financial Services,133.0,First United
+FGBI,First Guaranty Bancshares Inc,Financial Services,132.0,First Guaranty Bancshares
+FCCO,First Community Corp.,Financial Services,129.0,First Community
+MNSB,MainStreet Bancshares Inc,Financial Services,128.0,MainStreet Bancshares
+BFIN,Bankfinancial Corp,Financial Services,126.0,Bankfinancial
+UBFO,United Security Bancshares (CA),Financial Services,126.0,United Security Bancshares
+AJX,Great Ajax Corp,Real Estate,121.0,Great Ajax
+INTL,Northern Lights Fund Trust IV,Financial Services,120.0,Northern Lights Fund Trust IV
+CZWI,Citizens Community Bancorp Inc MD,Financial Services,118.0,Citizens Community BancorpMD
+WHG,Westwood Holdings Group Inc,Financial Services,118.0,Westwood  Group
+FNCB,FNCB Bancorp Inc,Financial Services,117.0,FNCB Bancorp
+OVBC,Ohio Valley Banc Corp.,Financial Services,116.0,Ohio Valley Banc
+CBFV,CB Financial Services Inc,Financial Services,115.0,CB Financial Services
+FRAF,Franklin Financial Services Corp.,Financial Services,115.0,Franklin Financial Services
+FSFG,First Savings Financial Group Inc,Financial Services,115.0,First Savings Financial Group
+MRBK,Meridian Corp,Financial Services,112.0,Meridian
+CHMI,Cherry Hill Mortgage Investment Corporation,Real Estate,109.0,Cherry Hill Mortgage Investment
+GBL,Gamco Investors Inc,Financial Services,109.0,Gamco Investors
+LARK,Landmark Bancorp Inc,Financial Services,107.0,Landmark Bancorp
+OPI,Office Properties Income Trust,Real Estate,106.0,Office Properties Income Trust
+EBMT,Eagle Bancorp Montana Inc,Financial Services,106.0,Eagle Bancorp Montana
+FNWB,First Northwest Bancorp,Financial Services,104.0,First Northwest Bancorp
+AXR,AMREP Corp.,Real Estate,104.0,AMREP
+UNB,"Union Bankshares, Inc.",Financial Services,103.0,Union Bankshares
+SFBC,Sound Financial Bancorp Inc,Financial Services,102.0,Sound Financial Bancorp
+FCAP,First Capital Inc.,Financial Services,101.0,First Capital
+HMNF,HMN Financial Inc.,Financial Services,100.0,HMN Financial
+CFBK,CF Bankshares Inc,Financial Services,98.0,CF Bankshares
+SBFG,SB Financial Group Inc,Financial Services,96.0,SB Financial Group
+MAYS,J.W. Mays Inc.,Real Estate,88.0,JW Mays
+PROV,"Provident Financial Holdings, Inc.",Financial Services,88.0,Provident Financial
+NICK,"Nicholas Financial, Inc.",Financial Services,85.0,Nicholas Financial
+AC,Associated Capital Group Inc,Financial Services,84.0,Associated Capital Group
+SIEB,Siebert Financial Corp.,Financial Services,83.0,Siebert Financial
+RVSB,"Riverview Bancorp, Inc.",Financial Services,80.0,Riverview Bancorp
+OPOF,Old Point Financial Corp.,Financial Services,76.0,Old Point Financial
+LSBK,Lake Shore Bancorp,Financial Services,73.0,Lake Shore Bancorp
+MGYR,Magyar Bancorp Inc.,Financial Services,73.0,Magyar Bancorp
+UBCP,"United Bancorp, Inc. (Martins Ferry, OH)",Financial Services,72.0,United Bancorp
+TBNK,Territorial Bancorp Inc,Financial Services,71.0,Territorial Bancorp
+AMTD,AMTD IDEA Group,Financial Services,71.0,AMTD IDEA Group
+IOR,"Income Opportunity Realty Investors, Inc.",Financial Services,66.0,Income Opportunity Realty Investors
+VBFC,Village Bank & Trust Financial Corporation,Financial Services,66.0,Village Bank & Trust Financial
+CMCT,Creative Media & Community Trust,Real Estate,66.0,Creative Media & Community Trust
+AUBN,Auburn National Bancorp Inc.,Financial Services,66.0,Auburn National Bancorp
+RVI,Retail Value Inc,Real Estate,63.0,Retail Value
+CHCI,Comstock Holding Co. Inc,Real Estate,61.0,Comstock
+CLPR,Clipper Realty Inc,Real Estate,61.0,Clipper Realty
+LOAN,Manhattan Bridge Capital Inc,Real Estate,60.0,Manhattan Bridge Capital
+PBHC,"Pathfinder Bancorp, Inc.",Financial Services,60.0,Pathfinder Bancorp
+ELVT,Elevate Credit Inc,Financial Services,59.0,Elevate Credit
+FUSB,First US Bancshares Inc,Financial Services,57.0,First US Bancshares
+IROQ,IF Bancorp Inc,Financial Services,56.0,IF Bancorp
+UBOH,United Bancshares Inc. (OH),Financial Services,56.0,United Bancshares
+SELF,Global Self Storage Inc,Real Estate,56.0,Global Self Storage
+WMC,Western Asset Mortgage Capital Corp,Real Estate,56.0,Western Asset Mortgage Capital
+KINS,Kingstone Cos. Inc,Financial Services,53.0,Kingstone
+AHT,Ashford Hospitality Trust Inc,Real Estate,53.0,Ashford Hospitality Trust
+BOTJ,Bank of the James Financial Group Inc.,Financial Services,50.0,Bank of the James Financial Group
+ASPS,Altisource Portfolio Solutions S.A.,Financial Services,47.0,Altisource Portfolio Solutions SA
+SSBI,Summit State Bank,Financial Services,45.0,Summit State Bank
+ASRV,Ameriserv Financial Inc,Financial Services,44.0,Ameriserv Financial
+LODE,Comstock Inc,Real Estate,36.0,Comstock
+HFBL,Home Federal Bancorp Inc (Louisiana),Financial Services,35.0,Home Federal Bancorp
+AAME,Atlantic American Corp.,Financial Services,33.0,Atlantic American
+GROW,"U.S. Global Investors, Inc.",Financial Services,31.0,US Global Investors
+BYFC,Broadway Financial Corp.,Financial Services,29.0,Broadway Financial
+KFFB,Kentucky First Federal Bancorp,Financial Services,27.0,Kentucky First Federal Bancorp
+SOHO,Sotherly Hotels Inc,Real Estate,27.0,Sotherly Hotels

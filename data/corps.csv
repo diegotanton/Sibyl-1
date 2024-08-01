@@ -1,0 +1,2692 @@
+Ticker,Name,Sector,Cap,NameCln
+MSFT,Microsoft Corporation,Technology,3198270.0,Microsoft
+AAPL,Apple Inc,Technology,2913322.0,Apple
+NVDA,NVIDIA Corp,Technology,2801776.0,NVIDIA
+GOOGL,Alphabet Inc,Communication Services,2224228.0,Alphabet
+AMZN,Amazon.com Inc.,Consumer Cyclical,1895567.0,Amazon
+LLY,Lilly(Eli) & Co,Healthcare,767794.0,Eli Lilly
+AVGO,Broadcom Inc,Technology,654559.0,Broadcom
+JPM,JPMorgan Chase & Co.,Financial Services,572898.0,JPMorgan Chase
+FB,Meta Platforms Inc,Communication Services,561211.0,Meta
+TSLA,Tesla Inc,Consumer Cyclical,553841.0,Tesla
+WMT,Walmart Inc,Consumer Defensive,523572.0,Walmart
+V,Visa Inc,Financial Services,512265.0,Visa Inc
+UNH,Unitedhealth Group Inc,Healthcare,463580.0,Unitedhealth Group
+XOM,Exxon Mobil Corp.,Energy,452894.0,Exxon Mobil
+MA,Mastercard Incorporated,Financial Services,410573.0,Mastercard
+PG,Procter & Gamble Co.,Consumer Defensive,384962.0,Procter & Gamble
+COST,Costco Wholesale Corp,Consumer Defensive,360644.0,Costco Wholesale
+JNJ,Johnson & Johnson,Healthcare,347476.0,Johnson & Johnson
+ORCL,Oracle Corp.,Technology,342161.0,Oracle
+HD,"Home Depot, Inc.",Consumer Cyclical,325944.0,Home Depot
+MRK,Merck & Co Inc,Healthcare,319362.0,Merck
+BAC,Bank Of America Corp.,Financial Services,307497.0,Bank Of America
+CVX,Chevron Corp.,Energy,293105.0,Chevron
+NFLX,Netflix Inc.,Communication Services,286725.0,Netflix
+AMD,Advanced Micro Devices Inc.,Technology,277376.0,Advanced Micro Devices
+ABBV,Abbvie Inc,Healthcare,274310.0,Abbvie
+KO,Coca-Cola Co,Consumer Defensive,266318.0,Coca-Cola
+CRM,Salesforce Inc,Technology,261195.0,Salesforce
+PEP,PepsiCo Inc,Consumer Defensive,238360.0,PepsiCo
+QCOM,"Qualcomm, Inc.",Technology,237797.0,Qualcomm
+TMO,Thermo Fisher Scientific Inc.,Healthcare,218559.0,Thermo Fisher Scientific
+WFC,Wells Fargo & Co.,Financial Services,217624.0,Wells Fargo
+ADBE,Adobe Inc,Technology,214337.0,Adobe
+LIN,Linde Plc.,Basic Materials,206652.0,Linde
+ACN,Accenture plc,Technology,199605.0,Accenture
+TMUS,T-Mobile US Inc,Communication Services,196063.0,T-Mobile US
+DHR,Danaher Corp.,Healthcare,191623.0,Danaher
+DIS,Walt Disney Co (The),Communication Services,186753.0,Walt Disney
+CSCO,"Cisco Systems, Inc.",Technology,186454.0,Cisco Systems
+GE,GE Aerospace,Industrials,184507.0,GE Aerospace
+AMAT,Applied Materials Inc.,Technology,183247.0,Applied Materials
+MCD,McDonald`s Corp,Consumer Cyclical,182722.0,McDonald's
+TXN,Texas Instruments Inc.,Technology,181732.0,Texas Instruments
+ABT,Abbott Laboratories,Healthcare,177356.0,Abbott Laboratories
+AXP,American Express Co.,Financial Services,170655.0,American Express
+CAT,Caterpillar Inc.,Industrials,169442.0,Caterpillar
+INTU,Intuit Inc,Technology,167734.0,Intuit
+VZ,Verizon Communications Inc,Communication Services,165676.0,Verizon Communications
+AMGN,AMGEN Inc.,Healthcare,161032.0,AMGEN
+PFE,Pfizer Inc.,Healthcare,160365.0,Pfizer
+MS,Morgan Stanley,Financial Services,160355.0,Morgan Stanley
+NEE,NextEra Energy Inc,Utilities,159288.0,NextEra Energy
+IBM,International Business Machines Corp.,Technology,155850.0,International Business Machines
+PM,Philip Morris International Inc,Consumer Defensive,155533.0,Philip Morris International
+CMCSA,Comcast Corp,Communication Services,150853.0,Comcast
+NOW,ServiceNow Inc,Technology,149416.0,ServiceNow
+GS,"Goldman Sachs Group, Inc.",Financial Services,148272.0,Goldman Sachs Group
+MU,Micron Technology Inc.,Technology,146915.0,Micron Technology
+NKE,"Nike, Inc.",Consumer Cyclical,143520.0,Nike
+SPGI,S&P Global Inc,Financial Services,143220.0,S&P Global
+ISRG,Intuitive Surgical Inc,Healthcare,142245.0,Intuitive Surgical
+UNP,Union Pacific Corp.,Industrials,139724.0,Union Pacific
+COP,Conoco Phillips,Energy,139128.0,Conoco Phillips
+ETN,Eaton Corporation plc,Industrials,134877.0,Eaton
+INTC,Intel Corp.,Technology,132222.0,Intel
+HON,Honeywell International Inc,Industrials,129703.0,Honeywell International
+SYK,Stryker Corp.,Healthcare,129260.0,Stryker
+BKNG,Booking Holdings Inc,Consumer Cyclical,128589.0,Booking
+LRCX,Lam Research Corp.,Technology,126984.0,Lam Research
+SCHW,Charles Schwab Corp.,Financial Services,125814.0,Charles Schwab
+LOW,"Lowe`s Cos., Inc.",Consumer Cyclical,123233.0,Lowe's
+T,"AT&T, Inc.",Communication Services,123135.0,AT&T
+PGR,Progressive Corp.,Financial Services,120174.0,Progressive
+C,Citigroup Inc,Financial Services,119120.0,Citigroup
+UPS,"United Parcel Service, Inc.",Industrials,118995.0,United Parcel Service
+DELL,Dell Technologies Inc,Technology,118546.0,Dell Technologies
+UBER,Uber Technologies Inc,Technology,118205.0,Uber
+ADI,Analog Devices Inc.,Technology,115837.0,Analog Devices
+VRTX,"Vertex Pharmaceuticals, Inc.",Healthcare,115319.0,Vertex Pharmaceuticals
+TJX,"TJX Companies, Inc.",Consumer Cyclical,114906.0,TJX
+BLK,Blackrock Inc.,Financial Services,114632.0,Blackrock
+BSX,Boston Scientific Corp.,Healthcare,110513.0,Boston Scientific
+LMT,Lockheed Martin Corp.,Industrials,110007.0,Lockheed Martin
+MDT,Medtronic Plc,Healthcare,108881.0,Medtronic
+BA,Boeing Co.,Industrials,107479.0,Boeing
+CB,Chubb Limited,Financial Services,106648.0,Chubb Limited
+KLAC,KLA Corp.,Technology,105846.0,KLA
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,105047.0,Regeneron Pharmaceuticals
+DE,Deere & Co.,Industrials,102789.0,Deere
+MMC,"Marsh & McLennan Cos., Inc.",Financial Services,100501.0,Marsh & McLennan
+PANW,Palo Alto Networks Inc,Technology,99734.0,Palo Alto Networks
+ADP,Automatic Data Processing Inc.,Industrials,99581.0,Automatic Data Processing
+PLD,Prologis Inc,Real Estate,97214.0,Prologis
+ANET,Arista Networks Inc,Technology,96356.0,Arista Networks
+CI,Cigna Group (The),Healthcare,94656.0,Cigna Group
+KKR,KKR & Co. Inc,Financial Services,90661.0,KKR
+MDLZ,Mondelez International Inc.,Consumer Defensive,90636.0,Mondelez International
+SNPS,"Synopsys, Inc.",Technology,90082.0,Synopsys
+SBUX,Starbucks Corp.,Consumer Cyclical,87762.0,Starbucks
+FI,"Fiserv, Inc.",Energy,86841.0,Fiserv
+CMG,Chipotle Mexican Grill,Consumer Cyclical,86627.0,Chipotle
+AMT,American Tower Corp.,Real Estate,86404.0,American Tower
+SO,Southern Company,Utilities,84878.0,Southern
+HCA,HCA Healthcare Inc,Healthcare,83462.0,HCA Healthcare
+WM,"Waste Management, Inc.",Industrials,82808.0,Waste Management
+BMY,Bristol-Myers Squibb Co.,Healthcare,82077.0,Bristol-Myers Squibb
+GD,General Dynamics Corp.,Industrials,81579.0,General Dynamics
+CDNS,"Cadence Design Systems, Inc.",Technology,80609.0,Cadence Design Systems
+APH,Amphenol Corp.,Technology,80469.0,Amphenol
+GILD,"Gilead Sciences, Inc.",Healthcare,79660.0,Gilead Sciences
+ZTS,Zoetis Inc,Healthcare,78163.0,Zoetis
+MO,Altria Group Inc.,Consumer Defensive,78118.0,Altria Group
+DUK,Duke Energy Corp.,Utilities,78088.0,Duke Energy
+FCX,Freeport-McMoRan Inc,Basic Materials,76927.0,Freeport-McMoRan
+ICE,Intercontinental Exchange Inc,Financial Services,76677.0,Intercontinental Exchange
+SHW,Sherwin-Williams Co.,Basic Materials,76503.0,Sherwin-Williams
+CL,Colgate-Palmolive Co.,Consumer Defensive,75431.0,Colgate-Palmolive
+CME,CME Group Inc,Financial Services,74997.0,CME Group
+MCO,Moody`s Corp.,Financial Services,74099.0,Moody's
+TDG,Transdigm Group Incorporated,Industrials,73750.0,Transdigm Group
+EQIX,Equinix Inc,Real Estate,72955.0,Equinix
+EOG,"EOG Resources, Inc.",Energy,72327.0,EOG Resources
+MCK,Mckesson Corporation,Healthcare,71396.0,Mckesson
+ITW,"Illinois Tool Works, Inc.",Industrials,70843.0,Illinois Tool Works
+TGT,Target Corp,Consumer Defensive,68053.0,Target
+CTAS,Cintas Corporation,Industrials,68014.0,Cintas
+MRVL,Marvell Technology Inc,Technology,67793.0,Marvell Technology
+PH,Parker-Hannifin Corp.,Industrials,67682.0,Parker-Hannifin
+NOC,Northrop Grumman Corp.,Industrials,67409.0,Northrop Grumman
+CVS,CVS Health Corp,Healthcare,67326.0,CVS Health
+MAR,"Marriott International, Inc.",Consumer Cyclical,66876.0,Marriott International
+SLB,Schlumberger Ltd.,Energy,66507.0,Schlumberger
+BDX,Becton Dickinson & Co.,Healthcare,65547.0,Becton Dickinson
+CSX,CSX Corp.,Industrials,65451.0,CSX
+ECL,"Ecolab, Inc.",Basic Materials,65367.0,Ecolab
+PYPL,PayPal Holdings Inc,Financial Services,65033.0,PayPal
+EMR,Emerson Electric Co.,Industrials,64104.0,Emerson Electric
+MPC,Marathon Petroleum Corp,Energy,63124.0,Marathon Petroleum
+PXD,Pioneer Natural Resources Co.,Energy,62989.0,Pioneer Natural Resources
+USB,U.S. Bancorp.,Financial Services,62059.0,US Bancorp
+VMW,Vmware Inc.,Technology,61523.0,Vmware
+FDX,Fedex Corp,Industrials,61038.0,Fedex
+AON,Aon plc.,Financial Services,60720.0,Aon
+PNC,PNC Financial Services Group Inc,Financial Services,60617.0,PNC Financial Services Group
+PSX,Phillips 66,Energy,60523.0,Phillips 66
+WELL,Welltower Inc.,Real Estate,60288.0,Welltower
+MSI,Motorola Solutions Inc,Technology,60030.0,Motorola Solutions
+DISCK,Warner Bros.Discovery Inc,Communication Services,59712.0,Warner BrosDiscovery
+APD,Air Products & Chemicals Inc.,Basic Materials,58829.0,Air Products & Chemicals
+RSG,"Republic Services, Inc.",Industrials,57793.0,Republic Services
+ROP,Roper Technologies Inc,Industrials,57057.0,Roper Technologies
+PCAR,Paccar Inc.,Industrials,56582.0,Paccar
+ORLY,"O`Reilly Automotive, Inc.",Consumer Cyclical,56392.0,O'Reilly Automotive
+OXY,Occidental Petroleum Corp.,Energy,55158.0,Occidental Petroleum
+MMM,3M Co.,Industrials,54606.0,3M
+AJG,Arthur J. Gallagher & Co.,Financial Services,54260.0,Arthur J Gallagher
+MNST,Monster Beverage Corp.,Consumer Defensive,53805.0,Monster Beverage
+VLO,Valero Energy Corp.,Energy,53487.0,Valero Energy
+MCHP,"Microchip Technology, Inc.",Technology,53055.0,Microchip Technology
+EW,Edwards Lifesciences Corp,Healthcare,52450.0,Edwards Lifesciences
+COF,Capital One Financial Corp.,Financial Services,51943.0,Capital One Financial
+AIG,American International Group Inc,Financial Services,51341.0,American International Group
+CPRT,"Copart, Inc.",Industrials,50742.0,Copart
+DXCM,Dexcom Inc,Healthcare,50657.0,Dexcom
+MET,Metlife Inc,Financial Services,50476.0,Metlife
+NSC,Norfolk Southern Corp.,Industrials,50336.0,Norfolk Southern
+HLT,Hilton Worldwide Holdings Inc,Consumer Cyclical,50009.0,Hilton Worldwide
+AFL,Aflac Inc.,Financial Services,49583.0,Aflac
+WMB,Williams Cos Inc,Energy,49567.0,Williams
+GM,General Motors Company,Consumer Cyclical,49164.0,General Motors
+JCI,Johnson Controls International plc,Industrials,48963.0,Johnson Controls International
+NEM,Newmont Corp,Basic Materials,48893.0,Newmont
+AZO,Autozone Inc.,Consumer Cyclical,48493.0,Autozone
+TRV,Travelers Companies Inc.,Financial Services,48173.0,Travelers
+SPG,"Simon Property Group, Inc.",Real Estate,47971.0,Simon Property Group
+SRE,Sempra,Utilities,47691.0,Sempra
+PSA,Public Storage.,Real Estate,47560.0,Public Storage
+OKE,Oneok Inc.,Energy,47252.0,Oneok
+DHI,D.R. Horton Inc.,Consumer Cyclical,47042.0,DR Horton
+HES,Hess Corporation,Energy,46848.0,Hess
+AEP,American Electric Power Company Inc.,Utilities,46714.0,American Electric Power
+ROST,"Ross Stores, Inc.",Consumer Cyclical,46343.0,Ross Stores
+GWW,W.W. Grainger Inc.,Industrials,46081.0,WW Grainger
+TEL,TE Connectivity Ltd,Technology,46057.0,TE Connectivity
+F,Ford Motor Co.,Consumer Cyclical,45803.0,Ford Motor
+INFO,IHS Markit Ltd,Industrials,45801.0,IHS Markit
+WDAY,Workday Inc,Technology,45758.0,Workday
+KDP,Keurig Dr Pepper Inc,Consumer Defensive,45696.0,Keurig Dr Pepper
+FTNT,Fortinet Inc,Technology,45416.0,Fortinet
+ADSK,Autodesk Inc.,Technology,45347.0,Autodesk
+EL,"Estee Lauder Cos., Inc.",Consumer Defensive,44991.0,Estee Lauder
+STZ,Constellation Brands Inc,Consumer Defensive,44925.0,Constellation Brands
+DLR,Digital Realty Trust Inc,Real Estate,44918.0,Digital Realty Trust
+O,Realty Income Corp.,Real Estate,44906.0,Realty Income
+D,Dominion Energy Inc,Utilities,44300.0,Dominion Energy
+URI,"United Rentals, Inc.",Industrials,44266.0,United Rentals
+BK,Bank Of New York Mellon Corp,Financial Services,43553.0,Bank Of New York Mellon
+KMB,Kimberly-Clark Corp.,Consumer Defensive,43486.0,Kimberly-Clark
+ALL,Allstate Corp (The),Financial Services,43459.0,Allstate
+A,Agilent Technologies Inc.,Healthcare,43434.0,Agilent Technologies
+PAYX,Paychex Inc.,Industrials,43293.0,Paychex
+AMP,Ameriprise Financial Inc,Financial Services,43203.0,Ameriprise Financial
+COR,Cencora Inc.,Real Estate,43123.0,Cencora
+LEN,Lennar Corp.,Consumer Cyclical,42700.0,Lennar
+KHC,Kraft Heinz Co,Consumer Defensive,42561.0,Kraft Heinz
+CCI,Crown Castle Inc,Real Estate,42453.0,Crown Castle
+TTD,Trade Desk Inc,Technology,42335.0,Trade Desk
+KMI,Kinder Morgan Inc,Energy,42324.0,Kinder Morgan
+PRU,Prudential Financial Inc.,Financial Services,42265.0,Prudential Financial
+HUM,Humana Inc.,Healthcare,42080.0,Humana
+FIS,"Fidelity National Information Services, Inc.",Technology,41791.0,Fidelity National Information Services
+IDXX,"Idexx Laboratories, Inc.",Healthcare,41740.0,Idexx Laboratories
+LHX,L3Harris Technologies Inc,Industrials,41515.0,L3Harris Technologies
+IQV,IQVIA Holdings Inc,Healthcare,41307.0,IQVIA
+TWTR,Twitter Inc,Communication Services,41094.0,Twitter
+PWR,"Quanta Services, Inc.",Industrials,40936.0,Quanta Services
+DOW,Dow Inc,Basic Materials,40814.0,Dow Inc
+HSY,Hershey Company,Consumer Defensive,40526.0,Hershey
+NUE,Nucor Corp.,Basic Materials,40373.0,Nucor
+MSCI,MSCI Inc,Financial Services,39271.0,MSCI
+CHTR,Charter Communications Inc.,Communication Services,39093.0,Charter Communications
+AME,Ametek Inc,Industrials,38959.0,Ametek
+CNC,Centene Corp.,Healthcare,38807.0,Centene
+CTVA,Corteva Inc,Basic Materials,38794.0,Corteva
+RCL,Royal Caribbean Group,Consumer Cyclical,38636.0,Royal Caribbean Group
+ACGL,Arch Capital Group Ltd,Financial Services,38394.0,Arch Capital Group
+YUM,Yum Brands Inc.,Consumer Cyclical,38263.0,Yum Brands
+CMI,Cummins Inc.,Industrials,38060.0,Cummins
+GIS,"General Mills, Inc.",Consumer Defensive,37868.0,General Mills
+KR,Kroger Co.,Consumer Defensive,37751.0,Kroger
+IR,Ingersoll-Rand Inc,Industrials,37705.0,Ingersoll-Rand
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,37658.0,Old Dominion Freight Line
+PEG,Public Service Enterprise Group Inc.,Utilities,37127.0,Public Service Enterprise Group
+FAST,Fastenal Co.,Industrials,37078.0,Fastenal
+MPWR,Monolithic Power System Inc,Technology,36976.0,Monolithic Power System
+VST,Vistra Corp,Utilities,36900.0,Vistra
+EXC,Exelon Corp.,Utilities,36781.0,Exelon
+SQ,Block Inc,Technology,36776.0,Block
+SYY,Sysco Corp.,Consumer Defensive,36089.0,Sysco
+LNG,Cheniere Energy Inc.,Energy,35752.0,Cheniere Energy
+LULU,Lululemon Athletica inc.,Consumer Cyclical,35665.0,Lululemon Athletica
+VRSK,Verisk Analytics Inc,Industrials,35508.0,Verisk Analytics
+FANG,Diamondback Energy Inc,Energy,35269.0,Diamondback Energy
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,35155.0,Martin Marietta Materials
+EA,"Electronic Arts, Inc.",Communication Services,35125.0,Electronic Arts
+NDAQ,Nasdaq Inc,Financial Services,34627.0,Nasdaq
+DD,DuPont de Nemours Inc,Basic Materials,34322.0,DuPont de Nemours
+FICO,Fair Isaac Corp.,Technology,34228.0,Fair Isaac
+XYL,Xylem Inc,Industrials,34030.0,Xylem
+CSGP,"Costar Group, Inc.",Real Estate,33999.0,Costar Group
+IT,"Gartner, Inc.",Technology,33746.0,Gartner
+VMC,Vulcan Materials Co,Basic Materials,33589.0,Vulcan Materials
+LVS,Las Vegas Sands Corp,Consumer Cyclical,33326.0,Las Vegas Sands
+CTSH,Cognizant Technology Solutions Corp.,Technology,33243.0,Cognizant Technology Solutions
+VEEV,Veeva Systems Inc,Healthcare,32822.0,Veeva Systems
+HUBS,HubSpot Inc,Technology,32534.0,HubSpot
+HPQ,HP Inc,Technology,32501.0,HP
+DAL,"Delta Air Lines, Inc.",Industrials,32446.0,Delta Air Lines
+HAL,Halliburton Co.,Energy,32331.0,Halliburton
+ED,"Consolidated Edison, Inc.",Utilities,32235.0,Consolidated Edison
+LYB,LyondellBasell Industries NV,Basic Materials,32142.0,LyondellBasell Industries NV
+BIIB,Biogen Inc,Healthcare,31846.0,Biogen
+ON,ON Semiconductor Corp.,Technology,31687.0,ON Semiconductor
+DG,Dollar General Corp.,Consumer Defensive,31252.0,Dollar General
+GRMN,Garmin Ltd,Technology,31193.0,Garmin
+MTD,"Mettler-Toledo International, Inc.",Healthcare,31065.0,Mettler-Toledo International
+DVN,Devon Energy Corp.,Energy,30911.0,Devon Energy
+GLW,"Corning, Inc.",Technology,30710.0,Corning
+DFS,Discover Financial Services,Financial Services,30528.0,Discover Financial Services
+RMD,Resmed Inc.,Healthcare,30435.0,Resmed
+PPG,"PPG Industries, Inc.",Basic Materials,30391.0,PPG Industries
+TSCO,Tractor Supply Co.,Consumer Cyclical,30387.0,Tractor Supply
+CDW,CDW Corp,Technology,30266.0,CDW
+EXR,Extra Space Storage Inc.,Real Estate,30141.0,Extra Space Storage
+ADM,Archer Daniels Midland Co.,Consumer Defensive,30106.0,Archer Daniels Midland
+FSLR,First Solar Inc,Technology,29989.0,First Solar
+XEL,"Xcel Energy, Inc.",Utilities,29860.0,Xcel Energy
+WAB,Westinghouse Air Brake Technologies Corp,Industrials,29760.0,Westinghouse Air Brake Technologies
+HIG,Hartford Financial Services Group Inc.,Financial Services,29673.0,Hartford Financial Services Group
+ROK,Rockwell Automation Inc,Industrials,29481.0,Rockwell Automation
+VICI,VICI Properties Inc,Real Estate,29480.0,VICI Properties
+EFX,"Equifax, Inc.",Industrials,29235.0,Equifax
+ANSS,Ansys Inc.,Technology,28641.0,Ansys
+EIX,Edison International,Utilities,28526.0,Edison International
+ARES,Ares Management Corp,Financial Services,27598.0,Ares Management
+FWONA,Liberty Media Corp.,Communication Services,27484.0,Liberty Media
+DECK,Deckers Outdoor Corp.,Consumer Cyclical,27456.0,Deckers Outdoor
+AVB,Avalonbay Communities Inc.,Real Estate,27335.0,Avalonbay Communities
+CLR,Continental Resources Inc (OKLA),Energy,26961.0,Continental Resources
+TTWO,"Take-Two Interactive Software, Inc.",Communication Services,26872.0,Take-Two Interactive Software
+EBAY,EBay Inc.,Consumer Cyclical,26767.0,EBay
+KSU,Kansas City Southern,Industrials,26711.0,Kansas City Southern
+CBRE,CBRE Group Inc,Real Estate,26620.0,CBRE Group
+MSTR,Microstrategy Inc.,Technology,26426.0,Microstrategy
+FTV,Fortive Corp,Technology,26247.0,Fortive
+TROW,T. Rowe Price Group Inc.,Financial Services,25976.0,T Rowe Price Group
+GPN,"Global Payments, Inc.",Industrials,25900.0,Global Payments
+HEI,Heico Corp.,Industrials,25880.0,Heico
+TRGP,Targa Resources Corp,Energy,25610.0,Targa Resources
+RJF,"Raymond James Financial, Inc.",Financial Services,25607.0,Raymond James Financial
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,25470.0,Church & Dwight
+DOV,Dover Corp.,Industrials,25216.0,Dover
+WEC,WEC Energy Group Inc,Utilities,25177.0,WEC Energy Group
+FITB,Fifth Third Bancorp,Financial Services,25091.0,Fifth Third Bancorp
+BRO,"Brown & Brown, Inc.",Financial Services,24982.0,Brown & Brown
+PINS,Pinterest Inc,Communication Services,24873.0,Pinterest
+KEYS,Keysight Technologies Inc,Technology,24871.0,Keysight Technologies
+WDC,Western Digital Corp.,Technology,24862.0,Western Digital
+MTB,M & T Bank Corp,Financial Services,24831.0,M & T Bank
+DLTR,Dollar Tree Inc,Consumer Defensive,24663.0,Dollar Tree
+MDB,MongoDB Inc,Technology,24635.0,MongoDB
+ZS,Zscaler Inc,Technology,24608.0,Zscaler
+AWK,American Water Works Co. Inc.,Utilities,24594.0,American Water Works
+EQR,Equity Residential Properties Trust,Real Estate,24534.0,Equity Residential Properties Trust
+NTAP,Netapp Inc,Technology,24355.0,Netapp
+IFF,International Flavors & Fragrances Inc.,Basic Materials,24291.0,International Flavors & Fragrances
+FCNCA,"First Citizens Bancshares, Inc (NC)",Financial Services,24049.0,First Citizens Bancshares
+HPE,Hewlett Packard Enterprise Co,Technology,23933.0,Hewlett Packard Enterprise
+ZBH,Zimmer Biomet Holdings Inc,Healthcare,23932.0,Zimmer Biomet
+WST,"West Pharmaceutical Services, Inc.",Healthcare,23854.0,West Pharmaceutical Services
+PHM,PulteGroup Inc,Consumer Cyclical,23823.0,PulteGroup
+DTE,DTE Energy Co.,Utilities,23384.0,DTE Energy
+IRM,Iron Mountain Inc.,Real Estate,23304.0,Iron Mountain
+BR,"Broadridge Financial Solutions, Inc.",Technology,23191.0,Broadridge Financial Solutions
+CAH,"Cardinal Health, Inc.",Healthcare,23078.0,Cardinal Health
+NVR,NVR Inc.,Consumer Cyclical,23047.0,NVR
+ETR,Entergy Corp.,Utilities,22962.0,Entergy
+TER,"Teradyne, Inc.",Technology,22672.0,Teradyne
+APTV,Aptiv PLC,Consumer Cyclical,22617.0,Aptiv
+ROL,"Rollins, Inc.",Consumer Cyclical,22352.0,Rollins
+FE,Firstenergy Corp.,Utilities,22324.0,Firstenergy
+STT,State Street Corp.,Financial Services,22266.0,State Street
+BLL,Ball Corp.,Consumer Cyclical,22222.0,Ball
+STE,Steris Plc,Healthcare,22074.0,Steris
+LYV,Live Nation Entertainment Inc,Communication Services,21962.0,Live Nation Entertainment
+LB,L Brands Inc,Consumer Cyclical,21958.0,L Brands
+WSO,Watsco Inc.,Industrials,21920.0,Watsco
+FLT,Fleetcor Technologies Inc,Technology,21895.0,Fleetcor Technologies
+WY,Weyerhaeuser Co.,Real Estate,21696.0,Weyerhaeuser
+PTC,PTC Inc,Technology,21493.0,PTC
+HUBB,Hubbell Inc.,Industrials,21349.0,Hubbell
+PBA,Pembina Pipeline Corporation,Energy,21309.0,Pembina Pipeline
+SNAP,Snap Inc,Communication Services,21247.0,Snap
+LPLA,LPL Financial Holdings Inc,Financial Services,21131.0,LPL Financial
+STLD,Steel Dynamics Inc.,Basic Materials,21100.0,Steel Dynamics
+PPL,PPL Corp,Utilities,21077.0,PPL
+INVH,Invitation Homes Inc,Real Estate,20869.0,Invitation Homes
+MKL,Markel Group Inc,Financial Services,20852.0,Markel Group
+TSN,"Tyson Foods, Inc.",Consumer Defensive,20779.0,Tyson Foods
+CTRA,Coterra Energy Inc,Energy,20511.0,Coterra Energy
+ARE,Alexandria Real Estate Equities Inc.,Real Estate,20456.0,Alexandria Real Estate Equities
+WLK,Westlake Corporation,Basic Materials,20437.0,Westlake
+TYL,"Tyler Technologies, Inc.",Technology,20342.0,Tyler Technologies
+PSTG,Pure Storage Inc,Technology,20325.0,Pure Storage
+K,Kellanova Co,Consumer Defensive,20237.0,Kellanova
+STX,Seagate Technology Holdings Plc,Technology,20216.0,Seagate Technology
+SBAC,SBA Communications Corp,Real Estate,20123.0,SBA Communications
+WRB,W.R. Berkley Corp.,Financial Services,20087.0,WR Berkley
+CSL,Carlisle Companies Inc.,Industrials,20060.0,Carlisle
+ES,Eversource Energy,Utilities,20008.0,Eversource Energy
+BAH,Booz Allen Hamilton Holding Corp,Industrials,19993.0,Booz Allen Hamilton
+LDOS,Leidos Holdings Inc,Technology,19955.0,Leidos
+BLDR,Builders Firstsource Inc,Industrials,19857.0,Builders Firstsource
+ENTG,Entegris Inc,Technology,19816.0,Entegris
+HBAN,"Huntington Bancshares, Inc.",Financial Services,19797.0,Huntington Bancshares
+CVNA,Carvana Co.,Consumer Cyclical,19752.0,Carvana
+GPC,Genuine Parts Co.,Consumer Cyclical,19748.0,Genuine Parts
+WAT,Waters Corp.,Healthcare,19685.0,Waters
+GDDY,Godaddy Inc,Technology,19519.0,Godaddy
+CELH,Celsius Holdings Inc,Consumer Defensive,19327.0,Celsius
+RS,Reliance Inc.,Basic Materials,19263.0,Reliance
+MKC,"McCormick & Co., Inc.",Consumer Defensive,19132.0,McCormick
+ALGN,"Align Technology, Inc.",Healthcare,19104.0,Align Technology
+VTR,Ventas Inc,Real Estate,19097.0,Ventas
+PFG,Principal Financial Group Inc,Financial Services,19013.0,Principal Financial Group
+HRL,Hormel Foods Corp.,Consumer Defensive,19005.0,Hormel Foods
+AEE,Ameren Corp.,Utilities,18995.0,Ameren
+MOH,Molina Healthcare Inc,Healthcare,18992.0,Molina Healthcare
+ALNY,Alnylam Pharmaceuticals Inc,Healthcare,18981.0,Alnylam Pharmaceuticals
+CNP,Centerpoint Energy Inc.,Utilities,18897.0,Centerpoint Energy
+CBOE,Cboe Global Markets Inc.,Financial Services,18807.0,Cboe Global Markets
+TDY,Teledyne Technologies Inc,Technology,18713.0,Teledyne Technologies
+DRE,Duke Realty Corp,Real Estate,18557.0,Duke Realty
+EME,"Emcor Group, Inc.",Industrials,18501.0,Emcor Group
+ZM,Zoom Video Communications Inc,Communication Services,18466.0,Zoom Video Communications
+WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,18284.0,Williams-Sonoma
+ULTA,Ulta Beauty Inc,Consumer Cyclical,18269.0,Ulta Beauty
+OMC,"Omnicom Group, Inc.",Communication Services,18254.0,Omnicom Group
+CMS,CMS Energy Corporation,Utilities,18253.0,CMS Energy
+COO,"Cooper Companies, Inc.",Healthcare,18222.0,Cooper
+EQT,EQT Corp,Energy,18211.0,EQT
+CINF,Cincinnati Financial Corp.,Financial Services,18120.0,Cincinnati Financial
+AVY,Avery Dennison Corp.,Industrials,18116.0,Avery Dennison
+LII,Lennox International Inc,Industrials,17917.0,Lennox International
+DPZ,Dominos Pizza Inc,Consumer Cyclical,17757.0,Dominos Pizza
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,17703.0,Darden Restaurants
+ENPH,Enphase Energy Inc,Technology,17604.0,Enphase Energy
+CCL,Carnival Corp.,Consumer Cyclical,17564.0,Carnival
+NTNX,Nutanix Inc,Technology,17536.0,Nutanix
+NRG,NRG Energy Inc.,Utilities,17481.0,NRG Energy
+RF,Regions Financial Corp.,Financial Services,17456.0,Regions Financial
+ERIE,Erie Indemnity Co.,Financial Services,17454.0,Erie Indemnity
+SYF,Synchrony Financial,Financial Services,17355.0,Synchrony Financial
+BAX,Baxter International Inc.,Healthcare,17249.0,Baxter International
+HOLX,"Hologic, Inc.",Healthcare,17121.0,Hologic
+VRSN,Verisign Inc.,Technology,17037.0,Verisign
+ATO,Atmos Energy Corp.,Utilities,16904.0,Atmos Energy
+EXPD,"Expeditors International Of Washington, Inc.",Industrials,16822.0,Expeditors International Of Washington
+NTRS,Northern Trust Corp.,Financial Services,16793.0,Northern Trust
+ZBRA,Zebra Technologies Corp.,Technology,16775.0,Zebra Technologies
+ILMN,Illumina Inc,Healthcare,16731.0,Illumina
+TXT,Textron Inc.,Industrials,16680.0,Textron
+UAL,United Airlines Holdings Inc,Industrials,16651.0,United Airlines
+CE,Celanese Corp,Basic Materials,16521.0,Celanese
+ESS,"Essex Property Trust, Inc.",Real Estate,16394.0,Essex Property Trust
+L,Loews Corp.,Financial Services,16375.0,Loews
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,16345.0,JB Hunt Transport Services
+FDS,Factset Research Systems Inc.,Financial Services,16277.0,Factset Research Systems
+VAR,"Varian Medical Systems, Inc.",Healthcare,16262.0,Varian Medical Systems
+PKG,Packaging Corp Of America,Consumer Cyclical,16246.0,PackagingOf America
+AVTR,Avantor Inc.,Basic Materials,16105.0,Avantor
+ATH,Athene Holding Ltd,Financial Services,16011.0,Athene
+CLX,Clorox Co.,Consumer Defensive,16004.0,Clorox
+IEX,Idex Corporation,Industrials,15990.0,Idex
+TIF,Tiffany & Co.,Consumer Cyclical,15961.0,Tiffany
+LUV,Southwest Airlines Co,Industrials,15871.0,Southwest Airlines
+CFG,Citizens Financial Group Inc,Financial Services,15771.0,Citizens Financial Group
+BBY,Best Buy Co. Inc.,Consumer Cyclical,15696.0,Best Buy
+IP,International Paper Co.,Consumer Cyclical,15682.0,International Paper
+GEN,Gen Digital Inc,Healthcare,15535.0,Gen Digital
+DGX,"Quest Diagnostics, Inc.",Healthcare,15432.0,Quest Diagnostics
+OC,Owens Corning,Industrials,15412.0,Owens Corning
+OKTA,Okta Inc,Technology,15394.0,Okta
+NWS,News Corp,Communication Services,15340.0,News
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,15224.0,Mid-America Apartment Communities
+BG,Bunge Global SA,Consumer Defensive,15069.0,Bunge Global SA
+FOX,Fox Corporation,Communication Services,15068.0,Fox
+SSNC,SS&C Technologies Holdings Inc,Technology,15057.0,SS&C Technologies
+AES,AES Corp.,Utilities,15016.0,AES
+ALB,Albemarle Corp.,Basic Materials,15015.0,Albemarle
+CREE,"Cree, Inc.",Technology,14965.0,Cree
+MRO,Marathon Oil Corporation,Energy,14919.0,Marathon Oil
+MAS,Masco Corp.,Industrials,14862.0,Masco
+SWKS,"Skyworks Solutions, Inc.",Technology,14657.0,Skyworks Solutions
+TRU,TransUnion,Industrials,14569.0,TransUnion
+SUI,"Sun Communities, Inc.",Real Estate,14481.0,Sun Communities
+PKI,Revvity Inc.,Healthcare,14456.0,Revvity
+CF,CF Industries Holdings Inc,Basic Materials,14387.0,CF Industries
+JBL,Jabil Inc,Technology,14323.0,Jabil
+CAG,Conagra Brands Inc,Consumer Defensive,14213.0,Conagra Brands
+AMCR,Amcor Plc,Consumer Cyclical,14208.0,Amcor
+SNA,"Snap-on, Inc.",Industrials,14203.0,Snap-on
+RPM,"RPM International, Inc.",Basic Materials,14155.0,RPM International
+NBIX,"Neurocrine Biosciences, Inc.",Healthcare,14138.0,Neurocrine Biosciences
+BMRN,Biomarin Pharmaceutical Inc.,Healthcare,14133.0,Biomarin Pharmaceutical
+AKAM,Akamai Technologies Inc,Technology,14103.0,Akamai Technologies
+EXPE,Expedia Group Inc,Consumer Cyclical,13978.0,Expedia Group
+MANH,"Manhattan Associates, Inc.",Technology,13902.0,Manhattan Associates
+AGR,Avangrid Inc,Utilities,13871.0,Avangrid
+NVT,nVent Electric plc,Industrials,13826.0,nVent Electric
+AZPN,Aspen Technology Inc,Technology,13809.0,Aspen Technology
+IBKR,Interactive Brokers Group Inc,Financial Services,13774.0,Interactive Brokers Group
+FNF,Fidelity National Financial Inc,Financial Services,13744.0,Fidelity National Financial
+POOL,Pool Corporation,Consumer Cyclical,13708.0,Pool
+WRK,WestRock Co,Consumer Cyclical,13703.0,WestRock
+RGA,"Reinsurance Group Of America, Inc.",Financial Services,13665.0,Reinsurance Group Of America
+TRMB,Trimble Inc,Technology,13632.0,Trimble
+NTRA,Natera Inc,Healthcare,13455.0,Natera
+GGG,Graco Inc.,Industrials,13453.0,Graco
+KEY,Keycorp,Financial Services,13379.0,Keycorp
+NDSN,Nordson Corp.,Industrials,13377.0,Nordson
+WMS,Advanced Drainage Systems Inc,Industrials,13350.0,Advanced Drainage Systems
+DOC,Healthpeak Properties Inc.,Real Estate,13309.0,Healthpeak Properties
+WBA,Walgreens Boots Alliance Inc,Healthcare,13269.0,Walgreens Boots Alliance
+CPB,Campbell Soup Co.,Consumer Defensive,13182.0,Campbell Soup
+EQH,Equitable Holdings Inc,Financial Services,13146.0,Equitable
+PNR,Pentair plc,Industrials,13108.0,Pentair
+SWK,Stanley Black & Decker Inc,Industrials,13067.0,Stanley Black & Decker
+USFD,US Foods Holding Corp,Consumer Defensive,13065.0,US Foods
+AMH,American Homes 4 Rent,Real Estate,13059.0,American Homes 4 Rent
+CXO,Concho Resources Inc,Energy,12878.0,Concho Resources
+INCY,Incyte Corp.,Healthcare,12855.0,Incyte
+TW,Tradeweb Markets Inc,Financial Services,12846.0,Tradeweb Markets
+BLD,TopBuild Corp,Industrials,12824.0,TopBuild
+HST,Host Hotels & Resorts Inc,Real Estate,12811.0,Host Hotels & Resorts
+LNT,Alliant Energy Corp.,Utilities,12786.0,Alliant Energy
+UHS,"Universal Health Services, Inc.",Healthcare,12783.0,Universal Health Services
+THC,Tenet Healthcare Corp.,Healthcare,12783.0,Tenet Healthcare
+LW,Lamb Weston Holdings Inc,Consumer Defensive,12764.0,Lamb Weston
+SC,Santander Consumer USA Holdings Inc,Financial Services,12734.0,Santander Consumer USA
+BURL,Burlington Stores Inc,Consumer Cyclical,12712.0,Burlington Stores
+XPO,XPO Inc,Industrials,12711.0,XPO
+AOS,A.O. Smith Corp.,Industrials,12610.0,AO Smith
+DVA,DaVita Inc,Healthcare,12600.0,DaVita
+UDR,UDR Inc,Real Estate,12583.0,UDR
+SWAV,Shockwave Medical Inc.,Healthcare,12560.0,Shockwave Medical
+TECH,Bio-Techne Corp,Healthcare,12511.0,Bio-Techne
+NI,NiSource Inc,Utilities,12508.0,NiSource
+TOL,Toll Brothers Inc.,Consumer Cyclical,12507.0,Toll Brothers
+CASY,"Casey`s General Stores, Inc.",Consumer Defensive,12487.0,Casey's General Stores
+MORN,Morningstar Inc,Financial Services,12479.0,Morningstar
+PODD,Insulet Corporation,Healthcare,12454.0,Insulet
+KIM,Kimco Realty Corporation,Real Estate,12289.0,Kimco Realty
+RL,Ralph Lauren Corp,Consumer Cyclical,12285.0,Ralph Lauren
+WPC,W. P. Carey Inc,Real Estate,12276.0,W P Carey
+EVRG,Evergy Inc,Utilities,12246.0,Evergy
+MGM,MGM Resorts International,Consumer Cyclical,12227.0,MGM Resorts International
+FND,Floor & Decor Holdings Inc,Consumer Cyclical,12158.0,Floor & Decor
+BEN,"Franklin Resources, Inc.",Financial Services,12137.0,Franklin Resources
+UHAL,U-Haul Holding Company,Industrials,12121.0,U-Haul
+MEDP,Medpace Holdings Inc,Healthcare,12109.0,Medpace
+RNR,RenaissanceRe Holdings Ltd,Financial Services,12108.0,RenaissanceRe
+FIX,"Comfort Systems USA, Inc.",Industrials,12104.0,Comfort Systems USA
+CNA,CNA Financial Corp.,Financial Services,12084.0,CNA Financial
+GLPI,Gaming and Leisure Properties Inc,Real Estate,11976.0,Gaming and Leisure Properties
+UTHR,United Therapeutics Corp,Healthcare,11938.0,United Therapeutics
+BKI,Black Knight Inc,Technology,11876.0,Black Knight
+CHK,Chesapeake Energy Corp.,Energy,11859.0,Chesapeake Energy
+DOCU,DocuSign Inc,Technology,11855.0,DocuSign
+JKHY,"Jack Henry & Associates, Inc.",Technology,11851.0,Jack Henry & Associates
+EMN,Eastman Chemical Co,Basic Materials,11851.0,Eastman Chemical
+IPG,"Interpublic Group Of Cos., Inc.",Communication Services,11772.0,Interpublic Group Of Cos
+ACM,AECOM,Industrials,11771.0,AECOM
+ALLY,Ally Financial Inc,Financial Services,11588.0,Ally Financial
+CLH,"Clean Harbors, Inc.",Industrials,11574.0,Clean Harbors
+BJ,BJ`s Wholesale Club Holdings Inc,Consumer Defensive,11572.0,BJ's Wholesale Club
+SNX,TD Synnex Corp,Technology,11571.0,TD Synnex
+SJM,J.M. Smucker Co.,Consumer Defensive,11518.0,JM Smucker
+TXRH,Texas Roadhouse Inc,Consumer Cyclical,11495.0,Texas Roadhouse
+VER,VEREIT Inc,Real Estate,11491.0,VEREIT
+LKQ,LKQ Corp,Consumer Cyclical,11466.0,LKQ
+ELS,Equity Lifestyle Properties Inc.,Real Estate,11423.0,Equity Lifestyle Properties
+TTEK,"Tetra Tech, Inc.",Industrials,11422.0,Tetra Tech
+WING,Wingstop Inc,Consumer Cyclical,11415.0,Wingstop
+Y,Alleghany Corp.,Financial Services,11407.0,Alleghany
+DKS,"Dicks Sporting Goods, Inc.",Consumer Cyclical,11354.0,Dicks Sporting Goods
+PSN,Parsons Corp,Industrials,11354.0,Parsons
+LECO,"Lincoln Electric Holdings, Inc.",Industrials,11346.0,Lincoln Electric
+FTI,TechnipFMC plc,Energy,11326.0,TechnipFMC
+LSI,Life Storage Inc,Real Estate,11325.0,Life Storage
+WWD,Woodward Inc,Industrials,11282.0,Woodward
+JNPR,Juniper Networks Inc,Technology,11186.0,Juniper Networks
+APA,APA Corporation,Energy,11073.0,APA
+CRL,Charles River Laboratories International Inc.,Healthcare,11049.0,Charles River Laboratories International
+BRKR,Bruker Corp,Healthcare,11025.0,Bruker
+ITT,ITT Inc,Industrials,10970.0,ITT
+REG,Regency Centers Corporation,Real Estate,10885.0,Regency Centers
+KMX,Carmax Inc,Consumer Cyclical,10883.0,Carmax
+CPT,Camden Property Trust,Real Estate,10814.0,Camden Property Trust
+ELF,e.l.f. Beauty Inc,Consumer Defensive,10810.0,elf Beauty
+AR,Antero Resources Corp,Energy,10779.0,Antero Resources
+SRPT,Sarepta Therapeutics Inc,Healthcare,10712.0,Sarepta Therapeutics
+PFGC,Performance Food Group Company,Consumer Defensive,10689.0,Performance Food Group
+LSCC,Lattice Semiconductor Corp.,Technology,10658.0,Lattice Semiconductor
+CW,Curtiss-Wright Corp.,Industrials,10634.0,Curtiss-Wright
+SIRI,Sirius XM Holdings Inc,Communication Services,10617.0,Sirius XM
+AFG,American Financial Group Inc,Financial Services,10608.0,American Financial Group
+TAP,Molson Coors Beverage Company,Consumer Defensive,10598.0,Molson Coors Beverage
+SAIA,Saia Inc.,Industrials,10537.0,Saia
+ALLE,Allegion plc,Industrials,10530.0,Allegion
+ALV,Autoliv Inc.,Consumer Cyclical,10506.0,Autoliv
+WYNN,Wynn Resorts Ltd.,Consumer Cyclical,10480.0,Wynn Resorts
+LAMR,Lamar Advertising Co,Real Estate,10401.0,Lamar Advertising
+HRC,Hill-Rom Holdings Inc,Healthcare,10301.0,Hill-Rom
+EPAM,EPAM Systems Inc,Technology,10277.0,EPAM Systems
+EWBC,"East West Bancorp, Inc.",Financial Services,10235.0,East West Bancorp
+SCI,Service Corp. International,Consumer Cyclical,10162.0,ServiceInternational
+PAG,Penske Automotive Group Inc,Consumer Cyclical,10128.0,Penske Automotive Group
+TWLO,Twilio Inc,Communication Services,10094.0,Twilio
+ESTC,Elastic N.V,Technology,10093.0,Elastic NV
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,10074.0,CH Robinson Worldwide
+NLSN,Nielsen Holdings plc,Industrials,10068.0,Nielsen
+MOS,Mosaic Company,Basic Materials,10005.0,Mosaic
+CCK,"Crown Holdings, Inc.",Consumer Cyclical,9968.0,Crown
+HII,Huntington Ingalls Industries Inc,Industrials,9967.0,Huntington Ingalls Industries
+GWRE,Guidewire Software Inc,Technology,9921.0,Guidewire Software
+UNM,Unum Group,Financial Services,9901.0,Unum Group
+FFIV,F5 Inc,Technology,9867.0,F5
+CTLT,Catalent Inc.,Healthcare,9773.0,Catalent
+JEF,Jefferies Financial Group Inc,Financial Services,9731.0,Jefferies Financial Group
+ATR,Aptargroup Inc.,Consumer Cyclical,9722.0,Aptargroup
+PAYC,Paycom Software Inc,Technology,9692.0,Paycom Software
+NLY,Annaly Capital Management Inc,Real Estate,9679.0,Annaly Capital Management
+TFX,Teleflex Incorporated,Healthcare,9639.0,Teleflex
+CHDN,"Churchill Downs, Inc.",Consumer Cyclical,9628.0,Churchill Downs
+ZEN,Zendesk Inc,Technology,9626.0,Zendesk
+PLAN,Anaplan Inc,Technology,9593.0,Anaplan
+REXR,Rexford Industrial Realty Inc,Real Estate,9519.0,Rexford Industrial Realty
+TPR,Tapestry Inc,Consumer Cyclical,9515.0,Tapestry
+CACI,Caci International Inc.,Technology,9434.0,Caci International
+WCC,"Wesco International, Inc.",Industrials,9430.0,Wesco International
+TREX,"TREX Co., Inc.",Industrials,9425.0,TREX
+CROX,Crocs Inc,Consumer Cyclical,9403.0,Crocs
+QRVO,Qorvo Inc,Technology,9389.0,Qorvo
+JLL,Jones Lang Lasalle Inc.,Real Estate,9346.0,Jones Lang Lasalle
+CUBE,CubeSmart,Real Estate,9343.0,CubeSmart
+SKX,"Skechers U S A, Inc.",Consumer Cyclical,9329.0,Skechers USA
+COTY,Coty Inc,Consumer Defensive,9295.0,Coty
+MUSA,Murphy USA Inc,Consumer Cyclical,9238.0,Murphy USA
+GNRC,Generac Holdings Inc,Industrials,9169.0,Generac
+ACC,American Campus Communities Inc.,Real Estate,9125.0,American Campus Communities
+BXP,"Boston Properties, Inc.",Real Estate,9124.0,Boston Properties
+HSIC,Henry Schein Inc.,Healthcare,9111.0,Henry Schein
+Z,Zillow Group Inc,Communication Services,9110.0,Zillow Group
+STOR,Store Capital Corp,Real Estate,9105.0,Store Capital
+COHR,Coherent Corp,Technology,9000.0,Coherent
+XEC,Cimarex Energy Co.,Energy,8965.0,Cimarex Energy
+RRC,Range Resources Corp,Energy,8946.0,Range Resources
+COG,Cabot Oil & Gas Corp.,Energy,8893.0,Cabot Oil & Gas
+FN,Fabrinet,Technology,8857.0,Fabrinet
+KBR,KBR Inc,Industrials,8831.0,KBR
+KNSL,Kinsale Capital Group Inc,Financial Services,8821.0,Kinsale Capital Group
+AAL,American Airlines Group Inc,Industrials,8818.0,American Airlines Group
+SEIC,SEI Investments Co.,Financial Services,8793.0,SEI Investments
+MKSI,"MKS Instruments, Inc.",Technology,8770.0,MKS Instruments
+DCI,Donaldson Co. Inc.,Industrials,8769.0,Donaldson
+AIZ,Assurant Inc,Financial Services,8763.0,Assurant
+MTZ,Mastec Inc.,Industrials,8762.0,Mastec
+RGEN,Repligen Corp.,Healthcare,8759.0,Repligen
+UI,Ubiquiti Inc,Technology,8748.0,Ubiquiti
+PNW,Pinnacle West Capital Corp.,Utilities,8685.0,Pinnacle West Capital
+EXAS,Exact Sciences Corp.,Healthcare,8677.0,Exact Sciences
+TPX,Tempur Sealy International Inc,Consumer Cyclical,8614.0,Tempur Sealy International
+OLED,Universal Display Corp.,Technology,8599.0,Universal Display
+HAS,"Hasbro, Inc.",Consumer Cyclical,8597.0,Hasbro
+RGLD,"Royal Gold, Inc.",Basic Materials,8591.0,Royal Gold
+FHN,First Horizon Corporation,Financial Services,8575.0,First Horizon
+PCTY,Paylocity Holding Corp,Technology,8565.0,Paylocity
+PPC,Pilgrim`s Pride Corp.,Consumer Defensive,8554.0,Pilgrim's Pride
+CART,Maplebear Inc.,,8529.0,Maplebear
+GPK,Graphic Packaging Holding Co,Consumer Cyclical,8491.0,Graphic Packaging
+ORI,Old Republic International Corp.,Financial Services,8484.0,Old Republic International
+ELAN,Elanco Animal Health Inc,Healthcare,8470.0,Elanco Animal Health
+EHC,Encompass Health Corp,Healthcare,8404.0,Encompass Health
+ARMK,Aramark,Consumer Cyclical,8368.0,Aramark
+RBC,RBC Bearings Inc.,Industrials,8327.0,RBC Bearings
+CR,Crane Co,Industrials,8304.0,Crane
+TTC,Toro Co.,Industrials,8289.0,Toro
+X,United States Steel Corp.,Basic Materials,8279.0,United States Steel
+AVLR,Avalara Inc,Technology,8278.0,Avalara
+COKE,Coca-Cola Consolidated Inc,Consumer Defensive,8272.0,Coca-Cola Consolidated
+SF,Stifel Financial Corp.,Financial Services,8264.0,Stifel Financial
+CHE,Chemed Corp.,Healthcare,8226.0,Chemed
+AMKR,AMKOR Technology Inc.,Technology,8224.0,AMKOR Technology
+SWN,Southwestern Energy Company,Energy,8205.0,Southwestern Energy
+BWA,BorgWarner Inc,Consumer Cyclical,8188.0,BorgWarner
+FRT,Federal Realty Investment Trust.,Real Estate,8129.0,Federal Realty Investment Trust
+BIO,Bio-Rad Laboratories Inc.,Healthcare,8129.0,Bio-Rad Laboratories
+NYT,New York Times Co.,Communication Services,8116.0,New York Times
+CGNX,Cognex Corp.,Technology,8102.0,Cognex
+CLF,Cleveland-Cliffs Inc,Basic Materials,8055.0,Cleveland-Cliffs
+BWXT,BWX Technologies Inc,Industrials,8038.0,BWX Technologies
+GNTX,Gentex Corp.,Consumer Cyclical,7960.0,Gentex
+SFM,Sprouts Farmers Market Inc,Consumer Defensive,7932.0,Sprouts Farmers Market
+AGCO,AGCO Corp.,Industrials,7922.0,AGCO
+EXP,Eagle Materials Inc.,Basic Materials,7876.0,Eagle Materials
+FMC,FMC Corp.,Basic Materials,7850.0,FMC
+MKTX,MarketAxess Holdings Inc.,Financial Services,7820.0,MarketAxess
+AYI,"Acuity Brands, Inc.",Industrials,7804.0,Acuity Brands
+MTCH,Match Group Inc.,Communication Services,7797.0,Match Group
+ANF,Abercrombie & Fitch Co.,Consumer Cyclical,7787.0,Abercrombie & Fitch
+EVR,Evercore Inc,Financial Services,7780.0,Evercore
+AA,Alcoa Corp,Basic Materials,7757.0,Alcoa
+GL,Globe Life Inc,Financial Services,7747.0,Globe Life
+MTDR,Matador Resources Co,Energy,7741.0,Matador Resources
+WEX,WEX Inc,Technology,7740.0,WEX
+FCN,FTI Consulting Inc.,Industrials,7718.0,FTI Consulting
+KNX,Knight-Swift Transportation Holdings Inc,Industrials,7699.0,Knight-Swift Transportation
+OHI,"Omega Healthcare Investors, Inc.",Real Estate,7690.0,Omega Healthcare Investors
+AXTA,Axalta Coating Systems Ltd,Basic Materials,7687.0,Axalta Coating Systems
+EGP,"Eastgroup Properties, Inc.",Real Estate,7678.0,Eastgroup Properties
+PRI,Primerica Inc,Financial Services,7669.0,Primerica
+INGR,Ingredion Inc,Consumer Defensive,7644.0,Ingredion
+ATI,ATI Inc,Industrials,7631.0,ATI
+GPS,"Gap, Inc.",Consumer Cyclical,7601.0,Gap
+AIT,Applied Industrial Technologies Inc.,Industrials,7561.0,Applied Industrial Technologies
+MTSI,MACOM Technology Solutions Holdings Inc,Technology,7537.0,MACOM Technology Solutions
+WBS,Webster Financial Corp.,Financial Services,7515.0,Webster Financial
+NNN,NNN REIT Inc,Real Estate,7475.0,NNN REIT
+PEN,Penumbra Inc,Healthcare,7474.0,Penumbra
+VOYA,Voya Financial Inc,Financial Services,7454.0,Voya Financial
+WSC,WillScot Mobile Mini Holdings Corp,Industrials,7409.0,WillScot Mobile Mini
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,7393.0,Mohawk Industries
+GMED,Globus Medical Inc,Healthcare,7376.0,Globus Medical
+OSK,Oshkosh Corp,Industrials,7349.0,Oshkosh
+COLD,Americold Realty Trust Inc,Real Estate,7345.0,Americold Realty Trust
+NOV,NOV Inc,Energy,7337.0,NOV
+FIVE,Five Below Inc,Consumer Cyclical,7332.0,Five Below
+LBRDA,Liberty Broadband Corp,Communication Services,7254.0,Liberty Broadband
+GME,Gamestop Corporation,Consumer Cyclical,7241.0,Gamestop
+MTN,Vail Resorts Inc.,Consumer Cyclical,7236.0,Vail Resorts
+UFPI,UFP Industries Inc,Basic Materials,7232.0,UFP Industries
+FLR,Fluor Corporation,Industrials,7226.0,Fluor
+VKTX,Viking Therapeutics Inc,Healthcare,7207.0,Viking Therapeutics
+CZR,Caesars Entertainment Inc,Consumer Cyclical,7198.0,Caesars Entertainment
+MSA,MSA Safety Inc,Industrials,7165.0,MSA Safety
+ROKU,Roku Inc,Communication Services,7160.0,Roku
+CIEN,CIENA Corp.,Technology,7158.0,CIENA
+ETSY,Etsy Inc,Consumer Cyclical,7141.0,Etsy
+SSD,"Simpson Manufacturing Co., Inc.",Industrials,7120.0,Simpson Manufacturing
+OGE,Oge Energy Corp.,Utilities,7109.0,Oge Energy
+SPSC,SPS Commerce Inc.,Technology,7108.0,SPS Commerce
+KEX,Kirby Corp.,Industrials,7107.0,Kirby
+NCLH,Norwegian Cruise Line Holdings Ltd,Consumer Cyclical,7105.0,Norwegian Cruise Line
+CBSH,"Commerce Bancshares, Inc.",Financial Services,7097.0,Commerce Bancshares
+LEA,Lear Corp.,Consumer Cyclical,7096.0,Lear
+LAD,"Lithia Motors, Inc.",Consumer Cyclical,7070.0,Lithia Motors
+HLI,Houlihan Lokey Inc,Financial Services,7055.0,Houlihan Lokey
+AGNC,AGNC Investment Corp,Real Estate,6971.0,AGNC Investment
+AM,Antero Midstream Corp,Energy,6964.0,Antero Midstream
+IVZ,Invesco Ltd,Financial Services,6950.0,Invesco
+WAL,Western Alliance Bancorp,Financial Services,6945.0,Western Alliance Bancorp
+ARW,Arrow Electronics Inc.,Technology,6932.0,Arrow Electronics
+ITCI,Intra-Cellular Therapies Inc,Healthcare,6928.0,Intra-Cellular Therapies
+SAIC,Science Applications International Corp.,Technology,6925.0,Science Applications International
+HQY,Healthequity Inc,Healthcare,6890.0,Healthequity
+RHI,Robert Half Inc,Industrials,6875.0,Robert Half
+SITE,SiteOne Landscape Supply Inc,Industrials,6867.0,SiteOne Landscape Supply
+AN,Autonation Inc.,Consumer Cyclical,6835.0,Autonation
+HRB,H&R Block Inc.,Consumer Cyclical,6826.0,H&R Block
+SUM,Summit Materials Inc,Basic Materials,6809.0,Summit Materials
+BERY,Berry Global Group Inc,Consumer Cyclical,6776.0,Berry Global Group
+ENSG,Ensign Group Inc,Healthcare,6770.0,Ensign Group
+MASI,Masimo Corp,Healthcare,6751.0,Masimo
+NE,Noble Corp Plc,Energy,6741.0,NoblePlc
+NSIT,Insight Enterprises Inc.,Technology,6694.0,Insight Enterprises
+CMA,"Comerica, Inc.",Financial Services,6692.0,Comerica
+DAR,Darling Ingredients Inc,Consumer Defensive,6680.0,Darling Ingredients
+H,Hyatt Hotels Corporation,Consumer Cyclical,6677.0,Hyatt Hotels
+GTLS,Chart Industries Inc,Industrials,6642.0,Chart Industries
+JAZZ,Jazz Pharmaceuticals plc,Healthcare,6623.0,Jazz Pharmaceuticals
+MIDD,Middleby Corp.,Industrials,6618.0,Middleby
+ALSN,Allison Transmission Holdings Inc,Consumer Cyclical,6571.0,Allison Transmission
+SPXC,SPX Technologies Inc,Industrials,6564.0,SPX Technologies
+RLI,RLI Corp.,Financial Services,6556.0,RLI
+BRX,Brixmor Property Group Inc,Real Estate,6508.0,Brixmor Property Group
+CFR,Cullen Frost Bankers Inc.,Financial Services,6508.0,Cullen Frost Bankers
+PVH,PVH Corp,Consumer Cyclical,6498.0,PVH
+FLS,Flowserve Corp.,Industrials,6476.0,Flowserve
+MUR,Murphy Oil Corp.,Energy,6474.0,Murphy Oil
+MLI,"Mueller Industries, Inc.",Industrials,6456.0,Mueller Industries
+LPX,Louisiana-Pacific Corp.,Industrials,6427.0,Louisiana-Pacific
+OLN,Olin Corp.,Basic Materials,6419.0,Olin
+CMC,Commercial Metals Co.,Basic Materials,6411.0,Commercial Metals
+PE,Parsley Energy Inc,Energy,6411.0,Parsley Energy
+BPMC,Blueprint Medicines Corp,Healthcare,6409.0,Blueprint Medicines
+BPOP,Popular Inc.,Financial Services,6403.0,Popular
+FRPT,Freshpet Inc,Consumer Defensive,6396.0,Freshpet
+LFUS,"Littelfuse, Inc.",Technology,6388.0,Littelfuse
+AAON,AAON Inc.,Industrials,6386.0,AAON
+LSTR,"Landstar System, Inc.",Industrials,6372.0,Landstar System
+POST,Post Holdings Inc,Consumer Defensive,6370.0,Post
+STAG,STAG Industrial Inc,Real Estate,6320.0,STAG Industrial
+ST,Sensata Technologies Holding Plc,Technology,6282.0,Sensata Technologies
+ZION,Zions Bancorporation N.A,Financial Services,6278.0,Zions Ban NA
+RHP,Ryman Hospitality Properties Inc,Real Estate,6269.0,Ryman Hospitality Properties
+MTH,Meritage Homes Corp.,Consumer Cyclical,6256.0,Meritage Homes
+CRUS,"Cirrus Logic, Inc.",Technology,6251.0,Cirrus Logic
+ETRN,Equitrans Midstream Corporation,Energy,6210.0,Equitrans Midstream
+LYFT,Lyft Inc,Technology,6193.0,Lyft
+SAIL,SailPoint Technologies Holdings Inc,Technology,6186.0,SailPoint Technologies
+NEWR,New Relic Inc,Technology,6178.0,New Relic
+HCP,HashiCorp Inc,,6171.0,HashiCorp
+LBTYA,Liberty Global Ltd,Communication Services,6168.0,Liberty Global
+BFAM,"Bright Horizons Family Solutions, Inc.",Consumer Cyclical,6148.0,Bright Horizons Family Solutions
+BECN,Beacon Roofing Supply Inc,Industrials,6138.0,Beacon Roofing Supply
+G,Genpact Ltd,Technology,6116.0,Genpact
+ADT,ADT Inc,Industrials,6109.0,ADT
+AQUA,Evoqua Water Technologies Corp,Industrials,6104.0,Evoqua Water Technologies
+MAT,"Mattel, Inc.",Consumer Cyclical,6097.0,Mattel
+PNFP,Pinnacle Financial Partners Inc.,Financial Services,6092.0,Pinnacle Financial Partners
+FR,"First Industrial Realty Trust, Inc.",Real Estate,6085.0,First Industrial Realty Trust
+RMBS,Rambus Inc.,Technology,6078.0,Rambus
+AXS,Axis Capital Holdings Ltd,Financial Services,6051.0,Axis Capital
+TMHC,Taylor Morrison Home Corp.,Consumer Cyclical,6032.0,Taylor Morrison Home
+TKR,Timken Co.,Industrials,6030.0,Timken
+WTFC,Wintrust Financial Corp.,Financial Services,6017.0,Wintrust Financial
+QTS,Qts Realty Trust Inc,Real Estate,6000.0,Qts Realty Trust
+SRC,Spirit Realty Capital Inc,Real Estate,5980.0,Spirit Realty Capital
+S,SentinelOne Inc,,5964.0,SentinelOne
+ADC,Agree Realty Corp.,Real Estate,5962.0,Agree Realty
+STWD,Starwood Property Trust Inc,Real Estate,5953.0,Starwood Property Trust
+IBP,Installed Building Products Inc,Industrials,5952.0,Installed Building Products
+HR,Healthcare Realty Trust Inc,Real Estate,5939.0,Healthcare Realty Trust
+ESNT,Essent Group Ltd,Financial Services,5929.0,Essent Group
+EXEL,Exelixis Inc,Healthcare,5925.0,Exelixis
+PB,Prosperity Bancshares Inc.,Financial Services,5911.0,Prosperity Bancshares
+SSB,SouthState Corporation,Financial Services,5895.0,SouthState
+CLGX,CoreLogic Inc,Technology,5889.0,CoreLogic
+CACC,Credit Acceptance Corp.,Financial Services,5883.0,Credit Acceptance
+SON,Sonoco Products Co.,Consumer Cyclical,5864.0,Sonoco Products
+MARA,Marathon Digital Holdings Inc,Financial Services,5862.0,Marathon Digital
+BOKF,BOK Financial Corp.,Financial Services,5860.0,BOK Financial
+NOVT,Novanta Inc,Technology,5847.0,Novanta
+PBF,PBF Energy Inc,Energy,5840.0,PBF Energy
+ACHC,Acadia Healthcare Company Inc,Healthcare,5833.0,Acadia Healthcare
+ESI,Element Solutions Inc,Basic Materials,5826.0,Element Solutions
+HXL,Hexcel Corp.,Industrials,5796.0,Hexcel
+SIGI,Selective Insurance Group Inc.,Financial Services,5775.0,Selective Insurance Group
+BMI,Badger Meter Inc.,Industrials,5762.0,Badger Meter
+OMF,OneMain Holdings Inc,Financial Services,5757.0,OneMain
+XRAY,DENTSPLY Sirona Inc,Healthcare,5739.0,DENTSPLY Sirona
+W,Wayfair Inc,Consumer Cyclical,5734.0,Wayfair
+SNV,Synovus Financial Corp.,Financial Services,5720.0,Synovus Financial
+DBX,Dropbox Inc,Technology,5715.0,Dropbox
+BCPC,Balchem Corp.,Basic Materials,5714.0,Balchem
+UNVR,Univar Solutions Inc,Basic Materials,5701.0,Univar Solutions
+CWST,"Casella Waste Systems, Inc.",Industrials,5679.0,Casella Waste Systems
+FAF,First American Financial Corp,Financial Services,5654.0,First American Financial
+SM,SM Energy Co,Energy,5629.0,SM Energy
+OZK,Bank OZK,Financial Services,5616.0,Bank OZK
+M,Macy`s Inc,Consumer Cyclical,5608.0,Macy's
+WH,Wyndham Hotels & Resorts Inc,Consumer Cyclical,5604.0,Wyndham Hotels & Resorts
+AVAV,AeroVironment Inc.,Industrials,5593.0,AeroVironment
+TDW,Tidewater Inc.,Energy,5579.0,Tidewater
+CRS,Carpenter Technology Corp.,Industrials,5574.0,Carpenter Technology
+CBT,Cabot Corp.,Basic Materials,5574.0,Cabot
+WTS,"Watts Water Technologies, Inc.",Industrials,5568.0,Watts Water Technologies
+DDS,Dillard`s Inc.,Consumer Cyclical,5527.0,Dillard's
+IAA,IAA Inc,Industrials,5514.0,IAA
+LNTH,Lantheus Holdings Inc,Healthcare,5506.0,Lantheus
+GKOS,Glaukos Corporation,Healthcare,5505.0,Glaukos
+IONS,Ionis Pharmaceuticals Inc,Healthcare,5494.0,Ionis Pharmaceuticals
+ATKR,Atkore Inc,Industrials,5493.0,Atkore
+VAL,Valaris Ltd,Energy,5487.0,Valaris
+HALO,Halozyme Therapeutics Inc.,Healthcare,5483.0,Halozyme Therapeutics
+LNC,Lincoln National Corp.,Financial Services,5480.0,Lincoln National
+SWX,Southwest Gas Holdings Inc,Utilities,5447.0,Southwest Gas
+MTG,MGIC Investment Corp,Financial Services,5444.0,MGIC Investment
+JHG,Janus Henderson Group plc,Financial Services,5422.0,Janus Henderson Group
+TRNO,Terreno Realty Corp,Real Estate,5415.0,Terreno Realty
+SEE,Sealed Air Corp.,Consumer Cyclical,5414.0,Sealed Air
+SWCH,Switch Inc,Technology,5410.0,Switch
+TNET,TriNet Group Inc,Industrials,5408.0,TriNet Group
+SMAR,Smartsheet Inc,Technology,5399.0,Smartsheet
+CHH,"Choice Hotels International, Inc.",Consumer Cyclical,5393.0,Choice Hotels International
+PLNT,Planet Fitness Inc,Consumer Cyclical,5386.0,Planet Fitness
+FCFS,FirstCash Holdings Inc,Financial Services,5381.0,FirstCash
+BCC,Boise Cascade Co,Basic Materials,5370.0,Boise Cascade
+ONB,Old National Bancorp,Financial Services,5346.0,Old National Bancorp
+COOP,Mr. Cooper Group Inc,Financial Services,5334.0,Mr Cooper Group
+AL,Air Lease Corp,Industrials,5330.0,Air Lease
+CIT,CIT Group Inc,Financial Services,5306.0,CIT Group
+ALK,Alaska Air Group Inc.,Industrials,5296.0,Alaska Air Group
+QLYS,Qualys Inc,Technology,5296.0,Qualys
+WPX,WPX Energy Inc,Energy,5291.0,WPX Energy
+R,"Ryder System, Inc.",Industrials,5288.0,Ryder System
+BC,Brunswick Corp.,Consumer Cyclical,5273.0,Brunswick
+HLNE,Hamilton Lane Inc,Financial Services,5269.0,Hamilton Lane
+FSS,Federal Signal Corp.,Industrials,5268.0,Federal Signal
+KBH,KB Home,Consumer Cyclical,5257.0,KB Home
+MOD,Modine Manufacturing Co.,Consumer Cyclical,5250.0,Modine Manufacturing
+WWE,"World Wrestling Entertainment, Inc.",Communication Services,5240.0,World Wrestling Entertainment
+VVV,Valvoline Inc,Energy,5203.0,Valvoline
+APPF,Appfolio Inc,Technology,5199.0,Appfolio
+PSB,"PS Business Parks, Inc.",Real Estate,5178.0,PS Business Parks
+NXST,Nexstar Media Group Inc,Communication Services,5178.0,Nexstar Media Group
+DY,"Dycom Industries, Inc.",Industrials,5177.0,Dycom Industries
+EEFT,Euronet Worldwide Inc,Technology,5161.0,Euronet Worldwide
+MMS,Maximus Inc.,Industrials,5146.0,Maximus
+MDU,MDU Resources Group Inc,Basic Materials,5144.0,MDU Resources Group
+NEU,NewMarket Corp.,Basic Materials,5141.0,NewMarket
+CADE,Cadence Bank,Financial Services,5130.0,Cadence Bank
+TENB,Tenable Holdings Inc,Technology,5105.0,Tenable
+VRNS,Varonis Systems Inc,Technology,5098.0,Varonis Systems
+FG,F&G Annuities & Life Inc,Financial Services,5097.0,F&G Annuities & Life
+AMG,Affiliated Managers Group Inc.,Financial Services,5096.0,Affiliated Managers Group
+UGI,UGI Corp.,Utilities,5085.0,UGI
+NFG,National Fuel Gas Co.,Energy,5079.0,National Fuel Gas
+VMI,"Valmont Industries, Inc.",Industrials,5076.0,Valmont Industries
+LANC,Lancaster Colony Corp.,Consumer Defensive,5066.0,Lancaster Colony
+STL,Sterling Bancorp.,Financial Services,5066.0,Sterling Bancorp
+EXLS,ExlService Holdings Inc,Technology,5065.0,ExlService
+AWI,Armstrong World Industries Inc.,Industrials,5058.0,Armstrong World Industries
+CYTK,Cytokinetics Inc,Healthcare,5055.0,Cytokinetics
+ITRI,Itron Inc.,Technology,5047.0,Itron
+THO,"Thor Industries, Inc.",Consumer Cyclical,5035.0,Thor Industries
+ASH,Ashland Inc,Basic Materials,5018.0,Ashland
+RIG,Transocean Ltd,Energy,5008.0,Transocean
+PEGA,Pegasystems Inc.,Technology,5003.0,Pegasystems
+IDA,"Idacorp, Inc.",Utilities,4987.0,Idacorp
+SLGN,Silgan Holdings Inc.,Consumer Cyclical,4979.0,Silgan
+ALTR,Altair Engineering Inc,Technology,4962.0,Altair Engineering
+AVT,Avnet Inc.,Technology,4956.0,Avnet
+APLS,Apellis Pharmaceuticals Inc,Healthcare,4923.0,Apellis Pharmaceuticals
+FNB,F.N.B. Corp.,Financial Services,4918.0,FNB
+ALTM,Arcadium Lithium PLC,Energy,4914.0,Arcadium Lithium
+COLM,Columbia Sportswear Co.,Consumer Cyclical,4906.0,Columbia Sportswear
+MSM,"MSC Industrial Direct Co., Inc.",Industrials,4853.0,MSC Industrial Direct
+OLLI,Ollies Bargain Outlet Holdings Inc,Consumer Defensive,4837.0,Ollies Bargain Outlet
+CVLT,Commvault Systems Inc,Technology,4833.0,Commvault Systems
+FLO,"Flowers Foods, Inc.",Consumer Defensive,4825.0,Flowers Foods
+GATX,GATX Corp.,Industrials,4810.0,GATX
+VFC,VF Corp.,Consumer Cyclical,4803.0,VF
+EXPO,Exponent Inc.,Industrials,4802.0,Exponent
+ESGR,Enstar Group Limited,Financial Services,4782.0,Enstar Group Limited
+BYD,Boyd Gaming Corp.,Consumer Cyclical,4778.0,Boyd Gaming
+MDGL,Madrigal Pharmaceuticals Inc,Healthcare,4759.0,Madrigal Pharmaceuticals
+WHR,Whirlpool Corp.,Consumer Cyclical,4740.0,Whirlpool
+DLB,Dolby Laboratories Inc,Communication Services,4738.0,Dolby Laboratories
+CLDR,Cloudera Inc,Technology,4737.0,Cloudera
+MMSI,"Merit Medical Systems, Inc.",Healthcare,4736.0,Merit Medical Systems
+MDC,"M.D.C. Holdings, Inc.",Consumer Cyclical,4727.0,MDC
+PRSP,Perspecta Inc,Technology,4726.0,Perspecta
+HOMB,Home Bancshares Inc,Financial Services,4722.0,Home Bancshares
+TMDX,Transmedics Group Inc,Healthcare,4705.0,Transmedics Group
+AEO,American Eagle Outfitters Inc.,Consumer Cyclical,4697.0,American Eagle Outfitters
+THG,Hanover Insurance Group Inc,Financial Services,4694.0,Hanover Insurance Group
+INSP,Inspire Medical Systems Inc,Healthcare,4693.0,Inspire Medical Systems
+ABG,Asbury Automotive Group Inc,Consumer Cyclical,4689.0,Asbury Automotive Group
+AJRD,Aerojet Rocketdyne Holdings Inc,Industrials,4683.0,Aerojet Rocketdyne
+HOG,"Harley-Davidson, Inc.",Consumer Cyclical,4678.0,Harley-Davidson
+SIG,Signet Jewelers Ltd,Consumer Cyclical,4669.0,Signet Jewelers
+GRA,W.R. Grace & Co.,Basic Materials,4638.0,WR Grace
+PII,Polaris Inc,Consumer Cyclical,4632.0,Polaris
+EPRT,Essential Properties Realty Trust Inc,Real Estate,4623.0,Essential Properties Realty Trust
+RDN,"Radian Group, Inc.",Financial Services,4623.0,Radian Group
+KRG,Kite Realty Group Trust,Real Estate,4607.0,Kite Realty Group Trust
+MGY,Magnolia Oil & Gas Corp,Energy,4597.0,Magnolia Oil & Gas
+RH,RH,Consumer Cyclical,4597.0,RH
+SRCL,Stericycle Inc.,Industrials,4589.0,Stericycle
+GTES,Gates Industrial Corporation plc,Industrials,4574.0,Gates Industrial
+BCO,Brink`s Co.,Industrials,4556.0,Brink's
+KRYS,Krystal Biotech Inc,Healthcare,4541.0,Krystal Biotech
+FORM,FormFactor Inc.,Technology,4532.0,FormFactor
+HAE,Haemonetics Corp.,Healthcare,4523.0,Haemonetics
+FELE,"Franklin Electric Co., Inc.",Industrials,4517.0,Franklin Electric
+SLM,SLM Corp.,Financial Services,4506.0,SLM
+AEL,American Equity Investment Life Holding Co,Financial Services,4493.0,American Equity Investment Life
+POR,Portland General Electric Co,Utilities,4472.0,Portland General Electric
+ORA,Ormat Technologies Inc,Utilities,4469.0,Ormat Technologies
+VRRM,Verra Mobility Corp,Industrials,4461.0,Verra Mobility
+NAV,Navistar International Corp.,Industrials,4439.0,Navistar International
+PTEN,Patterson-UTI Energy Inc,Energy,4419.0,Patterson-UTI Energy
+SJI,South Jersey Industries Inc.,Utilities,4418.0,South Jersey Industries
+VNO,Vornado Realty Trust,Real Estate,4410.0,Vornado Realty Trust
+WTM,"White Mountains Insurance Group, Ltd.",Financial Services,4400.0,White Mountains Insurance Group
+PI,Impinj Inc,Technology,4393.0,Impinj
+POWI,Power Integrations Inc.,Technology,4392.0,Power Integrations
+WIRE,Encore Wire Corp.,Industrials,4390.0,Encore Wire
+RDNT,Radnet Inc,Healthcare,4389.0,Radnet
+TRTN,Triton International Ltd,Industrials,4380.0,Triton International
+CRVL,Corvel Corp.,Financial Services,4347.0,Corvel
+UBSI,"United Bankshares, Inc.",Financial Services,4344.0,United Bankshares
+HGV,Hilton Grand Vacations Inc,Consumer Cyclical,4334.0,Hilton Grand Vacations
+RYN,Rayonier Inc.,Real Estate,4332.0,Rayonier
+SEM,Select Medical Holdings Corporation,Healthcare,4324.0,Select Medical
+WU,Western Union Company,Financial Services,4314.0,Western Union
+ENS,Enersys,Industrials,4313.0,Enersys
+LOPE,Grand Canyon Education Inc,Consumer Defensive,4307.0,Grand Canyon Education
+FFIN,"First Financial Bankshares, Inc.",Financial Services,4307.0,First Financial Bankshares
+MATX,Matson Inc,Industrials,4306.0,Matson
+FIZZ,National Beverage Corp.,Consumer Defensive,4297.0,National Beverage
+HUN,Huntsman Corp,Basic Materials,4295.0,Huntsman
+ASGN,ASGN Inc,Industrials,4292.0,ASGN
+FUL,H.B. Fuller Company,Basic Materials,4271.0,HB Fuller
+ACA,Arcosa Inc,Industrials,4237.0,Arcosa
+GBCI,"Glacier Bancorp, Inc.",Financial Services,4226.0,Glacier Bancorp
+GPI,"Group 1 Automotive, Inc.",Consumer Cyclical,4191.0,Group 1 Automotive
+AAP,Advance Auto Parts Inc,Consumer Cyclical,4183.0,Advance Auto Parts
+NJR,New Jersey Resources Corporation,Utilities,4166.0,New Jersey Resources
+VNE,Veoneer Inc,Consumer Cyclical,4139.0,Veoneer
+MAIN,Main Street Capital Corporation,Financial Services,4133.0,Main Street Capital
+AGO,Assured Guaranty Ltd,Financial Services,4094.0,Assured Guaranty
+SKY,Skyline Champion Corp,Consumer Cyclical,4077.0,Skyline Champion
+NOG,Northern Oil and Gas Inc.,Energy,4075.0,Northern Oil and Gas
+SLAB,Silicon Laboratories Inc,Technology,4074.0,Silicon Laboratories
+MC,Moelis & Co,Financial Services,4069.0,Moelis
+ITGR,Integer Holdings Corp,Healthcare,4067.0,Integer
+BLKB,Blackbaud Inc,Technology,4029.0,Blackbaud
+AMR,Alpha Metallurgical Resources Inc,,4029.0,Alpha Metallurgical Resources
+TEX,Terex Corp.,Industrials,4027.0,Terex
+AEIS,Advanced Energy Industries Inc.,Industrials,4025.0,Advanced Energy Industries
+ALKS,Alkermes plc,Healthcare,4019.0,Alkermes
+CSWI,CSW Industrials Inc,Industrials,4019.0,CSW Industrials
+WRI,Weingarten Realty Investors,Real Estate,4018.0,Weingarten Realty Investors
+GOLF,Acushnet Holdings Corp,Consumer Cyclical,4007.0,Acushnet
+HRI,Herc Holdings Inc,Industrials,3999.0,Herc
+IAC,IAC Inc,Communication Services,3994.0,IAC
+WK,Workiva Inc,Technology,3993.0,Workiva
+CPRI,Capri Holdings Ltd,Consumer Cyclical,3992.0,Capri
+KTB,Kontoor Brands Inc,Consumer Cyclical,3991.0,Kontoor Brands
+LBRT,Liberty Energy Inc,Energy,3983.0,Liberty Energy
+HWC,Hancock Whitney Corp.,Financial Services,3973.0,Hancock Whitney
+CC,Chemours Company,Basic Materials,3968.0,Chemours
+CAR,Avis Budget Group Inc,Industrials,3965.0,Avis Budget Group
+ELY,Topgolf Callaway Brands Corp,Consumer Cyclical,3941.0,Topgolf Callaway Brands
+HHC,Howard Hughes Corporation,Real Estate,3940.0,Howard Hughes
+BDC,Belden Inc,Industrials,3937.0,Belden
+COLB,"Columbia Banking System, Inc.",Financial Services,3930.0,Columbia Banking System
+UMBF,UMB Financial Corp.,Financial Services,3928.0,UMB Financial
+URBN,"Urban Outfitters, Inc.",Consumer Cyclical,3893.0,Urban Outfitters
+IPAR,"Inter Parfums, Inc.",Consumer Defensive,3870.0,Inter Parfums
+CNX,CNX Resources Corp,Energy,3869.0,CNX Resources
+CBZ,Cbiz Inc,Industrials,3858.0,Cbiz
+IPGP,IPG Photonics Corp,Technology,3816.0,IPG Photonics
+KRC,Kilroy Realty Corp.,Real Estate,3797.0,Kilroy Realty
+BKH,Black Hills Corporation,Utilities,3788.0,Black Hills
+SHAK,Shake Shack Inc,Consumer Cyclical,3785.0,Shake Shack
+SANM,Sanmina Corp,Technology,3773.0,Sanmina
+ENV,Envestnet Inc.,Technology,3772.0,Envestnet
+STRL,Sterling Infrastructure Inc,Industrials,3761.0,Sterling Infrastructure
+ACLS,Axcelis Technologies Inc,Technology,3752.0,Axcelis Technologies
+QTWO,Q2 Holdings Inc,Technology,3747.0,Q2
+OTTR,Otter Tail Corporation,Utilities,3734.0,Otter Tail
+HASI,Hannon Armstrong Sustainable Infrastructure capital Inc,Real Estate,3729.0,Hannon Armstrong Sustainable Infrastructure capital
+PRGO,Perrigo Company plc,Healthcare,3726.0,Perrigo
+GMS,GMS Inc,Industrials,3724.0,GMS
+KMPR,Kemper Corporation,Financial Services,3718.0,Kemper
+HP,"Helmerich & Payne, Inc.",Energy,3716.0,Helmerich & Payne
+HL,Hecla Mining Co.,Basic Materials,3714.0,Hecla Mining
+BE,Bloom Energy Corp,Industrials,3703.0,Bloom Energy
+SYNA,Synaptics Inc,Technology,3700.0,Synaptics
+SMPL,Simply Good Foods Co,Consumer Defensive,3696.0,Simply Good Foods
+CRNX,Crinetics Pharmaceuticals Inc,Healthcare,3695.0,Crinetics Pharmaceuticals
+NSP,Insperity Inc,Industrials,3677.0,Insperity
+SMG,Scotts Miracle-Gro Company,Basic Materials,3674.0,Scotts Miracle-Gro
+VLY,Valley National Bancorp,Financial Services,3671.0,Valley National Bancorp
+ACIW,ACI Worldwide Inc,Technology,3665.0,ACI Worldwide
+AXSM,Axsome Therapeutics Inc,Healthcare,3646.0,Axsome Therapeutics
+BOX,Box Inc,Technology,3643.0,Box
+IRT,Independence Realty Trust Inc,Real Estate,3626.0,Independence Realty Trust
+PRMW,Primo Water Corporation,Consumer Defensive,3620.0,Primo Water
+FIVN,Five9 Inc,Technology,3605.0,Five9
+LAZ,Lazard Inc.,Financial Services,3597.0,Lazard
+ALE,"Allete, Inc.",Utilities,3594.0,Allete
+TPH,Tri Pointe Homes Inc.,Consumer Cyclical,3594.0,Tri Pointe Homes
+IRDM,Iridium Communications Inc,Communication Services,3592.0,Iridium Communications
+CTRE,CareTrust REIT Inc,Real Estate,3581.0,CareTrust REIT
+TFSL,TFS Financial Corporation,Financial Services,3579.0,TFS Financial
+IBOC,International Bancshares Corp.,Financial Services,3566.0,International Bancshares
+RCM,R1 RCM Inc.,Healthcare,3566.0,R1 RCM
+SPR,Spirit Aerosystems Holdings Inc,Industrials,3560.0,Spirit Aerosystems
+MAN,ManpowerGroup,Industrials,3546.0,ManpowerGroup
+WEN,Wendy`s Co,Consumer Cyclical,3539.0,Wendy's
+JWN,"Nordstrom, Inc.",Consumer Cyclical,3517.0,Nordstrom
+KFY,Korn Ferry,Industrials,3499.0,Korn Ferry
+APLE,Apple Hospitality REIT Inc,Real Estate,3478.0,Apple Hospitality REIT
+HCC,Warrior Met Coal Inc,Basic Materials,3470.0,Warrior Met Coal
+CNS,Cohen & Steers Inc.,Financial Services,3468.0,Cohen & Steers
+GT,Goodyear Tire & Rubber Co.,Consumer Cyclical,3467.0,Goodyear Tire & Rubber
+RUSHA,Rush Enterprises Inc,Consumer Cyclical,3460.0,Rush Enterprises
+MHO,MI Homes Inc.,Consumer Cyclical,3455.0,MI Homes
+CUZ,Cousins Properties Inc.,Real Estate,3447.0,Cousins Properties
+WBT,Welbilt Inc,Industrials,3438.0,Welbilt
+SR,Spire Inc.,Utilities,3426.0,Spire
+AXNX,Axonics Inc,Healthcare,3425.0,Axonics
+TNDM,Tandem Diabetes Care Inc,Healthcare,3417.0,Tandem Diabetes Care
+BOOT,Boot Barn Holdings Inc,Consumer Cyclical,3410.0,Boot Barn
+DIOD,"Diodes, Inc.",Technology,3403.0,Diodes
+VCTR,Victory Capital Holdings Inc,Financial Services,3402.0,Victory Capital
+CMD,Cantel Medical Corp,Healthcare,3401.0,Cantel Medical
+PCH,PotlatchDeltic Corp,Real Estate,3398.0,PotlatchDeltic
+SFBS,ServisFirst Bancshares Inc,Financial Services,3374.0,ServisFirst Bancshares
+ALRM,Alarm.com Holdings Inc,Technology,3370.0,Alarm.com
+YETI,YETI Holdings Inc,Consumer Cyclical,3354.0,YETI
+PK,Park Hotels & Resorts Inc,Real Estate,3353.0,Park Hotels & Resorts
+BHVN,Biohaven Ltd,Healthcare,3350.0,Biohaven
+PNM,PNM Resources Inc,Utilities,3348.0,PNM Resources
+OGS,ONE Gas Inc,Utilities,3343.0,ONE Gas
+WHD,Cactus Inc,Energy,3342.0,Cactus
+SLG,SL Green Realty Corp.,Real Estate,3304.0,SL Green Realty
+SBRA,Sabra Healthcare REIT Inc,Real Estate,3303.0,Sabra Healthcare REIT
+GFF,Griffon Corp.,Industrials,3303.0,Griffon
+CORT,Corcept Therapeutics Inc,Healthcare,3291.0,Corcept Therapeutics
+CRK,"Comstock Resources, Inc.",Energy,3284.0,Comstock Resources
+VAC,Marriott Vacations Worldwide Corp,Consumer Cyclical,3283.0,Marriott Vacations Worldwide
+CRC,California Resources Corporation,Energy,3282.0,California Resources
+ABCB,Ameris Bancorp,Financial Services,3281.0,Ameris Bancorp
+KTOS,Kratos Defense & Security Solutions Inc,Industrials,3272.0,Kratos Defense & Security Solutions
+RARE,Ultragenyx Pharmaceutical Inc.,Healthcare,3270.0,Ultragenyx Pharmaceutical
+INSM,Insmed Inc,Healthcare,3269.0,Insmed
+KWR,Quaker Houghton,Basic Materials,3266.0,Quaker Houghton
+LIVN,LivaNova PLC,Healthcare,3251.0,LivaNova
+INST,Instructure Holdings Inc,,3248.0,Instructure
+SGRY,Surgery Partners Inc,Healthcare,3245.0,Surgery Partners
+JOE,St. Joe Co.,Real Estate,3235.0,St Joe
+IOSP,Innospec Inc,Basic Materials,3203.0,Innospec
+NWL,Newell Brands Inc,Consumer Defensive,3201.0,Newell Brands
+GH,Guardant Health Inc,Healthcare,3201.0,Guardant Health
+SHOO,Steven Madden Ltd.,Consumer Cyclical,3192.0,Steven Madden
+SEB,Seaboard Corp.,Industrials,3188.0,Seaboard
+MAC,Macerich Co.,Real Estate,3178.0,Macerich
+AX,Axos Financial Inc.,Financial Services,3177.0,Axos Financial
+SXT,Sensient Technologies Corp.,Basic Materials,3173.0,Sensient Technologies
+AYX,Alteryx Inc,Technology,3172.0,Alteryx
+KAI,"Kadant, Inc.",Industrials,3171.0,Kadant
+INSW,International Seaways Inc,Industrials,3169.0,International Seaways
+ASB,Associated Banc-Corp.,Financial Services,3169.0,Associated Banc-Corp
+IESC,IES Holdings Inc,Industrials,3161.0,IES
+PBH,Prestige Consumer Healthcare Inc,Healthcare,3154.0,Prestige Consumer Healthcare
+WD,Walker & Dunlop Inc,Financial Services,3146.0,Walker & Dunlop
+CNR,Cornerstone Building Brands Inc,Industrials,3141.0,Cornerstone Building Brands
+REZI,Resideo Technologies Inc,Industrials,3136.0,Resideo Technologies
+JJSF,J&J Snack Foods Corp.,Consumer Defensive,3135.0,J&J Snack Foods
+AMED,Amedisys Inc.,Healthcare,3124.0,Amedisys
+TROX,Tronox Holdings plc,Basic Materials,3120.0,Tronox
+NWE,NorthWestern Energy Group Inc,Utilities,3116.0,NorthWestern Energy Group
+WDFC,WD-40 Co.,Basic Materials,3106.0,WD-40
+CWEN,Clearway Energy Inc,Utilities,3101.0,Clearway Energy
+MCY,Mercury General Corp.,Financial Services,3099.0,Mercury General
+ARCH,Arch Resources Inc,Energy,3098.0,Arch Resources
+HI,Hillenbrand Inc,Industrials,3092.0,Hillenbrand
+APAM,Artisan Partners Asset Management Inc,Financial Services,3089.0,Artisan Partners Asset Management
+PLXS,Plexus Corp.,Technology,3087.0,Plexus
+TDC,Teradata Corp,Technology,3082.0,Teradata
+AROC,Archrock Inc,Energy,3079.0,Archrock
+NPO,Enpro Inc,Industrials,3076.0,Enpro
+EPR,EPR Properties,Real Estate,3064.0,EPR Properties
+MPW,Medical Properties Trust Inc,Real Estate,3061.0,Medical Properties Trust
+LRN,Stride Inc,Consumer Defensive,3060.0,Stride
+GEF,Greif Inc,Consumer Cyclical,3048.0,Greif
+CTB,Cooper Tire & Rubber Co.,Consumer Cyclical,3040.0,Cooper Tire & Rubber
+CNO,CNO Financial Group Inc,Financial Services,3038.0,CNO Financial Group
+UAA,Under Armour Inc,Consumer Cyclical,3034.0,Under Armour
+LITE,Lumentum Holdings Inc,Technology,3034.0,Lumentum
+UEC,Uranium Energy Corp,Energy,3027.0,Uranium Energy
+EAT,"Brinker International, Inc.",Consumer Cyclical,3020.0,Brinker International
+UCBI,United Community Banks Inc,Financial Services,3018.0,United Community Banks
+FBP,First Bancorp PR,Financial Services,3017.0,First Bancorp PR
+VC,Visteon Corp.,Consumer Cyclical,3016.0,Visteon
+BTU,Peabody Energy Corp.,Energy,3016.0,Peabody Energy
+FULT,Fulton Financial Corp.,Financial Services,3015.0,Fulton Financial
+BL,BlackLine Inc,Technology,3012.0,BlackLine
+KSS,Kohl`s Corp.,Consumer Cyclical,3011.0,Kohl's
+ARNC,Arconic Corporation,Industrials,3009.0,Arconic
+IIPR,Innovative Industrial Properties Inc,Real Estate,3003.0,Innovative Industrial Properties
+BRC,Brady Corp.,Industrials,3001.0,Brady
+RUN,Sunrun Inc,Technology,2992.0,Sunrun
+RIOT,Riot Platforms Inc,Technology,2986.0,Riot Platforms
+BXMT,Blackstone Mortgage Trust Inc,Real Estate,2982.0,Blackstone Mortgage Trust
+CVI,CVR Energy Inc,Energy,2982.0,CVR Energy
+VSH,"Vishay Intertechnology, Inc.",Technology,2981.0,Vishay Intertechnology
+JBT,John Bean Technologies Corp,Industrials,2975.0,John Bean Technologies
+ARWR,Arrowhead Pharmaceuticals Inc.,Healthcare,2971.0,Arrowhead Pharmaceuticals
+LTHM,Livent Corp,Basic Materials,2967.0,Livent
+SKT,Tanger Inc.,Real Estate,2965.0,Tanger
+SITC,SITE Centers Corp,Real Estate,2963.0,SITE Centers
+MLHR,Herman Miller Inc.,Industrials,2958.0,Herman Miller
+QDEL,QuidelOrtho Corporation,Healthcare,2950.0,QuidelOrtho
+ABM,ABM Industries Inc.,Industrials,2946.0,ABM Industries
+PRIM,Primoris Services Corp,Industrials,2942.0,Primoris Services
+NEOG,Neogen Corp.,Healthcare,2929.0,Neogen
+DOOR,Masonite International Corp,Industrials,2920.0,Masonite International
+GPOR,Gulfport Energy Corp.,Energy,2917.0,Gulfport Energy
+CCOI,Cogent Communications Holdings Inc,Communication Services,2910.0,Cogent Communications
+SKYW,Skywest Inc.,Industrials,2909.0,Skywest
+RRR,Red Rock Resorts Inc,Consumer Cyclical,2904.0,Red Rock Resorts
+BANF,Bancfirst Corp.,Financial Services,2896.0,Bancfirst
+CVCO,Cavco Industries Inc,Consumer Cyclical,2891.0,Cavco Industries
+CEIX,Consol Energy Inc,Energy,2880.0,Consol Energy
+CIM,Chimera Investment Corp,Real Estate,2875.0,Chimera Investment
+AUB,Atlantic Union Bankshares Corp,Financial Services,2868.0,Atlantic Union Bankshares
+SEDG,Solaredge Technologies Inc,Technology,2864.0,Solaredge Technologies
+WOR,Worthington Enterprises Inc.,Basic Materials,2863.0,Worthington Enterprises
+KOS,Kosmos Energy Ltd,Energy,2862.0,Kosmos Energy
+MWA,Mueller Water Products Inc,Industrials,2862.0,Mueller Water Products
+RNG,RingCentral Inc.,Technology,2861.0,RingCentral
+AVA,Avista Corp.,Utilities,2850.0,Avista
+DORM,Dorman Products Inc,Consumer Cyclical,2841.0,Dorman Products
+FOLD,Amicus Therapeutics Inc,Healthcare,2838.0,Amicus Therapeutics
+CWT,California Water Service Group,Utilities,2829.0,California Water Service Group
+MGEE,"MGE Energy, Inc.",Utilities,2826.0,MGE Energy
+RPAI,Retail Properties of America Inc,Real Estate,2825.0,Retail Properties of America
+IDCC,Interdigital Inc,Communication Services,2816.0,Interdigital
+NHI,"National Health Investors, Inc.",Real Estate,2813.0,National Health Investors
+PTCT,PTC Therapeutics Inc,Healthcare,2797.0,PTC Therapeutics
+UFS,Domtar Corporation,Basic Materials,2796.0,Domtar
+ESE,"Esco Technologies, Inc.",Technology,2785.0,Esco Technologies
+STRA,Strategic Education Inc,Consumer Defensive,2784.0,Strategic Education
+VCRA,Vocera Communication Inc,Technology,2773.0,Vocera Communication
+FIBK,First Interstate BancSystem Inc.,Financial Services,2771.0,First Interstate BancSystem
+TCBI,"Texas Capital Bancshares, Inc.",Financial Services,2754.0,Texas Capital Bancshares
+GVA,Granite Construction Inc.,Industrials,2749.0,Granite Construction
+AGYS,"Agilysys, Inc",Technology,2741.0,Agilysys
+IRTC,iRhythm Technologies Inc,Healthcare,2730.0,iRhythm Technologies
+LCII,LCI Industries,Consumer Cyclical,2730.0,LCI Industries
+GNW,Genworth Financial Inc,Financial Services,2727.0,Genworth Financial
+AIN,Albany International Corp.,Consumer Cyclical,2727.0,Albany International
+FTDR,Frontdoor Inc.,Consumer Cyclical,2721.0,Frontdoor
+MTX,"Minerals Technologies, Inc.",Basic Materials,2721.0,Minerals Technologies
+IOVA,Iovance Biotherapeutics Inc,Healthcare,2714.0,Iovance Biotherapeutics
+DXC,DXC Technology Co,Technology,2712.0,DXC Technology
+NYCB,New York Community Bancorp Inc.,Financial Services,2708.0,New York Community Bancorp
+MGRC,McGrath Rentcorp,Industrials,2706.0,McGrath Rentcorp
+NNI,Nelnet Inc,Financial Services,2705.0,Nelnet
+DNLI,Denali Therapeutics Inc,Healthcare,2695.0,Denali Therapeutics
+CVA,Covanta Holding Corporation,Industrials,2695.0,Covanta
+EVH,Evolent Health Inc,Healthcare,2683.0,Evolent Health
+AWR,American States Water Co.,Utilities,2679.0,American States Water
+CALM,"Cal-Maine Foods, Inc.",Consumer Defensive,2678.0,Cal-Maine Foods
+WLL,Whiting Petroleum Corp,Energy,2670.0,Whiting Petroleum
+ROAD,Construction Partners Inc,Industrials,2664.0,Construction Partners
+NSA,National Storage Affiliates Trust,Real Estate,2661.0,National Storage Affiliates Trust
+HIW,"Highwoods Properties, Inc.",Real Estate,2660.0,Highwoods Properties
+BHF,Brighthouse Financial Inc,Financial Services,2655.0,Brighthouse Financial
+TCO,"Taubman Centers, Inc.",Real Estate,2654.0,Taubman Centers
+HUBG,"Hub Group, Inc.",Industrials,2644.0,Hub Group
+CCS,Century Communities Inc,Consumer Cyclical,2641.0,Century Communities
+ICFI,"ICF International, Inc",Industrials,2638.0,ICF International
+CENT,Central Garden & Pet Co.,Consumer Defensive,2635.0,Central Garden & Pet
+WSFS,WSFS Financial Corp.,Financial Services,2633.0,WSFS Financial
+SPB,Spectrum Brands Holdings Inc.,Consumer Defensive,2631.0,Spectrum Brands
+MYRG,MYR Group Inc,Industrials,2631.0,MYR Group
+SMTC,Semtech Corp.,Technology,2619.0,Semtech
+CATY,Cathay General Bancorp,Financial Services,2613.0,Cathay General Bancorp
+TGTX,TG Therapeutics Inc,Healthcare,2604.0,TG Therapeutics
+FHB,First Hawaiian INC,Financial Services,2599.0,First Hawaiian
+KLIC,"Kulicke & Soffa Industries, Inc.",Technology,2595.0,Kulicke & Soffa Industries
+PRFT,Perficient Inc.,Technology,2595.0,Perficient
+PJT,PJT Partners Inc,Financial Services,2589.0,PJT Partners
+SATS,EchoStar Corp,Technology,2588.0,EchoStar
+MTOR,Meritor Inc,Consumer Cyclical,2586.0,Meritor
+GHC,Graham Holdings Co.,Consumer Defensive,2575.0,Graham
+SAM,"Boston Beer Co., Inc.",Consumer Defensive,2565.0,Boston Beer
+ICUI,"ICU Medical, Inc.",Healthcare,2556.0,ICU Medical
+PSMT,Pricesmart Inc.,Consumer Defensive,2548.0,Pricesmart
+AZZ,AZZ Inc,Industrials,2531.0,AZZ
+DREUF,Dream Industrial Real Estate Investment Trust,Financial Services,2531.0,Dream Industrial Real Estate Investment Trust
+PATK,"Patrick Industries, Inc.",Industrials,2528.0,Patrick Industries
+TGLS,Tecnoglass Inc,Industrials,2527.0,Tecnoglass
+TRN,"Trinity Industries, Inc.",Industrials,2517.0,Trinity Industries
+AIR,AAR Corp.,Industrials,2508.0,AAR
+USM,United States Cellular Corporation,Communication Services,2507.0,United States Cellular
+ABR,Arbor Realty Trust Inc.,Real Estate,2500.0,Arbor Realty Trust
+ACAD,Acadia Pharmaceuticals Inc,Healthcare,2493.0,Acadia Pharmaceuticals
+ATGE,Adtalem Global Education Inc,Consumer Defensive,2487.0,Adtalem Global Education
+LAUR,Laureate Education Inc,Consumer Defensive,2476.0,Laureate Education
+LXP,LXP Industrial Trust,Real Estate,2472.0,LXP Industrial Trust
+HELE,Helen of Troy Ltd,Consumer Defensive,2471.0,Helen of Troy
+POWL,"Powell Industries, Inc.",Industrials,2471.0,Powell Industries
+TWST,Twist Bioscience Corp,Healthcare,2471.0,Twist Bioscience
+ADNT,Adient plc,Consumer Cyclical,2462.0,Adient
+GRBK,Green Brick Partners Inc,Consumer Cyclical,2460.0,Green Brick Partners
+YELP,Yelp Inc,Communication Services,2449.0,Yelp
+TGNA,TEGNA Inc,Communication Services,2446.0,TEGNA
+UNF,Unifirst Corp.,Industrials,2445.0,Unifirst
+ARCB,ArcBest Corp,Industrials,2432.0,ArcBest
+HOME,At Home Group Inc,Consumer Cyclical,2426.0,At Home Group
+OII,"Oceaneering International, Inc.",Energy,2417.0,Oceaneering International
+PLUG,Plug Power Inc,Industrials,2413.0,Plug Power
+ARVN,Arvinas Inc,Healthcare,2412.0,Arvinas
+CPK,Chesapeake Utilities Corp,Utilities,2409.0,Chesapeake Utilities
+BATRA,Atlanta Braves Holdings Inc,Communication Services,2407.0,Atlanta Braves
+CRI,Carters Inc,Consumer Cyclical,2406.0,Carters
+PGTI,PGT Innovations Inc,Industrials,2404.0,PGT Innovations
+CBU,Community Financial System Inc.,Financial Services,2388.0,Community Financial System
+CUB,Cubic Corp.,Industrials,2383.0,Cubic
+OSIS,"OSI Systems, Inc.",Technology,2382.0,OSI Systems
+AMEH,Apollo Medical Holdings Inc,Healthcare,2379.0,Apollo Medical
+CPE,Callon Petroleum Co.,Energy,2378.0,Callon Petroleum
+GCP,GCP Applied Technologies Inc,Basic Materials,2369.0,GCP Applied Technologies
+MTRN,Materion Corp,Basic Materials,2364.0,Materion
+VECO,Veeco Instruments Inc,Technology,2356.0,Veeco Instruments
+RPD,Rapid7 Inc,Technology,2350.0,Rapid7
+WERN,"Werner Enterprises, Inc.",Industrials,2346.0,Werner Enterprises
+OUT,Outfront Media Inc,Real Estate,2344.0,Outfront Media
+LEVI,Levi Strauss & Co.,Consumer Cyclical,2338.0,Levi Strauss
+CLDX,Celldex Therapeutics Inc.,Healthcare,2332.0,Celldex Therapeutics
+VCEL,Vericel Corp,Healthcare,2331.0,Vericel
+PSEC,Prospect Capital Corp,Financial Services,2319.0,Prospect Capital
+VRTV,Veritiv Corp,Industrials,2306.0,Veritiv
+ALG,Alamo Group Inc.,Industrials,2306.0,Alamo Group
+PENN,PENN Entertainment Inc,Consumer Cyclical,2302.0,PENN Entertainment
+CNMD,Conmed Corp.,Healthcare,2295.0,Conmed
+EVTC,Evertec Inc,Technology,2287.0,Evertec
+IART,Integra Lifesciences Holdings Corp,Healthcare,2275.0,Integra Lifesciences
+TRIP,TripAdvisor Inc.,Consumer Cyclical,2267.0,TripAdvisor
+CVBF,CVB Financial Corp.,Financial Services,2257.0,CVB Financial
+ESTE,Earthstone Energy Inc,Energy,2251.0,Earthstone Energy
+CDE,Coeur Mining Inc,Basic Materials,2244.0,Coeur Mining
+BOH,Bank of Hawaii Corp.,Financial Services,2240.0,Bank of Hawaii
+LGIH,LGI Homes Inc,Consumer Cyclical,2239.0,LGI Homes
+CALX,Calix Inc,Technology,2224.0,Calix
+ASPN,Aspen Aerogels Inc.,Industrials,2223.0,Aspen Aerogels
+ROCK,Gibraltar Industries Inc.,Industrials,2221.0,Gibraltar Industries
+WAFD,WaFd Inc,Financial Services,2218.0,WaFd
+SIX,Six Flags Entertainment Corp,Consumer Cyclical,2217.0,Six Flags Entertainment
+CXP,Columbia Property Trust Inc,Real Estate,2215.0,Columbia Property Trust
+DEI,Douglas Emmett Inc,Real Estate,2213.0,Douglas Emmett
+ROG,Rogers Corp.,Technology,2210.0,Rogers
+RYTM,Rhythm Pharmaceuticals Inc.,Healthcare,2208.0,Rhythm Pharmaceuticals
+PRSC,Providence Service Corp,Healthcare,2207.0,Providence Service
+DCPH,Deciphera Pharmaceuticals Inc,Healthcare,2206.0,Deciphera Pharmaceuticals
+ADMA,Adma Biologics Inc,Healthcare,2205.0,Adma Biologics
+AGIO,Agios Pharmaceuticals Inc,Healthcare,2203.0,Agios Pharmaceuticals
+FCPT,Four Corners Property Trust Inc,Real Estate,2199.0,Four Corners Property Trust
+NTLA,Intellia Therapeutics Inc,Healthcare,2192.0,Intellia Therapeutics
+PRK,Park National Corp.,Financial Services,2180.0,Park National
+NVAX,"Novavax, Inc.",Healthcare,2178.0,Novavax
+FL,Foot Locker Inc,Consumer Cyclical,2175.0,Foot Locker
+PRGS,Progress Software Corp.,Technology,2164.0,Progress Software
+SFNC,Simmons First National Corp.,Financial Services,2160.0,Simmons First National
+BANC,Banc of California Inc,Financial Services,2153.0,Banc of California
+PDCO,Patterson Companies Inc.,Healthcare,2148.0,Patterson
+OAS,Oasis Petroleum Inc.,Energy,2145.0,Oasis Petroleum
+INDB,Independent Bank Corp.,Financial Services,2137.0,Independent Bank
+TALO,Talos Energy Inc,Energy,2130.0,Talos Energy
+HNI,HNI Corp.,Industrials,2128.0,HNI
+FFBC,First Financial Bancorp,Financial Services,2123.0,First Financial Bancorp
+BKU,BankUnited Inc,Financial Services,2121.0,BankUnited
+MYGN,"Myriad Genetics, Inc.",Healthcare,2111.0,Myriad Genetics
+PPBI,"Pacific Premier Bancorp, Inc.",Financial Services,2104.0,Pacific Premier Bancorp
+AMN,AMN Healthcare Services Inc.,Healthcare,2100.0,AMN Healthcare Services
+AMRX,Amneal Pharmaceuticals Inc,Healthcare,2096.0,Amneal Pharmaceuticals
+CNK,Cinemark Holdings Inc,Communication Services,2091.0,Cinemark
+SHO,Sunstone Hotel Investors Inc,Real Estate,2084.0,Sunstone Hotel Investors
+CABO,Cable One Inc,Communication Services,2071.0,Cable One
+GSAT,Globalstar Inc.,Communication Services,2071.0,Globalstar
+CARG,CarGurus Inc,Communication Services,2070.0,CarGurus
+EQC,Equity Commonwealth,Real Estate,2059.0,Equity Commonwealth
+RAMP,LiveRamp Holdings Inc,Technology,2059.0,LiveRamp
+AMPH,Amphastar Pharmaceuticals Inc,Healthcare,2053.0,Amphastar Pharmaceuticals
+VIRT,Virtu Financial Inc,Financial Services,2046.0,Virtu Financial
+SNDR,Schneider National Inc,Industrials,2037.0,Schneider National
+HTH,Hilltop Holdings Inc,Financial Services,2027.0,Hilltop
+ENR,Energizer Holdings Inc,Industrials,2026.0,Energizer
+TDS,"Telephone And Data Systems, Inc.",Communication Services,2022.0,Telephone And Data Systems
+DAN,Dana Inc,Consumer Cyclical,2022.0,Dana
+UE,Urban Edge Properties,Real Estate,2019.0,Urban Edge Properties
+B,Barnes Group Inc.,Industrials,2015.0,Barnes Group
+STAA,Staar Surgical Co.,Healthcare,2011.0,Staar Surgical
+GTX,Garrett Motion Inc,Consumer Cyclical,2011.0,Garrett Motion
+PLUS,ePlus Inc,Technology,2008.0,ePlus
+FBC,"Flagstar Bancorp, Inc.",Financial Services,2002.0,Flagstar Bancorp
+SONO,Sonos Inc,Technology,1987.0,Sonos
+GERN,Geron Corp.,Healthcare,1987.0,Geron
+PINC,Premier Inc,Healthcare,1985.0,Premier
+UCTT,Ultra Clean Hldgs Inc,Technology,1985.0,Ultra Clean Hldgs
+UFPT,UFP Technologies Inc.,Consumer Cyclical,1983.0,UFP Technologies
+OI,O-I Glass Inc,Consumer Cyclical,1979.0,O-I Glass
+VSTO,Vista Outdoor Inc,Consumer Cyclical,1971.0,Vista Outdoor
+PLAY,Dave & Buster`s Entertainment Inc,Consumer Cyclical,1969.0,Dave & Buster's Entertainment
+VSAT,"Viasat, Inc.",Technology,1966.0,Viasat
+USLM,United States Lime & Minerals Inc.,Basic Materials,1963.0,United States Lime & Minerals
+KMT,Kennametal Inc.,Industrials,1958.0,Kennametal
+CPRX,Catalyst Pharmaceuticals Inc,Healthcare,1957.0,Catalyst Pharmaceuticals
+SBCF,Seacoast Banking Corp. Of Florida,Financial Services,1953.0,Seacoast BankingOf Florida
+LPG,Dorian LPG Ltd,Energy,1950.0,Dorian LPG
+SXI,Standex International Corp.,Industrials,1940.0,Standex International
+CAKE,Cheesecake Factory Inc.,Consumer Cyclical,1932.0,Cheesecake Factory
+VRNT,"Verint Systems, Inc.",Technology,1930.0,Verint Systems
+FRME,First Merchants Corp.,Financial Services,1930.0,First Merchants
+TNC,Tennant Co.,Industrials,1927.0,Tennant
+IBTX,Independent Bank Group Inc,Financial Services,1927.0,Independent Bank Group
+TDOC,Teladoc Health Inc,Healthcare,1927.0,Teladoc Health
+SCL,Stepan Co.,Basic Materials,1925.0,Stepan
+NSSC,NAPCO Security Technologies Inc,Industrials,1906.0,NAPCO Security Technologies
+RCKT,Rocket Pharmaceuticals Inc,Healthcare,1901.0,Rocket Pharmaceuticals
+GEO,"Geo Group, Inc.",Real Estate,1895.0,Geo Group
+TTMI,TTM Technologies Inc,Technology,1891.0,TTM Technologies
+PD,Pagerduty Inc,Technology,1882.0,Pagerduty
+FOXF,Fox Factory Holding Corp,Consumer Cyclical,1859.0,Fox Factory
+MRCY,Mercury Systems Inc,Industrials,1855.0,Mercury Systems
+THS,Treehouse Foods Inc,Consumer Defensive,1850.0,Treehouse Foods
+MNRL,Brigham Minerals Inc,Energy,1847.0,Brigham Minerals
+FOE,Ferro Corp.,Basic Materials,1843.0,Ferro
+BKE,"Buckle, Inc.",Consumer Cyclical,1840.0,Buckle
+KAR,Openlane Inc.,Consumer Cyclical,1840.0,Openlane
+HWKN,Hawkins Inc,Basic Materials,1834.0,Hawkins
+HTLF,"Heartland Financial USA, Inc.",Financial Services,1832.0,Heartland Financial USA
+ADUS,Addus HomeCare Corporation,Healthcare,1830.0,Addus HomeCare
+JBLU,Jetblue Airways Corp,Industrials,1827.0,Jetblue Airways
+MNR,Mach Natural Resources LP,Real Estate,1825.0,Mach Natural Resources LP
+BLMN,Bloomin Brands Inc,Consumer Cyclical,1818.0,Bloomin Brands
+EPC,Edgewell Personal Care Co,Consumer Defensive,1815.0,Edgewell Personal Care
+NEO,Neogenomics Inc.,Healthcare,1805.0,Neogenomics
+LMAT,Lemaitre Vascular Inc,Healthcare,1800.0,Lemaitre Vascular
+TRMK,Trustmark Corp.,Financial Services,1793.0,Trustmark
+ANDE,Andersons Inc.,Consumer Defensive,1792.0,Andersons
+DFIN,Donnelley Financial Solutions Inc,Financial Services,1783.0,Donnelley Financial Solutions
+BLBD,Blue Bird Corp,Consumer Cyclical,1783.0,Blue Bird
+CNXN,"PC Connection, Inc.",Technology,1777.0,PC Connection
+DRH,Diamondrock Hospitality Co.,Real Estate,1775.0,Diamondrock Hospitality
+AGM,Federal Agricultural Mortgage Corp.,Financial Services,1773.0,Federal Agricultural Mortgage
+STC,Stewart Information Services Corp.,Financial Services,1773.0,Stewart Information Services
+MBIN,Merchants Bancorp,Financial Services,1758.0,Merchants Bancorp
+PTGX,Protagonist Therapeutics Inc,Healthcare,1758.0,Protagonist Therapeutics
+SJW,SJW Group,Utilities,1750.0,SJW Group
+WGO,"Winnebago Industries, Inc.",Consumer Cyclical,1744.0,Winnebago Industries
+EXPI,eXp World Holdings Inc,Real Estate,1742.0,eXp World
+DK,Delek US Holdings Inc,Energy,1742.0,Delek US
+HLX,Helix Energy Solutions Group Inc,Energy,1741.0,Helix Energy Solutions Group
+NGVT,Ingevity Corp,Basic Materials,1739.0,Ingevity
+CENX,Century Aluminum Co.,Basic Materials,1737.0,Century Aluminum
+WMK,"Weis Markets, Inc.",Consumer Defensive,1735.0,Weis Markets
+HEES,H&E Equipment Services Inc,Industrials,1735.0,H&E Equipment Services
+VGR,Vector Group Ltd,Consumer Defensive,1735.0,Vector Group
+FBK,FB Financial Corp,Financial Services,1731.0,FB Financial
+XRX,Xerox Holdings Corp,Technology,1730.0,Xerox
+PLAB,"Photronics, Inc.",Technology,1729.0,Photronics
+NBTB,NBT Bancorp. Inc.,Financial Services,1723.0,NBT Bancorp
+OFG,OFG Bancorp,Financial Services,1720.0,OFG Bancorp
+TBBK,Bancorp Inc. (The),Financial Services,1714.0,Bancorp
+SNDX,Syndax Pharmaceuticals Inc,Healthcare,1707.0,Syndax Pharmaceuticals
+GWB,Great Western Bancorp Inc,Financial Services,1705.0,Great Western Bancorp
+ENVA,Enova International Inc.,Financial Services,1702.0,Enova International
+RFP,Resolute Forest Products Inc,Basic Materials,1700.0,Resolute Forest Products
+FIT,Fitbit Inc,Technology,1697.0,Fitbit
+FOR,Forestar Group Inc,Real Estate,1694.0,Forestar Group
+AKR,Acadia Realty Trust,Real Estate,1688.0,Acadia Realty Trust
+CXW,CoreCivic Inc,Real Estate,1688.0,CoreCivic
+HBI,Hanesbrands Inc,Consumer Cyclical,1680.0,Hanesbrands
+NWLI,National Western Life Group Inc,Financial Services,1680.0,National Western Life Group
+LILA,Liberty Latin America Ltd,Communication Services,1680.0,Liberty Latin America
+OXM,"Oxford Industries, Inc.",Consumer Cyclical,1675.0,Oxford Industries
+PEB,Pebblebrook Hotel Trust,Real Estate,1674.0,Pebblebrook Hotel Trust
+RNST,Renasant Corp.,Financial Services,1674.0,Renasant
+TEN,"Tenneco, Inc.",Consumer Cyclical,1669.0,Tenneco
+GNL,Global Net Lease Inc,Real Estate,1668.0,Global Net Lease
+MGPI,"MGP Ingredients, Inc.",Consumer Defensive,1660.0,MGP Ingredients
+NAVI,Navient Corp,Financial Services,1660.0,Navient
+SINT,SINTX Technologies Inc,Healthcare,1659.0,SINTX Technologies
+CTS,CTS Corp.,Technology,1651.0,CTS
+GSHD,Goosehead Insurance Inc,Financial Services,1644.0,Goosehead Insurance
+PAR,Par Technology Corp.,Technology,1644.0,Par Technology
+VIAV,Viavi Solutions Inc,Technology,1641.0,Viavi Solutions
+VCYT,Veracyte Inc,Healthcare,1640.0,Veracyte
+GBX,"Greenbrier Cos., Inc.",Industrials,1638.0,Greenbrier
+KURA,Kura Oncology Inc,Healthcare,1637.0,Kura Oncology
+DBD,Diebold Nixdorf Inc,Technology,1634.0,Diebold Nixdorf
+KRO,"Kronos Worldwide, Inc.",Basic Materials,1630.0,Kronos Worldwide
+VRTS,Virtus Investment Partners Inc,Financial Services,1629.0,Virtus Investment Partners
+HLIO,Helios Technologies Inc,Industrials,1619.0,Helios Technologies
+WSBC,"Wesbanco, Inc.",Financial Services,1617.0,Wesbanco
+THRM,Gentherm Inc,Consumer Cyclical,1617.0,Gentherm
+APTS,Preferred Apartment Communities Inc,Real Estate,1611.0,Preferred Apartment Communities
+ARDX,Ardelyx Inc,Healthcare,1606.0,Ardelyx
+HURN,Huron Consulting Group Inc,Industrials,1586.0,Huron Consulting Group
+BANR,Banner Corp.,Financial Services,1585.0,Banner
+OSW,OneSpaWorld Holdings Limited,Consumer Cyclical,1583.0,OneSpaWorld  Limited
+NHC,National Healthcare Corp.,Healthcare,1579.0,National Healthcare
+PARR,Par Pacific Holdings Inc,Energy,1575.0,Par Pacific
+KALU,Kaiser Aluminum Corp,Basic Materials,1574.0,Kaiser Aluminum
+BHE,Benchmark Electronics Inc.,Technology,1566.0,Benchmark Electronics
+MXL,MaxLinear Inc,Technology,1566.0,MaxLinear
+CHEF,Chefs` Warehouse Inc,Consumer Defensive,1562.0,Chefs' Warehouse
+LKFN,Lakeland Financial Corp.,Financial Services,1556.0,Lakeland Financial
+PZZA,"Papa John`s International, Inc.",Consumer Cyclical,1556.0,Papa John's International
+RLJ,RLJ Lodging Trust,Real Estate,1553.0,RLJ Lodging Trust
+DO,"Diamond Offshore Drilling, Inc.",Energy,1552.0,Diamond Offshore Drilling
+KN,Knowles Corp,Technology,1551.0,Knowles
+CLBK,"Columbia Financial, Inc",Financial Services,1550.0,Columbia Financial
+WDR,"Waddell & Reed Financial, Inc.",Financial Services,1549.0,Waddell & Reed Financial
+LGND,"Ligand Pharmaceuticals, Inc.",Healthcare,1548.0,Ligand Pharmaceuticals
+NMRK,Newmark Group Inc,Real Estate,1542.0,Newmark Group
+ROIC,Retail Opportunity Investments Corp,Real Estate,1537.0,Retail Opportunity Investments
+LZB,La-Z-Boy Inc.,Consumer Cyclical,1536.0,La-Z-Boy
+DNOW,Dnow Inc,Energy,1535.0,Dnow
+NVEE,NV5 Global Inc,Industrials,1530.0,NV5 Global
+USPH,"U.S. Physical Therapy, Inc.",Healthcare,1529.0,US Physical Therapy
+LOB,Live Oak Bancshares Inc,Financial Services,1510.0,Live Oak Bancshares
+DVAX,Dynavax Technologies Corp.,Healthcare,1505.0,Dynavax Technologies
+PRO,Pros Holdings Inc,Technology,1500.0,Pros
+BGCP,BGC Partners Inc,Financial Services,1499.0,BGC Partners
+KRA,Kraton Corp,Basic Materials,1498.0,Kraton
+CHCO,City Holding Co.,Financial Services,1497.0,City
+COHU,"Cohu, Inc.",Technology,1494.0,Cohu
+EXTR,Extreme Networks Inc.,Technology,1492.0,Extreme Networks
+SUPN,Supernus Pharmaceuticals Inc,Healthcare,1488.0,Supernus Pharmaceuticals
+OMCL,"Omnicell, Inc.",Healthcare,1488.0,Omnicell
+FFG,"FBL Financial Group, Inc.",Financial Services,1487.0,FBL Financial Group
+LTC,"LTC Properties, Inc.",Real Estate,1480.0,LTC Properties
+MDRX,Veradigm Inc,Healthcare,1477.0,Veradigm
+NTCT,Netscout Systems Inc,Technology,1473.0,Netscout Systems
+ESRT,Empire State Realty Trust Inc,Real Estate,1471.0,Empire State Realty Trust
+RES,"RPC, Inc.",Energy,1470.0,RPC
+GTY,Getty Realty Corp.,Real Estate,1454.0,Getty Realty
+APOG,Apogee Enterprises Inc.,Industrials,1453.0,Apogee Enterprises
+EVBG,Everbridge Inc,Technology,1446.0,Everbridge
+XHR,Xenia Hotels & Resorts Inc,Real Estate,1445.0,Xenia Hotels & Resorts
+XNCR,Xencor Inc,Healthcare,1443.0,Xencor
+AMC,AMC Entertainment Holdings Inc,Communication Services,1442.0,AMC Entertainment
+ATEC,Alphatec Holdings Inc,Healthcare,1438.0,Alphatec
+UPWK,Upwork Inc,Industrials,1438.0,Upwork
+EFSC,Enterprise Financial Services Corp.,Financial Services,1433.0,Enterprise Financial Services
+MRTN,"Marten Transport, Ltd.",Industrials,1433.0,Marten Transport
+RCUS,Arcus Biosciences Inc,Healthcare,1425.0,Arcus Biosciences
+HTZ,Hertz Global Holdings Inc.,Industrials,1425.0,Hertz Global
+ARI,Apollo Commercial Real Estate Finance Inc,Real Estate,1420.0,Apollo Commercial Real Estate Finance
+CUBI,Customers Bancorp Inc,Financial Services,1416.0,Customers Bancorp
+ODP,ODP Corporation (The),Consumer Cyclical,1409.0,ODP
+LADR,Ladder Capital Corp,Real Estate,1402.0,Ladder Capital
+NBHC,National Bank Holdings Corp,Financial Services,1400.0,National Bank
+PCRX,Pacira BioSciences Inc,Healthcare,1399.0,Pacira BioSciences
+KW,Kennedy-Wilson Holdings Inc,Real Estate,1399.0,Kennedy-Wilson
+RC,Ready Capital Corp,Real Estate,1398.0,Ready Capital
+HMN,Horace Mann Educators Corp.,Financial Services,1398.0,Horace Mann Educators
+NWBI,Northwest Bancshares Inc,Financial Services,1396.0,Northwest Bancshares
+TOWN,Townebank Portsmouth VA,Financial Services,1384.0,Townebank Portsmouth VA
+AMWD,American Woodmark Corp.,Consumer Cyclical,1384.0,American Woodmark
+LEG,"Leggett & Platt, Inc.",Consumer Cyclical,1383.0,Leggett & Platt
+PDFS,PDF Solutions Inc.,Technology,1378.0,PDF Solutions
+FCF,First Commonwealth Financial Corp.,Financial Services,1376.0,First Commonwealth Financial
+SLNO,Soleno Therapeutics Inc,Healthcare,1363.0,Soleno Therapeutics
+NWN,Northwest Natural Holding Co,Utilities,1356.0,Northwest Natural
+SAFE,Safehold Inc.,Real Estate,1353.0,Safehold
+HLIT,"Harmonic, Inc.",Technology,1349.0,Harmonic
+CASH,Pathward Financial Inc,Financial Services,1346.0,Pathward Financial
+ACMR,ACM Research Inc,Technology,1343.0,ACM Research
+SYBT,Stock Yards Bancorp Inc,Financial Services,1343.0,Stock Yards Bancorp
+ZUO,Zuora Inc,Technology,1337.0,Zuora
+GIII,G-III Apparel Group Ltd.,Consumer Cyclical,1335.0,G-III Apparel Group
+REVG,REV Group Inc,Industrials,1334.0,REV Group
+GOGO,Gogo Inc,Communication Services,1333.0,Gogo
+BV,BrightView Holdings Inc,Industrials,1332.0,BrightView
+ARLO,Arlo Technologies Inc,Industrials,1331.0,Arlo Technologies
+ANIP,ANI Pharmaceuticals Inc,Healthcare,1328.0,ANI Pharmaceuticals
+OMI,"Owens & Minor, Inc.",Healthcare,1323.0,Owens & Minor
+CAL,Caleres Inc,Consumer Cyclical,1318.0,Caleres
+INFN,Infinera Corp.,Technology,1312.0,Infinera
+SSTK,Shutterstock Inc,Communication Services,1311.0,Shutterstock
+BCOR,Blucora Inc,Financial Services,1309.0,Blucora
+KAMN,Kaman Corp.,Industrials,1303.0,Kaman
+TWO,Two Harbors Investment Corp,Real Estate,1301.0,Two Harbors Investment
+FBNC,First Bancorp,Financial Services,1296.0,First Bancorp
+BKD,Brookdale Senior Living Inc,Healthcare,1293.0,Brookdale Senior Living
+JELD,JELD-WEN Holding Inc.,Industrials,1291.0,JELD-WEN
+JBGS,JBG SMITH Properties,Real Estate,1285.0,JBG SMITH Properties
+BUSE,First Busey Corp.,Financial Services,1282.0,First Busey
+CARS,Cars.com,Consumer Cyclical,1278.0,Cars.com
+GES,Guess Inc.,Consumer Cyclical,1278.0,Guess
+BCRX,Biocryst Pharmaceuticals Inc.,Healthcare,1277.0,Biocryst Pharmaceuticals
+WABC,Westamerica Bancorporation,Financial Services,1277.0,Westamerica Ban
+AAT,American Assets Trust Inc,Real Estate,1273.0,American Assets Trust
+ICHR,Ichor Holdings Ltd,Technology,1273.0,Ichor
+CSGS,CSG Systems International Inc.,Technology,1267.0,CSG Systems International
+MNKD,Mannkind Corp,Healthcare,1261.0,Mannkind
+CMCO,Columbus Mckinnon Corp.,Industrials,1261.0,Columbus Mckinnon
+MMI,Marcus & Millichap Inc,Real Estate,1258.0,Marcus & Millichap
+HOPE,Hope Bancorp Inc,Financial Services,1247.0,Hope Bancorp
+SRCE,1st Source Corp.,Financial Services,1247.0,1st Source
+TCBK,Trico Bancshares,Financial Services,1246.0,Trico Bancshares
+SCS,"Steelcase, Inc.",Industrials,1244.0,Steelcase
+LNN,Lindsay Corporation,Industrials,1242.0,Lindsay
+VSEC,VSE Corp.,Industrials,1238.0,VSE
+STBA,"S & T Bancorp, Inc.",Financial Services,1235.0,S & T Bancorp
+SAH,"Sonic Automotive, Inc.",Consumer Cyclical,1231.0,Sonic Automotive
+MCRI,"Monarch Casino & Resort, Inc.",Consumer Cyclical,1230.0,Monarch Casino & Resort
+KNL,Knoll Inc,Industrials,1227.0,Knoll
+WINA,Winmark Corporation,Consumer Cyclical,1226.0,Winmark
+APPN,Appian Corp,Technology,1226.0,Appian
+TR,"Tootsie Roll Industries, Inc.",Consumer Defensive,1217.0,Tootsie Roll Industries
+SCSC,"Scansource, Inc.",Technology,1217.0,Scansource
+CCF,Chase Corp.,Basic Materials,1214.0,Chase
+EEX,Emerald Holding Inc,Communication Services,1213.0,Emerald
+SLCA,U.S. Silica Holdings Inc,Energy,1212.0,US Silica
+ULH,Universal Logistics Holdings Inc,Industrials,1203.0,Universal Logistics
+KFRC,Kforce Inc.,Industrials,1199.0,Kforce
+AMRC,Ameresco Inc.,Industrials,1191.0,Ameresco
+DEA,Easterly Government Properties Inc,Real Estate,1191.0,Easterly Government Properties
+CNNE,Cannae Holdings Inc,Consumer Cyclical,1188.0,Cannae
+SBH,Sally Beauty Holdings Inc,Consumer Cyclical,1186.0,Sally Beauty
+ALEX,Alexander & Baldwin Inc.,Real Estate,1185.0,Alexander & Baldwin
+JAGX,Jaguar Health Inc,Healthcare,1182.0,Jaguar Health
+TRNS,Transcat Inc,Industrials,1181.0,Transcat
+PMT,Pennymac Mortgage Investment Trust,Real Estate,1180.0,Pennymac Mortgage Investment Trust
+CRAI,CRA International Inc.,Industrials,1179.0,CRA International
+MODN,Model N Inc,Technology,1176.0,Model N
+THR,Thermon Group Holdings Inc,Industrials,1176.0,Thermon Group
+TRUP,Trupanion Inc,Financial Services,1173.0,Trupanion
+SABR,Sabre Corp,Technology,1173.0,Sabre
+GPRE,Green Plains Inc,Basic Materials,1166.0,Green Plains
+UVV,Universal Corp.,Consumer Defensive,1154.0,Universal
+AIV,Apartment Investment & Management Co.,Real Estate,1153.0,Apartment Investment & Management
+TH,Target Hospitality Corp,Energy,1150.0,Target Hospitality
+HE,"Hawaiian Electric Industries, Inc.",Utilities,1148.0,Hawaiian Electric Industries
+ATEN,A10 Networks Inc,Technology,1147.0,A10 Networks
+VICR,Vicor Corp.,Technology,1143.0,Vicor
+CIR,Circor International Inc,Industrials,1142.0,Circor International
+SAFT,"Safety Insurance Group, Inc.",Financial Services,1141.0,Safety Insurance Group
+FSLY,Fastly Inc,Technology,1133.0,Fastly
+COLL,Collegium Pharmaceutical Inc,Healthcare,1124.0,Collegium Pharmaceutical
+TPC,Tutor Perini Corp,Industrials,1124.0,Tutor Perini
+PLYA,Playa Hotels & Resorts N.V.,Consumer Cyclical,1123.0,Playa Hotels & Resorts NV
+LDL,"Lydall, Inc.",Industrials,1120.0,Lydall
+WTTR,Select Water Solutions Inc,Energy,1119.0,Select Water Solutions
+ATUS,Altice USA Inc,Communication Services,1118.0,Altice USA
+MRC,MRC Global Inc,Energy,1115.0,MRC Global
+RPT,RPT Realty,Real Estate,1112.0,RPT Realty
+FDP,Fresh Del Monte Produce Inc,Consumer Defensive,1109.0,Fresh Del Monte Produce
+VBTX,Veritex Holdings Inc,Financial Services,1108.0,Veritex
+EYE,National Vision Holdings Inc,Consumer Cyclical,1108.0,National Vision
+PFS,Provident Financial Services Inc,Financial Services,1107.0,Provident Financial Services
+WWW,"Wolverine World Wide, Inc.",Consumer Cyclical,1100.0,Wolverine World Wide
+SGH,SMART Global Holdings Inc,Technology,1100.0,SMART Global
+TRS,Trimas Corporation,Industrials,1088.0,Trimas
+USD,ProShares Trust,,1088.0,ProShares Trust
+HLF,Herbalife Ltd,Consumer Defensive,1082.0,Herbalife
+ATRC,Atricure Inc,Healthcare,1079.0,Atricure
+MFA,MFA Financial Inc,Real Estate,1078.0,MFA Financial
+TGI,Triumph Group Inc.,Industrials,1077.0,Triumph Group
+PRTA,Prothena Corporation plc,Healthcare,1073.0,Prothena
+ALX,Alexander`s Inc.,Real Estate,1068.0,Alexander's
+UMH,UMH Properties Inc,Real Estate,1062.0,UMH Properties
+HY,Hyster-Yale Materials Handling Inc,Industrials,1062.0,Hyster-Yale Materials Handling
+PUMP,ProPetro Holding Corp,Energy,1057.0,ProPetro
+ARGO,Argo Group International Holdings Ltd,Financial Services,1056.0,Argo Group International
+NX,Quanex Building Products Corp,Industrials,1055.0,Quanex Building Products
+IMKTA,"Ingles Markets, Inc.",Consumer Defensive,1052.0,Ingles Markets
+ECPG,"Encore Capital Group, Inc.",Financial Services,1050.0,Encore Capital Group
+JACK,"Jack In The Box, Inc.",Consumer Cyclical,1044.0,Jack In The Box
+HCI,HCI Group Inc,Financial Services,1040.0,HCI Group
+SAVA,Cassava Sciences Inc,Healthcare,1040.0,Cassava Sciences
+EIG,Employers Holdings Inc,Financial Services,1036.0,Employers
+CBRL,Cracker Barrel Old Country Store Inc,Consumer Cyclical,1035.0,Cracker Barrel Old Country Store
+PEBO,"Peoples Bancorp, Inc. (Marietta, OH)",Financial Services,1031.0,Peoples Bancorp
+SCHL,Scholastic Corp.,Communication Services,1029.0,Scholastic
+OSTK,Beyond Inc,Consumer Cyclical,1028.0,Beyond
+EFC,Ellington Financial Inc,Financial Services,1022.0,Ellington Financial
+BY,Byline Bancorp Inc,Financial Services,1021.0,Byline Bancorp
+HIBB,Hibbett Inc,Consumer Cyclical,1019.0,Hibbett
+BLFS,Biolife Solutions Inc,Healthcare,1019.0,Biolife Solutions
+QNST,QuinStreet Inc,Communication Services,1012.0,QuinStreet
+SASR,Sandy Spring Bancorp,Financial Services,1005.0,Sandy Spring Bancorp
+SCVL,"Shoe Carnival, Inc.",Consumer Cyclical,1002.0,Shoe Carnival
+LC,LendingClub Corp,Financial Services,1001.0,LendingClub
+PFBC,"Preferred Bank (Los Angeles, CA)",Financial Services,996.0,Preferred Bank
+NCBS,Nicolet Bankshares Inc.,Financial Services,995.0,Nicolet Bankshares
+SLP,Simulations Plus Inc.,Healthcare,994.0,Simulations Plus
+WNC,Wabash National Corp.,Industrials,994.0,Wabash National
+SBOW,SilverBow Resources Inc,Energy,993.0,SilverBow Resources
+QEP,QEP Resources Inc,Energy,990.0,QEP Resources
+DLX,Deluxe Corp.,Communication Services,975.0,Deluxe
+CAI,Cai International Inc,Industrials,972.0,Cai International
+INVA,Innoviva Inc,Healthcare,970.0,Innoviva
+PGRE,Paramount Group Inc,Real Estate,963.0,Paramount Group
+QCRH,"QCR Holding, Inc.",Financial Services,961.0,QCR
+SHEN,Shenandoah Telecommunications Co.,Communication Services,954.0,Shenandoah Telecommunications
+BHLB,Berkshire Hills Bancorp Inc.,Financial Services,954.0,Berkshire Hills Bancorp
+GABC,German American Bancorp Inc,Financial Services,952.0,German American Bancorp
+OPK,Opko Health Inc,Healthcare,948.0,Opko Health
+REX,REX American Resources Corp,Energy,943.0,REX American Resources
+LQDA,Liquidia Corp,Healthcare,939.0,Liquidia
+IDT,IDT Corp.,Communication Services,938.0,IDT
+CHS,"Chico`s Fas, Inc.",Consumer Cyclical,937.0,Chico's Fas
+GNK,Genco Shipping & Trading Limited,Industrials,935.0,Genco Shipping & Trading Limited
+IRWD,Ironwood Pharmaceuticals Inc,Healthcare,935.0,Ironwood Pharmaceuticals
+SBR,Sabine Royalty Trust,Energy,934.0,Sabine Royalty Trust
+CPLG,CorePoint Lodging Inc,Real Estate,933.0,CorePoint Lodging
+NXRT,NexPoint Residential Trust Inc,Real Estate,931.0,NexPoint Residential Trust
+AVNS,Avanos Medical Inc,Healthcare,927.0,Avanos Medical
+ARR,ARMOUR Residential REIT Inc,Real Estate,926.0,ARMOUR Residential REIT
+DGII,"Digi International, Inc.",Technology,922.0,Digi International
+PLYM,Plymouth Industrial Reit Inc,Real Estate,919.0,Plymouth Industrial Reit
+OCUL,Ocular Therapeutix Inc,Healthcare,918.0,Ocular Therapeutix
+AGX,"Argan, Inc.",Industrials,917.0,Argan
+MSEX,Middlesex Water Co.,Utilities,912.0,Middlesex Water
+JBSS,"Sanfilippo (John B.) & Son, Inc",Consumer Defensive,909.0,John B Sanfilippo & Son
+OBNK,Origin Bancorp Inc,Financial Services,906.0,Origin Bancorp
+CWH,Camping World Holdings Inc,Consumer Cyclical,902.0,Camping World
+AMRK,A-Mark Precious Metals Inc,Financial Services,902.0,A-Mark Precious Metals
+PBI,"Pitney Bowes, Inc.",Industrials,902.0,Pitney Bowes
+HTLD,"Heartland Express, Inc.",Industrials,900.0,Heartland Express
+TILE,Interface Inc.,Consumer Cyclical,900.0,Interface
+BXC,Bluelinx Hldgs Inc,Industrials,895.0,Bluelinx Hldgs
+USNA,Usana Health Sciences Inc,Consumer Defensive,894.0,Usana Health Sciences
+RBCAA,"Republic Bancorp, Inc. (KY)",Financial Services,893.0,Republic Bancorp
+ALGT,Allegiant Travel,Industrials,893.0,Allegiant Travel
+CECO,Ceco Environmental Corp.,,893.0,Ceco Environmental
+KOP,Koppers Holdings Inc,Basic Materials,889.0,Koppers
+BELFA,Bel Fuse Inc.,Technology,887.0,Bel Fuse
+SXC,SunCoke Energy Inc,Basic Materials,884.0,SunCoke Energy
+ATSG,Air Transport Services Group Inc,Industrials,881.0,Air Transport Services Group
+BZH,Beazer Homes USA Inc.,Consumer Cyclical,880.0,Beazer Homes USA
+UTI,Universal Technical Institute Inc,Consumer Defensive,880.0,Universal Technical Institute
+AXL,American Axle & Manufacturing Holdings Inc,Consumer Cyclical,876.0,American Axle & Manufacturing
+GRC,Gorman-Rupp Co.,Industrials,875.0,Gorman-Rupp
+OCFC,OceanFirst Financial Corp.,Financial Services,870.0,OceanFirst Financial
+CLB,Core Laboratories Inc,Energy,870.0,Core Laboratories
+PRAA,PRA Group Inc,Financial Services,869.0,PRA Group
+MATW,Matthews International Corp.,Industrials,868.0,Matthews International
+CLW,Clearwater Paper Corp,Basic Materials,867.0,Clearwater Paper
+USAT,Cantaloupe Inc,Technology,864.0,Cantaloupe
+RILY,B. Riley Financial Inc,Financial Services,863.0,B Riley Financial
+BFS,"Saul Centers, Inc.",Real Estate,862.0,Saul Centers
+PDM,Piedmont Office Realty Trust Inc,Real Estate,861.0,Piedmont Office Realty Trust
+NPTN,NeoPhotonics Corporation,Technology,860.0,NeoPhotonics
+GTS,Triple-S Management Corp,Healthcare,856.0,Triple-S Management
+TTGT,Techtarget Inc.,Communication Services,855.0,Techtarget
+AOSL,Alpha & Omega Semiconductor Ltd,Technology,853.0,Alpha & Omega Semiconductor
+CKH,SEACOR Holdings Inc,Energy,851.0,SEACOR
+DCO,Ducommun Inc.,Industrials,848.0,Ducommun
+GDEN,Golden Entertainment Inc,Consumer Cyclical,846.0,Golden Entertainment
+RYI,Ryerson Holding Corp.,Industrials,845.0,Ryerson
+SILK,Silk Road Medical Inc,Healthcare,842.0,Silk Road Medical
+IHC,Independence Holding Co.,Financial Services,841.0,Independence
+AMSF,Amerisafe Inc,Financial Services,841.0,Amerisafe
+CDNA,Caredx Inc,Healthcare,841.0,Caredx
+UBA,"Urstadt Biddle Properties, Inc.",Real Estate,832.0,Urstadt Biddle Properties
+FBM,Foundation Building Materials Inc,Industrials,831.0,Foundation Building Materials
+RWT,Redwood Trust Inc.,Real Estate,831.0,Redwood Trust
+BBSI,Barrett Business Services Inc.,Industrials,824.0,Barrett Business Services
+HSTM,Healthstream Inc,Healthcare,824.0,Healthstream
+SRRK,Scholar Rock Holding Corp,Healthcare,824.0,Scholar Rock
+UTL,Unitil Corp.,Utilities,821.0,Unitil
+NBR,Nabors Industries Ltd,Energy,819.0,Nabors Industries
+BJRI,BJ`s Restaurant Inc.,Consumer Cyclical,816.0,BJ's Restaurant
+BRG,Bluerock Residential Growth REIT Inc,Real Estate,811.0,Bluerock Residential Growth REIT
+KIDS,OrthoPediatrics corp,Healthcare,806.0,OrthoPediatrics
+ATRI,Atrion Corp.,Healthcare,803.0,Atrion
+SBSI,Southside Bancshares Inc,Financial Services,798.0,Southside Bancshares
+ERII,Energy Recovery Inc,Industrials,791.0,Energy Recovery
+DXPE,"DXP Enterprises, Inc.",Industrials,791.0,DXP Enterprises
+EOLS,Evolus Inc,Healthcare,791.0,Evolus
+RRD,R.R. Donnelley & Sons Co.,Industrials,790.0,RR Donnelley & Sons
+HCSG,"Healthcare Services Group, Inc.",Healthcare,790.0,Healthcare Services Group
+CBB,"Cincinnati Bell, Inc.",Communication Services,788.0,Cincinnati Bell
+VRS,Verso Corp,Basic Materials,787.0,Verso
+TRCH,Torchlight Energy Resources Inc,Energy,786.0,Torchlight Energy Resources
+BDN,Brandywine Realty Trust,Real Estate,786.0,Brandywine Realty Trust
+PRLB,Proto Labs Inc,Industrials,783.0,Proto Labs
+AMBC,AMBAC Financial Group Inc.,Financial Services,779.0,AMBAC Financial Group
+DX,"Dynex Capital, Inc.",Real Estate,779.0,Dynex Capital
+LEU,Centrus Energy Corp,Energy,779.0,Centrus Energy
+FBMS,First Bancshares Inc Miss,Financial Services,778.0,First BancsharesMiss
+KELYA,"Kelly Services, Inc.",Industrials,778.0,Kelly Services
+HOV,"Hovnanian Enterprises, Inc.",Consumer Cyclical,775.0,Hovnanian Enterprises
+AMAL,Amalgamated Financial Corp,Financial Services,768.0,Amalgamated Financial
+KNSA,Kiniksa Pharmaceuticals Ltd,Healthcare,767.0,Kiniksa Pharmaceuticals
+BRKL,"Brookline Bancorp, Inc.",Financial Services,766.0,Brookline Bancorp
+CTBI,"Community Trust Bancorp, Inc.",Financial Services,757.0,Community Trust Bancorp
+AHH,Armada Hoffler Properties Inc,Real Estate,754.0,Armada Hoffler Properties
+HAYN,Haynes International Inc.,Industrials,753.0,Haynes International
+WVE,Wave Life Sciences Ltd.,Healthcare,752.0,Wave Life Sciences
+FMBH,First Mid Bancshares Inc.,Financial Services,752.0,First Mid Bancshares
+PRA,Proassurance Corporation,Financial Services,750.0,Proassurance
+PFLT,PennantPark Floating Rate Capital Ltd,Financial Services,750.0,PennantPark Floating Rate Capital
+BGS,"B&G Foods, Inc",Consumer Defensive,749.0,B&G Foods
+RGR,"Sturm, Ruger & Co., Inc.",Industrials,749.0,Sturm Ruger
+UNIT,Uniti Group Inc,Real Estate,747.0,Uniti Group
+ASTE,Astec Industries Inc.,Industrials,745.0,Astec Industries
+MBUU,Malibu Boats Inc,Consumer Cyclical,743.0,Malibu Boats
+SNR,New Senior Investment Group Inc,Real Estate,741.0,New Senior Investment Group
+CNOB,ConnectOne Bancorp Inc.,Financial Services,739.0,ConnectOne Bancorp
+WRLD,World Acceptance Corp.,Financial Services,738.0,World Acceptance
+RGNX,Regenxbio Inc,Healthcare,737.0,Regenxbio
+PLSE,Pulse Biosciences Inc,Healthcare,736.0,Pulse Biosciences
+RDFN,Redfin Corp,Real Estate,735.0,Redfin
+BOMN,Boston Omaha Corp,Communication Services,735.0,Boston Omaha
+HNGR,Hanger Inc,Healthcare,732.0,Hanger
+DCOM,Dime Community Bancshares Inc,Financial Services,726.0,Dime Community Bancshares
+NRC,National Research Corp,Healthcare,719.0,National Research
+SAGE,Sage Therapeutics Inc,Healthcare,718.0,Sage Therapeutics
+EVER,EverQuote Inc,Communication Services,716.0,EverQuote
+MNRO,Monro Inc,Consumer Cyclical,710.0,Monro
+VVI,Viad Corp.,Industrials,710.0,Viad
+HA,"Hawaiian Holdings, Inc.",Industrials,709.0,Hawaiian
+HSII,"Heidrick & Struggles International, Inc.",Industrials,708.0,Heidrick & Struggles International
+CCO,Clear Channel Outdoor Holdings Inc.,Communication Services,704.0,Clear Channel Outdoor
+UNFI,United Natural Foods Inc.,Consumer Defensive,701.0,United Natural Foods
+SPTN,SpartanNash Co,Consumer Defensive,698.0,SpartanNash
+CNDT,Conduent Inc,Technology,696.0,Conduent
+EGLE,Eagle Bulk Shipping Inc,Industrials,693.0,Eagle Bulk Shipping
+LXU,"LSB Industries, Inc.",Basic Materials,692.0,LSB Industries
+CFFN,Capitol Federal Financial,Financial Services,690.0,Capitol Federal Financial
+CBL,"CBL& Associates Properties, Inc.",Real Estate,681.0,CBL& Associates Properties
+IMXI,International Money Express Inc.,Technology,681.0,International Money Express
+MLR,Miller Industries Inc.,Consumer Cyclical,677.0,Miller Industries
+NR,"Newpark Resources, Inc.",Energy,671.0,Newpark Resources
+SMP,"Standard Motor Products, Inc.",Consumer Cyclical,669.0,Standard Motor Products
+ECOM,ChannelAdvisor Corp,Technology,668.0,ChannelAdvisor
+TMP,Tompkins Financial Corp,Financial Services,664.0,Tompkins Financial
+NUS,"Nu Skin Enterprises, Inc.",Consumer Defensive,663.0,Nu Skin Enterprises
+STAR,iStar Inc,Real Estate,663.0,iStar
+MERC,Mercer International Inc.,Basic Materials,660.0,Mercer International
+HROW,Harrow Inc,Healthcare,657.0,Harrow
+KREF,KKR Real Estate Finance Trust Inc,Real Estate,654.0,KKR Real Estate Finance Trust
+INN,Summit Hotel Properties Inc,Real Estate,651.0,Summit Hotel Properties
+PLPC,Preformed Line Products Co.,Industrials,650.0,Preformed Line Products
+WSR,Whitestone REIT,Real Estate,648.0,Whitestone REIT
+MCF,Contango Oil & Gas Company,Energy,648.0,Contango Oil & Gas
+EGY,"VAALCO Energy, Inc.",Energy,646.0,VAALCO Energy
+TRTX,TPG RE Finance Trust Inc,Real Estate,644.0,TPG RE Finance Trust
+DRQ,"Dril-Quip, Inc.",Energy,643.0,Dril-Quip
+UVSP,Univest Financial Corp,Financial Services,639.0,Univest Financial
+OSBC,Old Second Bancorporation Inc.,Financial Services,639.0,Old Second Ban
+ANAB,AnaptysBio Inc,Healthcare,638.0,AnaptysBio
+TIPT,Tiptree Inc,Financial Services,637.0,Tiptree
+YEXT,Yext Inc,Technology,636.0,Yext
+BRMK,Broadmark Realty Capital Inc,Real Estate,635.0,Broadmark Realty Capital
+HPP,Hudson Pacific Properties Inc,Real Estate,634.0,Hudson Pacific Properties
+HAIN,Hain Celestial Group Inc,Consumer Defensive,633.0,Hain Celestial Group
+QTRX,Quanterix Corp,Healthcare,632.0,Quanterix
+FRC,First Republic Bank,Financial Services,631.0,First Republic Bank
+CMO,Capstead Mortgage Corp.,Real Estate,630.0,Capstead Mortgage
+HFWA,Heritage Financial Corp.,Financial Services,624.0,Heritage Financial
+FCBC,First Community Bankshares Inc.,Financial Services,624.0,First Community Bankshares
+LASR,nLIGHT Inc,Technology,624.0,nLIGHT
+GRPN,Groupon Inc,Communication Services,622.0,Groupon
+CHCT,Community Healthcare Trust Inc,Real Estate,621.0,Community Healthcare Trust
+ATRO,Astronics Corp.,Industrials,619.0,Astronics
+GLDD,Great Lakes Dredge & Dock Corporation,Industrials,618.0,Great Lakes Dredge & Dock
+IIIN,"Insteel Industries, Inc.",Industrials,617.0,Insteel Industries
+MLAB,"Mesa Laboratories, Inc.",Technology,616.0,Mesa Laboratories
+MSGN,MSG Networks Inc,Communication Services,616.0,MSG Networks
+MD,Pediatrix Medical Group Inc,Healthcare,615.0,Pediatrix Medical Group
+VREX,Varex Imaging Corp,Healthcare,614.0,Varex Imaging
+TREE,LendingTree Inc.,Financial Services,614.0,LendingTree
+CLNE,Clean Energy Fuels Corp,Energy,612.0,Clean Energy Fuels
+HZO,"Marinemax, Inc.",Consumer Cyclical,611.0,Marinemax
+LXRX,Lexicon Pharmaceuticals Inc,Healthcare,611.0,Lexicon Pharmaceuticals
+ASIX,AdvanSix Inc,Basic Materials,610.0,AdvanSix
+MBWM,Mercantile Bank Corp.,Financial Services,610.0,Mercantile Bank
+ATEX,Anterix Inc,Communication Services,609.0,Anterix
+OSG,"Overseas Shipholding Group, Inc.",Energy,607.0,Overseas Ship Group
+BH,Biglari Holdings Inc.,Consumer Cyclical,604.0,Biglari
+TWI,"Titan International, Inc.",Industrials,602.0,Titan International
+HCKT,Hackett Group Inc (The),Technology,601.0,Hackett Group
+MUX,McEwen Mining Inc,Basic Materials,599.0,McEwen Mining
+GSBC,"Great Southern Bancorp, Inc.",Financial Services,599.0,Great Southern Bancorp
+GMRE,Global Medical REIT Inc,Real Estate,597.0,Global Medical REIT
+OFLX,Omega Flex Inc,Industrials,593.0,Omega Flex
+ZEUS,Olympic Steel Inc.,Basic Materials,592.0,Olympic Steel
+DIN,Dine Brands Global Inc,Consumer Cyclical,590.0,Dine Brands Global
+MITK,Mitek Systems Inc,Technology,589.0,Mitek Systems
+FRPH,FRP Holdings Inc,Real Estate,589.0,FRP
+PBT,Permian Basin Royalty Trust,Energy,589.0,Permian Basin Royalty Trust
+PETQ,PetIQ Inc,Healthcare,588.0,PetIQ
+CASS,Cass Information Systems Inc,Industrials,587.0,Cass Information Systems
+LQDT,Liquidity Services Inc,Consumer Cyclical,584.0,Liquidity Services
+TRXC,TransEnterix Inc,Healthcare,583.0,TransEnterix
+PLOW,Douglas Dynamics Inc,Consumer Cyclical,582.0,Douglas Dynamics
+DMRC,Digimarc Corporation,Technology,580.0,Digimarc
+EYPT,EyePoint Pharmaceuticals Inc,Healthcare,580.0,EyePoint Pharmaceuticals
+UFCS,United Fire Group Inc,Financial Services,578.0,United Fire Group
+GTN,"Gray Television, Inc.",Communication Services,578.0,Gray Television
+TPB,Turning Point Brands Inc,Consumer Defensive,576.0,Turning Point Brands
+SVRA,Savara Inc,Healthcare,573.0,Savara
+MYE,Myers Industries Inc.,Consumer Cyclical,573.0,Myers Industries
+KE,Kimball Electronics Inc,Industrials,570.0,Kimball Electronics
+LEGH,Legacy Housing Corp,Consumer Cyclical,567.0,Legacy Housing
+SIBN,SI-BONE Inc,Healthcare,565.0,SI-BONE
+EVRI,Everi Holdings Inc,Consumer Cyclical,563.0,Everi
+GOOD,Gladstone Commercial Corp,Real Estate,563.0,Gladstone Commercial
+GCI,Gannett Co Inc.,Communication Services,556.0,Gannett
+AMCX,AMC Networks Inc,Communication Services,555.0,AMC Networks
+UVE,Universal Insurance Holdings Inc,Financial Services,554.0,Universal Insurance
+CPF,Central Pacific Financial Corp.,Financial Services,554.0,Central Pacific Financial
+ACTG,Acacia Research Corp,Industrials,552.0,Acacia Research
+RBBN,Ribbon Communications Inc,Communication Services,550.0,Ribbon Communications
+OFIX,Orthofix Medical Inc,Healthcare,549.0,Orthofix Medical
+CYRX,CryoPort Inc,Industrials,548.0,CryoPort
+CDMO,Avid Bioservices Inc,Healthcare,547.0,Avid Bioservices
+GCBC,Greene County Bancorp Inc,Financial Services,547.0,Greene County Bancorp
+IRMD,Iradimed Corp,Healthcare,546.0,Iradimed
+NCMI,National Cinemedia Inc,Communication Services,543.0,National Cinemedia
+SIGA,SIGA Technologies Inc,Healthcare,543.0,SIGA Technologies
+EGBN,Eagle Bancorp Inc (MD),Financial Services,539.0,Eagle Bancorp
+NYMT,New York Mortgage Trust Inc,Real Estate,538.0,New York Mortgage Trust
+EBF,Ennis Inc.,Industrials,538.0,Ennis
+NP,Neenah Inc,Basic Materials,537.0,Neenah
+BFST,Business First Bancshares Inc.,Financial Services,536.0,Business First Bancshares
+CLFD,Clearfield Inc,Technology,536.0,Clearfield
+GDOT,Green Dot Corp.,Financial Services,534.0,Green Dot
+YMAB,Y-Mabs Therapeutics Inc,Healthcare,533.0,Y-Mabs Therapeutics
+EZPW,"EZCorp, Inc.",Financial Services,532.0,EZCorp
+TRST,Trustco Bank Corp.,Financial Services,530.0,Trustco Bank
+HBNC,Horizon Bancorp Inc (IN),Financial Services,530.0,Horizon Bancorp
+NPK,"National Presto Industries, Inc.",Industrials,529.0,National Presto Industries
+BRY,Berry Corp,Energy,526.0,Berry
+DAKT,Daktronics Inc.,Technology,525.0,Daktronics
+FPI,Farmland Partners Inc,Real Estate,525.0,Farmland Partners
+DJCO,Daily Journal Corporation,Communication Services,525.0,Daily Journal
+SBGI,Sinclair Inc,Communication Services,524.0,Sinclair
+IBCP,"Independent Bank Corporation (Ionia, MI)",Financial Services,524.0,Independent Bank
+NBN,Northeast Bank,Financial Services,523.0,Northeast Bank
+SPWR,Sunpower Corp,Technology,523.0,Sunpower
+BAND,Bandwidth Inc,Technology,523.0,Bandwidth
+CNCE,Concert Pharmaceuticals Inc,Healthcare,521.0,Concert Pharmaceuticals
+YORW,York Water Co.,Utilities,520.0,York Water
+CMP,Compass Minerals International Inc,Basic Materials,520.0,Compass Minerals International
+SMRT,SmartRent Inc,Consumer Cyclical,519.0,SmartRent
+CATC,Cambridge Bancorp,Financial Services,518.0,Cambridge Bancorp
+CCRN,"Cross Country Healthcares, Inc.",Industrials,517.0,Cross Country Healthcares
+UHT,Universal Health Realty Income Trust,Real Estate,516.0,Universal Health Realty Income Trust
+SD,Sandridge Energy Inc,Energy,515.0,Sandridge Energy
+HRTX,Heron Therapeutics Inc,Healthcare,514.0,Heron Therapeutics
+CNSL,Consolidated Communications Holdings Inc,Communication Services,512.0,Consolidated Communications
+CTT,CatchMark Timber Trust Inc,Real Estate,511.0,CatchMark Timber Trust
+PACB,Pacific Biosciences of California Inc,Healthcare,511.0,Pacific Biosciences of California
+EQBK,Equity Bancshares Inc,Financial Services,511.0,Equity Bancshares
+GAIN,Gladstone Investment Corporation,Financial Services,509.0,Gladstone Investment
+CYH,"Community Health Systems, Inc.",Healthcare,503.0,Community Health Systems
+SRDX,"Surmodics, Inc.",Healthcare,501.0,Surmodics
+HTBK,Heritage Commerce Corp.,Financial Services,499.0,Heritage Commerce
+TTI,"Tetra Technologies, Inc.",Energy,497.0,Tetra Technologies
+RDUS,Radius Recycling Inc.,Healthcare,496.0,Radius Recycling
+ALEC,Alector Inc,Healthcare,494.0,Alector
+ALT,Altimmune Inc,Healthcare,494.0,Altimmune
+AAC,Ares Acquisition Corporation,,492.0,Ares Acquisition
+MSBI,Midland States Bancorp Inc,Financial Services,492.0,Midland States Bancorp
+DDD,3D Systems Corp.,Technology,491.0,3D Systems
+FC,Franklin Covey Co.,Industrials,491.0,Franklin Covey
+AMSC,American Superconductor Corp.,Industrials,490.0,American Superconductor
+OLP,"One Liberty Properties, Inc.",Real Estate,489.0,One Liberty Properties
+OSPN,OneSpan Inc,Technology,488.0,OneSpan
+ACCO,Acco Brands Corporation,Industrials,486.0,Acco Brands
+GLAD,Gladstone Capital Corp.,Financial Services,484.0,Gladstone Capital
+TRC,Tejon Ranch Co.,Industrials,483.0,Tejon Ranch
+MCBC,Macatawa Bank Corp.,Financial Services,483.0,Macatawa Bank
+BDGE,"Bridge Bancorp, Inc.",Financial Services,483.0,Bridge Bancorp
+HTBI,HomeTrust Bancshares Inc,Financial Services,482.0,HomeTrust Bancshares
+AAOI,Applied Optoelectronics Inc,Technology,482.0,Applied Optoelectronics
+MCB,Metropolitan Bank Holding Corp,Financial Services,481.0,Metropolitan Bank
+LAND,Gladstone Land Corp,Real Estate,478.0,Gladstone Land
+NGVC,Natural Grocers by Vitamin Cottage Inc,Consumer Defensive,478.0,Natural Grocers by Vitamin Cottage
+CDLX,Cardlytics Inc,Communication Services,478.0,Cardlytics
+SMBC,"Southern Missouri Bancorp, Inc.",Financial Services,478.0,Southern Missouri Bancorp
+DBI,Designer Brands Inc,Consumer Cyclical,477.0,Designer Brands
+CELC,Celcuity Inc,Healthcare,473.0,Celcuity
+CAC,Camden National Corp.,Financial Services,470.0,Camden National
+PVAC,Penn Virginia Corp.,Energy,470.0,Penn Virginia
+HAFC,Hanmi Financial Corp.,Financial Services,469.0,Hanmi Financial
+CVGW,"Calavo Growers, Inc",Consumer Defensive,469.0,Calavo Growers
+TELL,Tellurian Inc,Energy,469.0,Tellurian
+DAVE,Dave Inc,,469.0,Dave
+CEVA,Ceva Inc.,Technology,469.0,Ceva
+GLRE,Greenlight Capital Re Ltd,Financial Services,468.0,Greenlight Capital Re
+KALV,KalVista Pharmaceuticals Inc,Healthcare,467.0,KalVista Pharmaceuticals
+OPY,Oppenheimer Holdings Inc,Financial Services,467.0,Oppenheimer
+FMNB,Farmers National Banc Corp.,Financial Services,466.0,Farmers National Banc
+BYND,Beyond Meat Inc,Consumer Defensive,465.0,Beyond Meat
+LYTS,LSI Industries Inc.,Technology,461.0,LSI Industries
+EAF,GrafTech International Ltd.,Industrials,460.0,GrafTech International
+CCBG,"Capital City Bank Group, Inc.",Financial Services,458.0,Capital City Bank Group
+IIIV,i3 Verticals Inc,Technology,457.0,i3 Verticals
+CRBP,Corbus Pharmaceuticals Holdings Inc,Healthcare,456.0,Corbus Pharmaceuticals
+HONE,HarborOne Bancorp Inc.,Financial Services,455.0,HarborOne Bancorp
+BBW,Build A Bear Workshop Inc,Consumer Cyclical,455.0,Build A Bear Workshop
+SRI,Stoneridge Inc.,Consumer Cyclical,453.0,Stoneridge
+AGS,PlayAGS Inc,Consumer Cyclical,453.0,PlayAGS
+ORC,Orchid Island Capital Inc,Real Estate,452.0,Orchid Island Capital
+FNKO,Funko Inc,Consumer Cyclical,451.0,Funko
+IVR,Invesco Mortgage Capital Inc,Real Estate,451.0,Invesco Mortgage Capital
+CHUY,Chuy`s Holdings Inc,Consumer Cyclical,450.0,Chuy's
+HVT,"Haverty Furniture Cos., Inc.",Consumer Cyclical,450.0,Haverty Furniture
+ADTN,ADTRAN Holdings Inc,Technology,448.0,ADTRAN
+RICK,RCI Hospitality Holdings Inc,Consumer Cyclical,444.0,RCI Hospitality
+WASH,"Washington Trust Bancorp, Inc.",Financial Services,444.0,Washington Trust Bancorp
+WLDN,Willdan Group Inc,Industrials,442.0,Willdan Group
+WLFC,Willis Lease Finance Corp.,Industrials,441.0,Willis Lease Finance
+HDSN,"Hudson Technologies, Inc.",Basic Materials,439.0,Hudson Technologies
+LE,"Lands` End, Inc.",Consumer Cyclical,439.0,Lands' End
+THFF,First Financial Corp. - Indiana,Financial Services,438.0,First Financial- Indiana
+EDIT,Editas Medicine Inc,Healthcare,438.0,Editas Medicine
+LOVE,Lovesac Company,Consumer Cyclical,436.0,Lovesac
+VYGR,Voyager Therapeutics Inc,Healthcare,436.0,Voyager Therapeutics
+SENEA,Seneca Foods Corp.,Consumer Defensive,432.0,Seneca Foods
+MTW,"Manitowoc Co., Inc.",Industrials,432.0,Manitowoc
+MEI,"Methode Electronics, Inc.",Technology,432.0,Methode Electronics
+DGICA,Donegal Group Inc.,Financial Services,430.0,Donegal Group
+EE,Excelerate Energy Inc,Utilities,429.0,Excelerate Energy
+MOV,"Movado Group, Inc.",Consumer Cyclical,426.0,Movado Group
+AROW,Arrow Financial Corp.,Financial Services,426.0,Arrow Financial
+FCEL,Fuelcell Energy Inc,Industrials,424.0,Fuelcell Energy
+LIND,Lindblad Expeditions Holdings Inc,Consumer Cyclical,423.0,Lindblad Expeditions
+ODC,Oil-Dri Corp. Of America,Basic Materials,423.0,Oil-DriOf America
+KODK,Eastman Kodak Co.,Industrials,421.0,Eastman Kodak
+XONE,BondBloxx ETF Trust,Industrials,420.0,BondBloxx ETF Trust
+MLP,"Maui Land & Pineapple Co., Inc.",Real Estate,417.0,Maui Land & Pineapple
+CLDT,Chatham Lodging Trust,Real Estate,416.0,Chatham Lodging Trust
+ALLO,Allogene Therapeutics Inc,Healthcare,415.0,Allogene Therapeutics
+DHIL,"Diamond Hill Investment Group, Inc.",Financial Services,415.0,Diamond Hill Investment Group
+CCNE,CNB Financial Corp (PA),Financial Services,412.0,CNB Financial
+TBPH,Theravance Biopharma Inc,Healthcare,409.0,Theravance Biopharma
+EB,Eventbrite Inc,Technology,409.0,Eventbrite
+SAVE,Spirit Airlines Inc,Industrials,407.0,Spirit Airlines
+VALU,"Value Line, Inc.",Financial Services,407.0,Value Line
+VPG,Vishay Precision Group Inc,Technology,406.0,Vishay Precision Group
+WOW,WideOpenWest Inc,Communication Services,405.0,WideOpenWest
+HRZN,Horizon Technology Finance Corp,Financial Services,404.0,Horizon Technology Finance
+TITN,Titan Machinery Inc,Industrials,404.0,Titan Machinery
+SES,SES AI Corporation,Energy,404.0,SES AI
+CSV,"Carriage Services, Inc.",Consumer Cyclical,404.0,Carriage Services
+FATE,Fate Therapeutics Inc,Healthcare,403.0,Fate Therapeutics
+HT,Hersha Hospitality Trust,Real Estate,403.0,Hersha Hospitality Trust
+XPER,Xperi Inc,Technology,402.0,Xperi
+CTO,CTO Realty Growth Inc,Real Estate,401.0,CTO Realty Growth
+QUOT,Quotient Technology Inc,Communication Services,398.0,Quotient Technology
+ESPR,Esperion Therapeutics Inc.,Healthcare,398.0,Esperion Therapeutics
+ATLC,Atlanticus Holdings Corp,Financial Services,398.0,Atlanticus
+ARA,American Renal Associates Holdings Inc.,Healthcare,397.0,American Renal Associates
+NFBK,Northfield Bancorp Inc,Financial Services,397.0,Northfield Bancorp
+FWRD,Forward Air Corp.,Industrials,397.0,Forward Air
+NTGR,Netgear Inc,Technology,396.0,Netgear
+CDR,Cedar Realty Trust Inc,Real Estate,396.0,Cedar Realty Trust
+SMBK,SmartFinancial Inc,Financial Services,392.0,SmartFinancial
+CRMT,"Americas Car Mart, Inc.",Consumer Cyclical,390.0,Americas Car Mart
+BHB,Bar Harbor Bankshares Inc,Financial Services,390.0,Bar Harbor Bankshares
+BBCP,Concrete Pumping Holdings Inc,Industrials,389.0,Concrete Pumping
+ESQ,Esquire Financial Holdings Inc,Financial Services,387.0,Esquire Financial
+PGC,Peapack-Gladstone Financial Corp.,Financial Services,385.0,Peapack-Gladstone Financial
+ZUMZ,Zumiez Inc,Consumer Cyclical,384.0,Zumiez
+AVNW,Aviat Networks Inc,Technology,383.0,Aviat Networks
+SMHI,SEACOR Marine Holdings Inc,Industrials,383.0,SEACOR Marine
+GNE,Genie Energy Ltd,Utilities,382.0,Genie Energy
+REI,Ring Energy Inc,Energy,378.0,Ring Energy
+FFIC,Flushing Financial Corp.,Financial Services,375.0,Flushing Financial
+LINC,Lincoln Educational Services Corp,Consumer Defensive,373.0,Lincoln Educational Services
+EGHT,8X8 Inc.,Technology,372.0,8X8
+CHGG,Chegg Inc,Consumer Defensive,371.0,Chegg
+NVEC,NVE Corp,Technology,371.0,NVE
+SHBI,Shore Bancshares Inc.,Financial Services,371.0,Shore Bancshares
+INOD,Innodata Inc,Technology,370.0,Innodata
+ANIK,Anika Therapeutics Inc.,Healthcare,367.0,Anika Therapeutics
+PAHC,Phibro Animal Health Corp.,Healthcare,367.0,Phibro Animal Health
+FARO,Faro Technologies Inc.,Technology,367.0,Faro Technologies
+IPI,Intrepid Potash Inc,Basic Materials,366.0,Intrepid Potash
+GPX,GP Strategies Corp.,Consumer Defensive,366.0,GP Strategies
+LMNR,Limoneira Co,Consumer Defensive,366.0,Limoneira
+PANL,Pangaea Logistics Solutions Ltd,Industrials,366.0,Pangaea Logistics Solutions
+FTSI,FTS International Inc.,Energy,365.0,FTS International
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,365.0,Rayonier Advanced Materials
+DENN,Denny`s Corp.,Consumer Cyclical,364.0,Denny's
+MIC,Macquarie Infrastructure Holdings LLC,Industrials,364.0,Macquarie Infrastructure
+RMR,RMR Group Inc (The),Real Estate,363.0,RMR Group
+ATNI,ATN International Inc,Communication Services,362.0,ATN International
+KRNY,Kearny Financial Corp.,Financial Services,361.0,Kearny Financial
+MPB,"Mid Penn Bancorp, Inc.",Financial Services,361.0,Mid Penn Bancorp
+MCFT,MasterCraft Boat Holdings Inc,Consumer Cyclical,361.0,MasterCraft Boat
+HIFS,Hingham Institution For Savings,Financial Services,359.0,Hingham Institution For Savings
+OSUR,Orasure Technologies Inc.,Healthcare,357.0,Orasure Technologies
+ACRE,Ares Commercial Real Estate Corp,Real Estate,356.0,Ares Commercial Real Estate
+ORGO,Organogenesis Holdings Inc,Healthcare,354.0,Organogenesis
+MPX,Marine Products Corp,Consumer Cyclical,353.0,Marine Products
+JILL,J.Jill Inc,Consumer Cyclical,350.0,JJill
+HEAR,Turtle Beach Corp,Technology,350.0,Turtle Beach
+NL,"NL Industries, Inc.",Industrials,350.0,NL Industries
+PTSI,"P.A.M. Transportation Services, Inc.",Industrials,350.0,PAM Transportation Services
+NVRO,Nevro Corp,Healthcare,350.0,Nevro
+INS,CoreCard Corporation,Technology,349.0,CoreCard
+FLWS,1-800 Flowers.com Inc.,Consumer Cyclical,347.0,1-800 Flowers.com
+NWPX,Northwest Pipe Co.,Industrials,345.0,Northwest Pipe
+AVXL,Anavex Life Sciences Corporation,Healthcare,344.0,Anavex Life Sciences
+FORR,Forrester Research Inc.,Industrials,344.0,Forrester Research
+RBB,RBB Bancorp,Financial Services,344.0,RBB Bancorp
+UIHC,American Coastal Insurance Corp,Financial Services,343.0,American Coastal Insurance
+PKOH,Park-Ohio Holdings Corp.,Industrials,341.0,Park-Ohio
+MOFG,MidWestOne Financial Group Inc,Financial Services,341.0,MidWestOne Financial Group
+CERS,Cerus Corp.,Healthcare,335.0,Cerus
+AEHR,Aehr Test Systems,Technology,334.0,Aehr Test Systems
+AMSWA,American Software Inc.,Technology,334.0,American Software
+TBI,TrueBlue Inc,Industrials,332.0,TrueBlue
+GDP,Goodrich Petroleum Corp.,Energy,331.0,Goodrich Petroleum
+WTI,W & T Offshore Inc,Energy,330.0,W & T Offshore
+FFWM,First Foundation Inc,Financial Services,329.0,First Foundation
+SGC,Superior Group of Companies Inc..,Consumer Cyclical,329.0,Superior Group of Companies
+GNTY,"Guaranty Bancshares, Inc. (TX)",Financial Services,327.0,Guaranty Bancshares
+LOCO,El Pollo Loco Holdings Inc,Consumer Cyclical,325.0,El Pollo Loco
+ARTNA,Artesian Resources Corp.,Utilities,325.0,Artesian Resources
+VLGEA,"Village Super Market, Inc.",Consumer Defensive,325.0,Village Super Market
+ZYXI,Zynex Inc,Healthcare,321.0,Zynex
+UIS,Unisys Corp.,Technology,321.0,Unisys
+AGEN,Agenus Inc,Healthcare,320.0,Agenus
+CWBC,Community West Bancshares.,Financial Services,319.0,Community West Bancshares
+JOUT,Johnson Outdoors Inc,Consumer Cyclical,318.0,Johnson Outdoors
+REPL,Replimune Group Inc,Healthcare,318.0,Replimune Group
+BRT,BRT Apartments Corp,Real Estate,318.0,BRT Apartments
+BWB,Bridgewater Bancshares Inc,Financial Services,318.0,Bridgewater Bancshares
+IMMR,Immersion Corp,Technology,317.0,Immersion
+APEI,American Public Education Inc,Consumer Defensive,317.0,American Public Education
+USAP,"Universal Stainless & Alloy Products, Inc.",Basic Materials,317.0,Universal Stainless & Alloy Products
+QRTEA,Qurate Retail Inc,Consumer Cyclical,316.0,Qurate Retail
+NODK,NI Holdings Inc,Financial Services,315.0,NI
+GCO,Genesco Inc.,Consumer Cyclical,314.0,Genesco
+GBLI,Global Indemnity Group LLC,Financial Services,313.0,Global Indemnity Group
+EBTC,"Enterprise Bancorp, Inc.",Financial Services,312.0,Enterprise Bancorp
+CIX,"Compx International, Inc.",Industrials,309.0,Compx International
+ITIC,Investors Title Co.,Financial Services,309.0,Investors Title
+BSRR,Sierra Bancorp,Financial Services,308.0,Sierra Bancorp
+SNBR,Sleep Number Corp,Consumer Cyclical,307.0,Sleep Number
+LEAF,Leaf Group Ltd,Communication Services,306.0,Leaf Group
+ORN,Orion Group Holdings Inc,Industrials,306.0,Orion Group
+PCYG,ReposiTrak Inc.,Technology,305.0,ReposiTrak
+GWRS,Global Water Resources Inc,Utilities,305.0,Global Water Resources
+SRG,Seritage Growth Properties,Real Estate,303.0,Seritage Growth Properties
+NRIM,"Northrim Bancorp, Inc.",Financial Services,302.0,Northrim Bancorp
+TCMD,Tactile Systems Technology Inc,Healthcare,301.0,Tactile Systems Technology
+SPOK,Spok Holdings Inc,Communication Services,301.0,Spok
+FMAO,Farmers & Merchants Bancorp Inc.,Financial Services,301.0,Farmers & Merchants Bancorp
+OIS,"Oil States International, Inc.",Energy,300.0,Oil States International
+MTRX,Matrix Service Co.,Energy,299.0,Matrix Service
+GHM,Graham Corp.,Industrials,298.0,Graham
+TTEC,TTEC Holdings Inc,Technology,298.0,TTEC
+XOMA,XOMA Corp,Healthcare,297.0,XOMA
+RDVT,Red Violet Inc,Technology,296.0,Red Violet
+HBCP,Home Bancorp Inc,Financial Services,296.0,Home Bancorp
+FSTR,L.B. Foster Co.,Industrials,296.0,LB Foster
+ANH,Anworth Mortgage Asset Corp.,Real Estate,296.0,Anworth Mortgage Asset
+PMTS,CPI Card Group Inc,Industrials,296.0,CPI Card Group
+CRMD,CorMedix Inc,Healthcare,295.0,CorMedix
+MRSN,Mersana Therapeutics Inc,Healthcare,294.0,Mersana Therapeutics
+CARE,Carter Bankshares Inc,Financial Services,292.0,Carter Bankshares
+SLDB,Solid Biosciences Inc,Healthcare,291.0,Solid Biosciences
+PKE,Park Aerospace Corp,Industrials,290.0,Park Aerospace
+AXGN,Axogen Inc.,Healthcare,290.0,Axogen
+VNDA,Vanda Pharmaceuticals Inc,Healthcare,290.0,Vanda Pharmaceuticals
+WTBA,West Bancorporation,Financial Services,290.0,West Ban
+MBI,MBIA Inc.,Financial Services,288.0,MBIA
+HCHC,HC2 Holdings Inc,Communication Services,286.0,HC2
+NATR,"Nature`s Sunshine Products, Inc.",Consumer Defensive,285.0,Nature's Sunshine Products
+WEYS,"Weyco Group, Inc",Consumer Cyclical,285.0,Weyco Group
+XERS,Xeris Biopharma Holdings Inc,Healthcare,285.0,Xeris Biopharma
+FBIZ,First Business Financial Services Inc,Financial Services,283.0,First Business Financial Services
+ORRF,"Orrstown Financial Services, Inc.",Financial Services,283.0,Orrstown Financial Services
+PFIS,Peoples Financial Services Corp,Financial Services,283.0,Peoples Financial Services
+GHL,Greenhill & Co Inc,Financial Services,282.0,Greenhill
+NATH,"Nathan`s Famous, Inc.",Consumer Cyclical,281.0,Nathan's Famous
+RVNC,Revance Therapeutics Inc,Healthcare,279.0,Revance Therapeutics
+JRVR,James River Group Holdings Ltd,Financial Services,278.0,James River Group
+MCS,Marcus Corp.,Communication Services,277.0,Marcus
+NKTR,Nektar Therapeutics,Healthcare,275.0,Nektar Therapeutics
+UNTY,"Unity Bancorp, Inc.",Financial Services,275.0,Unity Bancorp
+IRBT,Irobot Corp,Technology,275.0,Irobot
+ACNB,ACNB Corp.,Financial Services,275.0,ACNB
+FISI,Financial Institutions Inc.,Financial Services,274.0,Financial Institutions
+CSLT,Castlight Health Inc,Healthcare,274.0,Castlight Health
+RM,Regional Management Corp,Financial Services,272.0,Regional Management
+HNRG,Hallador Energy Co,Energy,272.0,Hallador Energy
+SOI,Solaris Oilfield Infrastructure Inc,Energy,272.0,Solaris Oilfield Infrastructure
+MGNX,Macrogenics Inc,Healthcare,272.0,Macrogenics
+MED,Medifast Inc,Consumer Cyclical,271.0,Medifast
+MG,Mistras Group Inc,Industrials,271.0,Mistras Group
+FNLC,First Bancorp Inc (ME),Financial Services,270.0,First Bancorp
+NGS,"Natural Gas Services Group, Inc.",Energy,270.0,Natural Gas Services Group
+INO,Inovio Pharmaceuticals Inc,Healthcare,269.0,Inovio Pharmaceuticals
+PBPB,Potbelly Corp,Consumer Cyclical,269.0,Potbelly
+CZNC,Citizens & Northern Corp,Financial Services,269.0,Citizens & Northern
+BOOM,DMC Global Inc,Energy,268.0,DMC Global
+TRUE,Truecar Inc,Communication Services,266.0,Truecar
+FDBC,"Fidelity D&D Bancorp, Inc.",Financial Services,265.0,Fidelity D&D Bancorp
+EVI,EVI Industries Inc,Industrials,265.0,EVI Industries
+RCKY,"Rocky Brands, Inc",Consumer Cyclical,265.0,Rocky Brands
+CLAR,Clarus Corp,Consumer Cyclical,265.0,Clarus
+SBT,Sterling Bancorp Inc,Financial Services,259.0,Sterling Bancorp
+FSBW,FS Bancorp Inc,Financial Services,254.0,FS Bancorp
+AVD,American Vanguard Corp.,Basic Materials,254.0,American Vanguard
+INBK,First Internet Bancorp,Financial Services,253.0,First Internet Bancorp
+ENTA,Enanta Pharmaceuticals Inc,Healthcare,253.0,Enanta Pharmaceuticals
+USX,U.S. Xpress Enterprises Inc,Industrials,251.0,US Xpress Enterprises
+DOMO,Domo Inc.,Technology,250.0,Domo
+ANGO,Angiodynamic Inc,Healthcare,250.0,Angiodynamic
+PAYS,PaySign Inc,Industrials,249.0,PaySign
+BMRC,Bank of Marin Bancorp,Financial Services,249.0,Bank of Marin Bancorp
+COMM,CommScope Holding Company Inc,Technology,248.0,CommScope
+EBS,Emergent Biosolutions Inc,Healthcare,247.0,Emergent Biosolutions
+RLGT,"Radiant Logistics, Inc.",Industrials,246.0,Radiant Logistics
+MN,Manning & Napier Inc,Financial Services,246.0,Manning & Napier
+ILPT,Industrial Logistics Properties Trust,Real Estate,245.0,Industrial Logistics Properties Trust
+ATNM,Actinium Pharmaceuticals Inc,Healthcare,245.0,Actinium Pharmaceuticals
+VRA,Vera Bradley Inc,Consumer Cyclical,244.0,Vera Bradley
+INSE,Inspired Entertainment Inc,Communication Services,243.0,Inspired Entertainment
+UTMD,"Utah Medical Products, Inc.",Healthcare,243.0,Utah Medical Products
+PFMT,Performant Financial Corp,Industrials,242.0,Performant Financial
+HRTG,Heritage Insurance Holdings Inc.,Financial Services,241.0,Heritage Insurance
+WSBF,Waterstone Financial Inc,Financial Services,241.0,Waterstone Financial
+LIVX,LiveXLive Media Inc,Communication Services,241.0,LiveXLive Media
+TCI,"Transcontinental Realty Investors, Inc.",Real Estate,240.0,Transcontinental Realty Investors
+GENC,"Gencor Industries, Inc.",Industrials,239.0,Gencor Industries
+FRBA,First Bank (NJ),Financial Services,239.0,First Bank
+JYNT,Joint Corp,Healthcare,239.0,Joint
+XBIT,XBiotech Inc,Healthcare,238.0,XBiotech
+SBNY,Signature Bank,Financial Services,238.0,Signature Bank
+MVIS,Microvision Inc.,Technology,238.0,Microvision
+LCUT,"Lifetime Brands, Inc.",Consumer Cyclical,234.0,Lifetime Brands
+MVBF,MVB Financial Corp.,Financial Services,233.0,MVB Financial
+TREC,Trecora Resources,Basic Materials,232.0,Trecora Resources
+OPRX,OptimizeRx Corp,Healthcare,231.0,OptimizeRx
+SENS,Senseonics Holdings Inc,Healthcare,231.0,Senseonics
+TPIC,TPI Composites Inc,Industrials,229.0,TPI Composites
+APPS,Digital Turbine Inc,Technology,229.0,Digital Turbine
+SFST,Southern First Bancshares Inc,Financial Services,226.0,Southern First Bancshares
+CIVB,Civista Bancshares Inc,Financial Services,226.0,Civista Bancshares
+CPS,Cooper-Standard Holdings Inc,Consumer Cyclical,226.0,Cooper-Standard
+ALDX,Aldeyra Therapeutics Inc,Healthcare,225.0,Aldeyra Therapeutics
+PCYO,Pure Cycle Corp.,Utilities,225.0,Pure Cycle
+LWAY,"Lifeway Foods, Inc.",Consumer Defensive,224.0,Lifeway Foods
+AKBA,Akebia Therapeutics Inc.,Healthcare,224.0,Akebia Therapeutics
+FET,Forum Energy Technologies Inc,Energy,224.0,Forum Energy Technologies
+FLIC,First Of Long Island Corp.,Financial Services,223.0,First Of Long Island
+CDXS,Codexis Inc.,Healthcare,222.0,Codexis
+SFIX,Stitch Fix Inc,Consumer Cyclical,218.0,Stitch Fix
+AAN,Aarons Company Inc (The),Industrials,217.0,Aarons
+ARL,American Realty Investors Inc.,Real Estate,216.0,American Realty Investors
+CDZI,Cadiz Inc.,Utilities,216.0,Cadiz
+PDLB,Ponce Financial Group Inc,Financial Services,216.0,Ponce Financial Group
+CHRS,Coherus Biosciences Inc,Healthcare,216.0,Coherus Biosciences
+CVLY,"Codorus Valley Bancorp, Inc.",Financial Services,215.0,Codorus Valley Bancorp
+PNRG,PrimeEnergy Resources Corp,Energy,214.0,PrimeEnergy Resources
+WRTC,Wrap Technologies Inc,Technology,214.0,Wrap Technologies
+BOLD,Boundless Bio Inc.,,214.0,Boundless Bio
+REV,"Revlon, Inc.",Consumer Defensive,212.0,Revlon
+JAX,J. Alexanders Holdings Inc,Consumer Cyclical,211.0,J Alexanders
+RGCO,"RGC Resources, Inc.",Utilities,209.0,RGC Resources
+CDXC,Chromadex Corp,Healthcare,209.0,Chromadex
+OOMA,Ooma Inc,Communication Services,209.0,Ooma
+TSBK,"Timberland Bancorp, Inc.",Financial Services,209.0,Timberland Bancorp
+CBAN,"Colony Bankcorp, Inc.",Financial Services,208.0,Colony Bankcorp
+DXLG,Destination XL Group Inc,Consumer Cyclical,208.0,Destination XL Group
+SSTI,SoundThinking Inc,Technology,207.0,SoundThinking
+CHMG,Chemung Financial Corp.,Financial Services,207.0,Chemung Financial
+PLBC,Plumas Bancorp.,Financial Services,206.0,Plumas Bancorp
+CTRN,Citi Trends Inc,Consumer Cyclical,203.0,Citi Trends
+ALCO,Alico Inc.,Consumer Defensive,203.0,Alico
+INGN,Inogen Inc,Healthcare,203.0,Inogen
+NWFL,Norwood Financial Corp.,Financial Services,202.0,Norwood Financial
+JAKK,Jakks Pacific Inc.,Consumer Cyclical,202.0,Jakks Pacific
+MHLD,Maiden Holdings Ltd,Financial Services,201.0,Maiden
+FF,Futurefuel Corp,Basic Materials,201.0,Futurefuel
+OVLY,Oak Valley Bancorp,Financial Services,201.0,Oak Valley Bancorp
+ULBI,Ultralife Corp,Industrials,199.0,Ultralife
+KMPH,Zevra Therapeutics Inc,Healthcare,198.0,Zevra Therapeutics
+FSP,Franklin Street Properties Corp.,Real Estate,198.0,Franklin Street Properties
+ASUR,Asure Software Inc,Technology,197.0,Asure Software
+ITI,Iteris Inc.,Technology,197.0,Iteris
+MITT,AG Mortgage Investment Trust Inc,Real Estate,197.0,AG Mortgage Investment Trust
+PKBK,Parke Bancorp Inc,Financial Services,196.0,Parke Bancorp
+LCNB,LCNB Corp,Financial Services,196.0,LCNB
+OCN,Ocwen Financial Corp.,Financial Services,196.0,Ocwen Financial
+GPRO,GoPro Inc.,Technology,195.0,GoPro
+TWIN,Twin Disc Incorporated,Industrials,195.0,Twin Disc
+HIL,Hill International Inc,Industrials,194.0,Hill International
+CAPR,Capricor Therapeutics Inc,Healthcare,194.0,Capricor Therapeutics
+PBYI,Puma Biotechnology Inc,Healthcare,194.0,Puma Biotechnology
+TG,Tredegar Corp.,Basic Materials,193.0,Tredegar
+FFNW,First Financial Northwest Inc,Financial Services,193.0,First Financial Northwest
+STI,Solidion Technology Inc,,193.0,Solidion Technology
+NC,Nacco Industries Inc.,Energy,193.0,Nacco Industries
+BPRN,Princeton Bancorp Inc,Financial Services,193.0,Princeton Bancorp
+BWFG,Bankwell Financial Group Inc,Financial Services,193.0,Bankwell Financial Group
+OMER,Omeros Corporation,Healthcare,192.0,Omeros
+CIO,City Office REIT Inc,Real Estate,192.0,City Office REIT
+QUIK,Quicklogic Corp,Technology,191.0,Quicklogic
+HBB,Hamilton Beach Brands Holding Co,Technology,191.0,Hamilton Beach Brands
+EPM,Evolution Petroleum Corporation,Energy,190.0,Evolution Petroleum
+QUAD,Quad/Graphics Inc,Industrials,190.0,Quad/Graphics
+SSP,E.W. Scripps Co.,Communication Services,190.0,EW Scripps
+VIRC,Virco Manufacturing Corp.,Consumer Cyclical,188.0,Virco Manufacturing
+STRS,Stratus Properties Inc.,Real Estate,188.0,Stratus Properties
+ESCA,"Escalade, Inc.",Consumer Cyclical,188.0,Escalade
+ZIOP,Alaunos Therapeutics Inc,Healthcare,187.0,Alaunos Therapeutics
+QRHC,Quest Resource Holding Corp,Industrials,186.0,Quest Resource
+LCTX,Lineage Cell Therapeutics Inc,Healthcare,185.0,Lineage Cell Therapeutics
+ACHV,Achieve Life Sciences Inc.,Healthcare,184.0,Achieve Life Sciences
+BHR,Braemar Hotels & Resorts Inc,Real Estate,183.0,Braemar Hotels & Resorts
+CMT,Core Molding Technologies,Basic Materials,183.0,Core Molding Technologies
+OXSQ,Oxford Square Capital Corp,Financial Services,182.0,Oxford Square Capital
+EGAN,eGain Corp,Technology,181.0,eGain
+ATLO,Ames National Corp.,Financial Services,180.0,Ames National
+ATOS,Atossa Therapeutics Inc,Healthcare,179.0,Atossa Therapeutics
+SRT,"Startek, Inc.",Industrials,178.0,Startek
+GTHX,G1 Therapeutics Inc,Healthcare,178.0,G1 Therapeutics
+ESSA,ESSA Bancorp Inc,Financial Services,177.0,ESSA Bancorp
+MBCN,Middlefield Banc Corp.,Financial Services,177.0,Middlefield Banc
+TUSK,Mammoth Energy Services Inc,Energy,176.0,Mammoth Energy Services
+NKSH,National Bankshares Inc.,Financial Services,176.0,National Bankshares
+HOFT,Hooker Furnishings Corporation,Consumer Cyclical,175.0,Hooker Furnishings
+GALT,Galectin Therapeutics Inc,Healthcare,175.0,Galectin Therapeutics
+FLXS,"Flexsteel Industries, Inc.",Consumer Cyclical,175.0,Flexsteel Industries
+CVGI,Commercial Vehicle Group Inc,Consumer Cyclical,174.0,Commercial Vehicle Group
+FLL,"Full House Resorts, Inc.",Consumer Cyclical,173.0,Full House Resorts
+XELA,Exela Technologies Inc,Technology,173.0,Exela Technologies
+EVC,Entravision Communications Corp.,Communication Services,173.0,Entravision Communications
+BCBP,BCB Bancorp Inc (NJ),Financial Services,172.0,BCB Bancorp
+EMAN,EMagin Corp,Technology,172.0,EMagin
+HMST,HomeStreet Inc,Financial Services,171.0,HomeStreet
+ANGI,Angi Inc,Communication Services,171.0,Angi
+EML,Eastern Co.,Industrials,171.0,Eastern
+EHTH,eHealth Inc,Financial Services,170.0,eHealth
+NTIC,Northern Technologies International Corp.,Basic Materials,170.0,Northern Technologies International
+PLCE,Childrens Place Inc,Consumer Cyclical,169.0,Childrens Place
+ABEO,Abeona Therapeutics Inc,Healthcare,169.0,Abeona Therapeutics
+STKS,ONE Group Hospitality Inc,Consumer Cyclical,168.0,ONE Group Hospitality
+TSQ,Townsquare Media Inc,Communication Services,167.0,Townsquare Media
+CPSS,"Consumer Portfolio Service, Inc.",Financial Services,167.0,Consumer Portfolio Service
+GEVO,Gevo Inc,Basic Materials,166.0,Gevo
+PVBC,Provident Bancorp Inc,Financial Services,166.0,Provident Bancorp
+AXTI,AXT Inc,Technology,165.0,AXT
+ALIM,Alimera Sciences Inc.,Healthcare,163.0,Alimera Sciences
+RIGL,Rigel Pharmaceuticals,Healthcare,163.0,Rigel Pharmaceuticals
+NWHM,New Home Company Inc (The),Consumer Cyclical,163.0,New Home
+EYES,Vivani Medical Inc,Healthcare,163.0,Vivani Medical
+VERU,Veru Inc,Healthcare,162.0,Veru
+LONE,Lonestar Resources US Inc,Energy,162.0,Lonestar Resources US
+PZN,Pzena Investment Management Inc,Financial Services,162.0,Pzena Investment Management
+TAYD,Taylor Devices Inc.,Industrials,161.0,Taylor Devices
+NNBR,NN Inc,Industrials,161.0,NN
+RMAX,RE/MAX Holdings Inc,Real Estate,160.0,RE/MAX
+INFU,InfuSystem Holdings Inc,Healthcare,160.0,InfuSystem
+ADVM,Adverum Biotechnologies Inc,Healthcare,159.0,Adverum Biotechnologies
+AMTX,Aemetis Inc,Energy,159.0,Aemetis
+XFOR,X4 Pharmaceuticals Inc,Healthcare,158.0,X4 Pharmaceuticals
+ARAY,Accuray Inc,Healthcare,158.0,Accuray
+PEBK,Peoples Bancorp Of North Carolina Inc,Financial Services,158.0,Peoples Bancorp Of North Carolina
+KOD,Kodiak Sciences Inc,Healthcare,158.0,Kodiak Sciences
+DLHC,DLH Holdings Corp,Industrials,157.0,DLH
+ISTR,Investar Holding Corp,Financial Services,156.0,Investar
+RCMT,"RCM Technologies, Inc.",Industrials,156.0,RCM Technologies
+III,Information Services Group Inc.,Technology,153.0,Information Services Group
+EXTN,Exterran Corp,Energy,153.0,Exterran
+SNFCA,Security National Financial Corp.,Financial Services,151.0,Security National Financial
+GPMT,Granite Point Mortgage Trust Inc,Real Estate,150.0,Granite Point Mortgage Trust
+CFFI,C & F Financial Corp,Financial Services,150.0,C & F Financial
+PWOD,"Penns Woods Bancorp, Inc.",Financial Services,148.0,Penns Woods Bancorp
+VXRT,Vaxart Inc,Healthcare,147.0,Vaxart
+WNEB,Western New England Bancorp Inc,Financial Services,146.0,Western New England Bancorp
+MICT,MICT Inc,Technology,146.0,MICT
+EVBN,Evans Bancorp Inc,Financial Services,145.0,Evans Bancorp
+EARN,Ellington Credit Co.,Real Estate,143.0,Ellington Credit
+AHC,A.H. Belo Corp,Communication Services,143.0,AH Belo
+PESI,"Perma-Fix Environmental Services, Inc.",Industrials,143.0,Perma-Fix Environmental Services
+CIA,"Citizens, Inc.",Financial Services,142.0,Citizens
+SAMG,Silvercrest Asset Management Group Inc,Financial Services,142.0,Silvercrest Asset Management Group
+MCRB,Seres Therapeutics Inc,Healthcare,141.0,Seres Therapeutics
+RELL,"Richardson Electronics, Ltd.",Technology,141.0,Richardson Electronics
+LTRX,Lantronix Inc,Technology,141.0,Lantronix
+WHLR,Wheeler Real Estate Investment Trust Inc,Real Estate,140.0,Wheeler Real Estate Investment Trust
+CTMX,CytomX Therapeutics Inc,Healthcare,139.0,CytomX Therapeutics
+GTT,GTT Communications Inc,Communication Services,139.0,GTT Communications
+CSPI,CSP Inc.,Technology,139.0,CSP
+GEOS,Geospace Technologies Corp,Energy,138.0,Geospace Technologies
+HBIO,Harvard Bioscience Inc.,Healthcare,138.0,Harvard Bioscience
+SACH,Sachem Capital Corp,Real Estate,137.0,Sachem Capital
+SELB,Selecta Biosciences Inc,Healthcare,137.0,Selecta Biosciences
+SYNL,Synalloy Corp.,Basic Materials,136.0,Synalloy
+UEIC,Universal Electronics Inc.,Technology,135.0,Universal Electronics
+GOSS,Gossamer Bio Inc,Healthcare,134.0,Gossamer Bio
+RGLS,Regulus Therapeutics Inc,Healthcare,134.0,Regulus Therapeutics
+LAKE,"Lakeland Industries, Inc.",Consumer Cyclical,134.0,Lakeland Industries
+ALOT,AstroNova Inc,Technology,133.0,AstroNova
+HWBK,Hawthorn Bancshares Inc,Financial Services,133.0,Hawthorn Bancshares
+FUNC,First United Corporation,Financial Services,133.0,First United
+OPTN,OptiNose Inc,Healthcare,132.0,OptiNose
+ACU,Acme United Corp.,Consumer Defensive,132.0,Acme United
+FGBI,First Guaranty Bancshares Inc,Financial Services,132.0,First Guaranty Bancshares
+TLYS,Tillys Inc,Consumer Cyclical,131.0,Tillys
+MRAM,Everspin Technologies Inc,Technology,130.0,Everspin Technologies
+MNTX,Manitex International Inc,Industrials,130.0,Manitex International
+FCCO,First Community Corp.,Financial Services,129.0,First Community
+SPWH,Sportsman`s Warehouse Holdings Inc,Consumer Cyclical,129.0,Sportsman's Warehouse
+SGMO,Sangamo Therapeutics Inc,Healthcare,129.0,Sangamo Therapeutics
+BSET,Bassett Furniture Industries Inc.,Consumer Cyclical,128.0,Bassett Furniture Industries
+MNSB,MainStreet Bancshares Inc,Financial Services,128.0,MainStreet Bancshares
+DLTH,Duluth Holdings Inc,Consumer Cyclical,128.0,Duluth
+FGEN,FibroGen Inc,Healthcare,127.0,FibroGen
+CAMP,Calamp Corp.,Technology,127.0,Calamp
+PHX,PHX Minerals Inc,Energy,127.0,PHX Minerals
+CRVS,Corvus Pharmaceuticals Inc,Healthcare,126.0,Corvus Pharmaceuticals
+INTT,Intest Corp.,Technology,126.0,Intest
+BFIN,Bankfinancial Corp,Financial Services,126.0,Bankfinancial
+UBFO,United Security Bancshares (CA),Financial Services,126.0,United Security Bancshares
+TSE,Trinseo PLC,Basic Materials,125.0,Trinseo
+FRD,"Friedman Industries, Inc.",Basic Materials,124.0,Friedman Industries
+LIFE,Atyr Pharma Inc,Healthcare,124.0,Atyr Pharma
+ALLK,Allakos Inc,Healthcare,123.0,Allakos
+ELMD,Electromed Inc.,Healthcare,123.0,Electromed
+LOOP,Loop Industries Inc,Basic Materials,121.0,Loop Industries
+AJX,Great Ajax Corp,Real Estate,121.0,Great Ajax
+INTL,Northern Lights Fund Trust IV,Financial Services,120.0,Northern Lights Fund Trust IV
+ADES,,Industrials,120.0,nan
+UFI,"UNIFI, Inc.",Consumer Cyclical,120.0,UNIFI
+CZWI,Citizens Community Bancorp Inc MD,Financial Services,118.0,Citizens Community BancorpMD
+ARC,ARC Document Solutions Inc,Industrials,118.0,ARC Document Solutions
+WHG,Westwood Holdings Group Inc,Financial Services,118.0,Westwood  Group
+HURC,"Hurco Companies, Inc.",Industrials,117.0,Hurco
+KPTI,Karyopharm Therapeutics Inc,Healthcare,117.0,Karyopharm Therapeutics
+FNCB,FNCB Bancorp Inc,Financial Services,117.0,FNCB Bancorp
+WW,WW International Inc,Consumer Cyclical,117.0,WW International
+OVBC,Ohio Valley Banc Corp.,Financial Services,116.0,Ohio Valley Banc
+CBFV,CB Financial Services Inc,Financial Services,115.0,CB Financial Services
+FRAF,Franklin Financial Services Corp.,Financial Services,115.0,Franklin Financial Services
+FSFG,First Savings Financial Group Inc,Financial Services,115.0,First Savings Financial Group
+GIFI,"Gulf Island Fabrication, Inc.",Energy,114.0,Gulf Island Fabrication
+CPHC,Canterbury Park Holding Corp,Consumer Cyclical,114.0,Canterbury Park
+PDSB,PDS Biotechnology Corporation,Healthcare,114.0,PDS Biotechnology
+KEQU,Kewaunee Scientific Corporation,Consumer Cyclical,114.0,Kewaunee Scientific
+SCX,L.S. Starrett Co.,Industrials,113.0,LS Starrett
+LUNA,Luna Innovations Inc,Technology,113.0,Luna Innovations
+SGA,"Saga Communications, Inc.",Communication Services,113.0,Saga Communications
+IMUX,Immunic Inc,Healthcare,113.0,Immunic
+VERI,Veritone Inc,Technology,112.0,Veritone
+CATO,Cato Corp.,Consumer Cyclical,112.0,Cato
+MRBK,Meridian Corp,Financial Services,112.0,Meridian
+ISSC,Innovative Solutions And Support Inc,Industrials,110.0,Innovative Solutions And Support
+SCWX,SecureWorks Corp,Technology,109.0,SecureWorks
+CHMI,Cherry Hill Mortgage Investment Corporation,Real Estate,109.0,Cherry Hill Mortgage Investment
+FTK,Flotek Industries Inc,Energy,109.0,Flotek Industries
+STRT,Strattec Security Corp.,Consumer Cyclical,109.0,Strattec Security
+GBL,Gamco Investors Inc,Financial Services,109.0,Gamco Investors
+INVE,Identiv Inc,Technology,108.0,Identiv
+LARK,Landmark Bancorp Inc,Financial Services,107.0,Landmark Bancorp
+RRGB,Red Robin Gourmet Burgers Inc,Consumer Cyclical,107.0,Red Robin Gourmet Burgers
+BW,Babcock & Wilcox Enterprises Inc,Industrials,106.0,Babcock & Wilcox Enterprises
+DHX,DHI Group Inc,Industrials,106.0,DHI Group
+OPI,Office Properties Income Trust,Real Estate,106.0,Office Properties Income Trust
+EBMT,Eagle Bancorp Montana Inc,Financial Services,106.0,Eagle Bancorp Montana
+CLRB,Cellectar Biosciences Inc,Healthcare,106.0,Cellectar Biosciences
+ARPO,Aerpio Pharmaceuticals Inc,Healthcare,105.0,Aerpio Pharmaceuticals
+MPAA,Motorcar Parts of America Inc.,Consumer Cyclical,105.0,Motorcar Parts of America
+VTNR,Vertex Energy Inc,Energy,105.0,Vertex Energy
+TZOO,Travelzoo,Consumer Cyclical,105.0,Travelzoo
+SUP,"Superior Industries International, Inc.",Consumer Cyclical,104.0,Superior Industries International
+FNWB,First Northwest Bancorp,Financial Services,104.0,First Northwest Bancorp
+INSG,Inseego Corp,Technology,104.0,Inseego
+VUZI,Vuzix Corporation,Technology,104.0,Vuzix
+IVAC,"Intevac, Inc.",Industrials,104.0,Intevac
+AXR,AMREP Corp.,Real Estate,104.0,AMREP
+BLUE,Bluebird bio Inc,Healthcare,103.0,Bluebird bio
+UNB,"Union Bankshares, Inc.",Financial Services,103.0,Union Bankshares
+SFBC,Sound Financial Bancorp Inc,Financial Services,102.0,Sound Financial Bancorp
+VSTM,Verastem Inc,Healthcare,102.0,Verastem
+KVHI,"KVH Industries, Inc.",Technology,102.0,KVH Industries
+FCAP,First Capital Inc.,Financial Services,101.0,First Capital
+HMNF,HMN Financial Inc.,Financial Services,100.0,HMN Financial
+KOPN,Kopin Corp.,Technology,99.0,Kopin
+FONR,Fonar Corp.,Healthcare,98.0,Fonar
+BIG,Big Lots Inc,Consumer Defensive,98.0,Big Lots
+LFVN,Lifevantage Corporation,Consumer Defensive,98.0,Lifevantage
+CFBK,CF Bankshares Inc,Financial Services,98.0,CF Bankshares
+PRPH,ProPhase Labs Inc,Healthcare,98.0,ProPhase Labs
+XTNT,Xtant Medical Holdings Inc,Healthcare,98.0,Xtant Medical
+SERV,Serve Robotics Inc,Consumer Cyclical,96.0,Serve Robotics
+BWEN,Broadwind Inc,Industrials,96.0,Broadwind
+SBFG,SB Financial Group Inc,Financial Services,96.0,SB Financial Group
+SNCR,Synchronoss Technologies Inc,Technology,96.0,Synchronoss Technologies
+OMEX,"Odyssey Marine Exploration, Inc.",Industrials,95.0,Odyssey Marine Exploration
+ASRT,Assertio Holdings Inc,Healthcare,95.0,Assertio
+ARMP,Armata Pharmaceuticals Inc,Healthcare,95.0,Armata Pharmaceuticals
+SND,Smart Sand Inc,Energy,94.0,Smart Sand
+BCOV,Brightcove Inc,Technology,94.0,Brightcove
+MHH,Mastech Digital Inc,Industrials,93.0,Mastech Digital
+BRID,Bridgford Foods Corp.,Consumer Defensive,91.0,Bridgford Foods
+FVE,Five Star Senior Living Inc.,Healthcare,91.0,Five Star Senior Living
+FEIM,"Frequency Electronics, Inc.",Technology,90.0,Frequency Electronics
+KLXE,KLX Energy Services Holdings Inc,Energy,90.0,KLX Energy Services
+SCYX,Scynexis Inc,Healthcare,89.0,Scynexis
+RLH,Red Lion Hotels Corporation,Consumer Cyclical,89.0,Red Lion Hotels
+SRTS,Sensus Healthcare Inc,Healthcare,89.0,Sensus Healthcare
+PETS,"Petmed Express, Inc.",Healthcare,88.0,Petmed Express
+DIT,Amcon Distributing Company,Consumer Defensive,88.0,Amcon Distributing
+ISRL,Israel Acquisitions Corp,,88.0,Israel Acquisitions
+MAYS,J.W. Mays Inc.,Real Estate,88.0,JW Mays
+PROV,"Provident Financial Holdings, Inc.",Financial Services,88.0,Provident Financial
+GRTS,Gritstone Bio Inc,Healthcare,87.0,Gritstone Bio
+TTOO,T2 Biosystems Inc,Healthcare,86.0,T2 Biosystems
+NICK,"Nicholas Financial, Inc.",Financial Services,85.0,Nicholas Financial
+CONN,Conns Inc,Consumer Cyclical,85.0,Conns
+NDLS,Noodles & Company,Consumer Cyclical,84.0,Noodles & Company
+CMRX,Chimerix Inc,Healthcare,84.0,Chimerix
+AC,Associated Capital Group Inc,Financial Services,84.0,Associated Capital Group
+CRT,Cross Timbers Royalty Trust,Energy,83.0,Cross Timbers Royalty Trust
+ASMB,Assembly Biosciences Inc,Healthcare,83.0,Assembly Biosciences
+TUP,Tupperware Brands Corporation,Consumer Cyclical,83.0,Tupperware Brands
+PED,PEDEVCO Corp,Energy,83.0,PEDEVCO
+SIEB,Siebert Financial Corp.,Financial Services,83.0,Siebert Financial
+CNTY,Century Casinos Inc.,Consumer Cyclical,83.0,Century Casinos
+MRNS,Marinus Pharmaceuticals Inc,Healthcare,82.0,Marinus Pharmaceuticals
+ASYS,Amtech Systems Inc.,Technology,82.0,Amtech Systems
+GAIA,Gaia Inc,Communication Services,82.0,Gaia
+LEE,"Lee Enterprises, Inc.",Communication Services,81.0,Lee Enterprises
+NHTC,Natural Health Trends Corp.,Consumer Cyclical,81.0,Natural Health Trends
+LIVE,Live Ventures Inc,Consumer Cyclical,80.0,Live Ventures
+RVSB,"Riverview Bancorp, Inc.",Financial Services,80.0,Riverview Bancorp
+SLS,SELLAS Life Sciences Group Inc,Healthcare,80.0,SELLAS Life Sciences Group
+JCS,Pineapple Holdings Inc,Technology,80.0,Pineapple
+ANIX,Anixa Biosciences Inc,Healthcare,79.0,Anixa Biosciences
+WKHS,Workhorse Group Inc,Consumer Cyclical,79.0,Workhorse Group
+CUE,Cue Biopharma Inc,Healthcare,79.0,Cue Biopharma
+SPRO,Spero Therapeutics Inc,Healthcare,78.0,Spero Therapeutics
+BEAT,HeartBeam Inc,Healthcare,77.0,HeartBeam
+UONE,Urban One Inc,Communication Services,76.0,Urban One
+GLT,Glatfelter Corporation,Basic Materials,76.0,Glatfelter
+UPLD,Upland Software Inc,Technology,76.0,Upland Software
+SLNG,Stabilis Solutions Inc,Energy,76.0,Stabilis Solutions
+OPOF,Old Point Financial Corp.,Financial Services,76.0,Old Point Financial
+VOXX,VOXX International Corp,Consumer Cyclical,75.0,VOXX International
+ACRS,Aclaris Therapeutics Inc,Healthcare,75.0,Aclaris Therapeutics
+BGFV,Big 5 Sporting Goods Corp,Consumer Cyclical,74.0,Big 5 Sporting Goods
+CODA,Coda Octopus Group Inc.,Industrials,74.0,Coda Octopus Group
+ATRA,Atara Biotherapeutics Inc,Healthcare,74.0,Atara Biotherapeutics
+LSBK,Lake Shore Bancorp,Financial Services,73.0,Lake Shore Bancorp
+PPIH,Perma-Pipe International Holdings Inc,Industrials,73.0,Perma-Pipe International
+XPL,Solitario Resources Corp,Basic Materials,73.0,Solitario Resources
+MGYR,Magyar Bancorp Inc.,Financial Services,73.0,Magyar Bancorp
+FOSL,Fossil Group Inc,Consumer Cyclical,73.0,Fossil Group
+CMTL,Comtech Telecommunications Corp.,Technology,73.0,Comtech Telecommunications
+BGSF,BGSF Inc,Industrials,73.0,BGSF
+REFR,Research Frontiers Inc.,Technology,72.0,Research Frontiers
+STCN,Steel Connect Inc,Industrials,72.0,Steel Connect
+UBCP,"United Bancorp, Inc. (Martins Ferry, OH)",Financial Services,72.0,United Bancorp
+PFIE,Profire Energy Inc,Energy,72.0,Profire Energy
+NETE,Net Element Inc.,Technology,71.0,Net Element
+CTHR,Charles & Colvard Ltd,Consumer Cyclical,71.0,Charles & Colvard
+TBNK,Territorial Bancorp Inc,Financial Services,71.0,Territorial Bancorp
+AMTD,AMTD IDEA Group,Financial Services,71.0,AMTD IDEA Group
+ALJJ,Alj Regional Holdings Inc,Industrials,70.0,Alj Regional
+RAIL,FreightCar America Inc,Industrials,69.0,FreightCar America
+CVM,Cel-Sci Corp.,Healthcare,69.0,Cel-Sci
+AE,Adams Resources & Energy Inc.,Energy,68.0,Adams Resources & Energy
+GSIT,GSI Technology Inc,Technology,67.0,GSI Technology
+PDEX,Pro-Dex Inc. (co),Healthcare,67.0,Pro-Dex
+AVRO,AvroBio Inc,Healthcare,66.0,AvroBio
+IOR,"Income Opportunity Realty Investors, Inc.",Financial Services,66.0,Income Opportunity Realty Investors
+VBFC,Village Bank & Trust Financial Corporation,Financial Services,66.0,Village Bank & Trust Financial
+CMCT,Creative Media & Community Trust,Real Estate,66.0,Creative Media & Community Trust
+AUBN,Auburn National Bancorp Inc.,Financial Services,66.0,Auburn National Bancorp
+CRIS,Curis Inc,Healthcare,66.0,Curis
+PRTS,CarParts.com Inc,Consumer Cyclical,66.0,CarParts.com
+SCOR,Comscore Inc.,Communication Services,65.0,Comscore
+MNOV,Medicinova Inc,Healthcare,65.0,Medicinova
+DVD,Dover Motorsports Inc,Consumer Cyclical,65.0,Dover Motorsports
+RVI,Retail Value Inc,Real Estate,63.0,Retail Value
+SGRP,"Spar Group, Inc.",Industrials,63.0,Spar Group
+FARM,Farmer Bros. Co.,Consumer Defensive,63.0,Farmer Bros
+IDN,Intellicheck Inc,Technology,62.0,Intellicheck
+STIM,Neuronetics Inc,Healthcare,62.0,Neuronetics
+DWSN,Dawson Geophysical Company,Energy,62.0,Dawson Geophysical
+CHCI,Comstock Holding Co. Inc,Real Estate,61.0,Comstock
+HTBX,Heat Biologics Inc,Healthcare,61.0,Heat Biologics
+CLPR,Clipper Realty Inc,Real Estate,61.0,Clipper Realty
+ENZ,"Enzo Biochem, Inc.",Healthcare,60.0,Enzo Biochem
+LOAN,Manhattan Bridge Capital Inc,Real Estate,60.0,Manhattan Bridge Capital
+PBHC,"Pathfinder Bancorp, Inc.",Financial Services,60.0,Pathfinder Bancorp
+VTVT,vTv Therapeutics Inc,Healthcare,60.0,vTv Therapeutics
+APT,Alpha Pro Tech Ltd.,Industrials,60.0,Alpha Pro Tech
+IPWR,Ideal Power Inc,Industrials,59.0,Ideal Power
+NINE,Nine Energy Service Inc,Energy,59.0,Nine Energy Service
+ELVT,Elevate Credit Inc,Financial Services,59.0,Elevate Credit
+EMMS,Emmis Corp,Communication Services,58.0,Emmis
+PXLW,Pixelworks Inc,Technology,58.0,Pixelworks
+LPSN,Liveperson Inc,Technology,58.0,Liveperson
+PTI,Proteostasis Therapeutics Inc,Healthcare,58.0,Proteostasis Therapeutics
+ESP,Espey Manufacturing & Electronics Corp.,Industrials,58.0,Espey Manufacturing & Electronics
+FUSB,First US Bancshares Inc,Financial Services,57.0,First US Bancshares
+DYAI,"Dyadic International Inc., DE",Healthcare,57.0,Dyadic InternationalDE
+RDI,Reading International Inc,Communication Services,57.0,Reading International
+AIRG,Airgain Inc,Technology,57.0,Airgain
+MLSS,Milestone Scientific Inc.,Healthcare,56.0,Milestone Scientific
+VNRX,VolitionRX Ltd,Healthcare,56.0,VolitionRX
+MCHX,Marchex Inc,Communication Services,56.0,Marchex
+IROQ,IF Bancorp Inc,Financial Services,56.0,IF Bancorp
+UBOH,United Bancshares Inc. (OH),Financial Services,56.0,United Bancshares
+SELF,Global Self Storage Inc,Real Estate,56.0,Global Self Storage
+WMC,Western Asset Mortgage Capital Corp,Real Estate,56.0,Western Asset Mortgage Capital
+LUB,"Luby`s, Inc.",Consumer Cyclical,55.0,Luby's
+CULP,Culp Inc.,Consumer Cyclical,55.0,Culp
+FLNT,Fluent Inc,Communication Services,55.0,Fluent
+APYX,Apyx Medical Corp,Healthcare,55.0,Apyx Medical
+ARKR,Ark Restaurants Corp.,Consumer Cyclical,54.0,Ark Restaurants
+CRWS,"Crown Crafts, Inc.",Consumer Cyclical,54.0,Crown Crafts
+RMTI,Rockwell Medical Inc,Healthcare,54.0,Rockwell Medical
+CDTX,Cidara Therapeutics Inc,Healthcare,54.0,Cidara Therapeutics
+HHS,"Harte-Hanks, Inc.",Communication Services,54.0,Harte-Hanks
+KINS,Kingstone Cos. Inc,Financial Services,53.0,Kingstone
+AHT,Ashford Hospitality Trust Inc,Real Estate,53.0,Ashford Hospitality Trust
+BDL,"Flanigan`s Enterprises, Inc.",Consumer Cyclical,52.0,Flanigan's Enterprises
+KZR,Kezar Life Sciences Inc,Healthcare,52.0,Kezar Life Sciences
+ABIO,ARCA biopharma Inc,Healthcare,52.0,ARCA biopharma
+EGRX,Eagle Pharmaceuticals Inc,Healthcare,51.0,Eagle Pharmaceuticals
+LPTH,"Lightpath Technologies, Inc.",Technology,50.0,Lightpath Technologies
+DERM,Journey Medical Corp,,50.0,Journey Medical
+BOTJ,Bank of the James Financial Group Inc.,Financial Services,50.0,Bank of the James Financial Group
+LL,LL Flooring Holdings Inc,Consumer Cyclical,50.0,LL Flooring
+CASI,CASI Pharmaceuticals Inc,Healthcare,49.0,CASI Pharmaceuticals
+INTG,Intergroup Corp.,Consumer Cyclical,49.0,Intergroup
+BKTI,BK Technologies Corp,Technology,49.0,BK Technologies
+HZN,Horizon Global Corp,Consumer Cyclical,49.0,Horizon Global
+IZEA,IZEA Worldwide Inc,Communication Services,47.0,IZEA Worldwide
+ASPS,Altisource Portfolio Solutions S.A.,Financial Services,47.0,Altisource Portfolio Solutions SA
+CTSO,Cytosorbents Corp,Healthcare,47.0,Cytosorbents
+PRT,PermRock Royalty Trust,Energy,47.0,PermRock Royalty Trust
+GORO,Gold Resource Corp,Basic Materials,46.0,Gold Resource
+MESA,Mesa Air Group Inc.,Industrials,46.0,Mesa Air Group
+AQMS,Aqua Metals Inc,Industrials,46.0,Aqua Metals
+WTT,"Wireless Telecom Group, Inc.",Technology,45.0,Wireless Telecom Group
+NCSM,NCS Multistage Holdings Inc,Energy,45.0,NCS Multistage
+SSBI,Summit State Bank,Financial Services,45.0,Summit State Bank
+NEON,Neonode Inc.,Technology,45.0,Neonode
+HSON,Hudson Global Inc,Industrials,45.0,Hudson Global
+KTCC,Key Tronic Corp.,Technology,44.0,Key Tronic
+ASRV,Ameriserv Financial Inc,Financial Services,44.0,Ameriserv Financial
+DZSI,DZS Inc,Technology,44.0,DZS
+LTRPA,Liberty TripAdvisor Holdings Inc,Communication Services,43.0,Liberty TripAdvisor
+PRTY,Party City Holdco Inc,Consumer Cyclical,42.0,Party City Holdco
+RRTS,Roadrunner Transportation Systems Inc,Industrials,42.0,Roadrunner Transportation Systems
+MTNB,Matinas Biopharma Holdings Inc,Healthcare,42.0,Matinas Biopharma
+NTIP,Network-1 Technologies Inc,Technology,42.0,Network-1 Technologies
+UG,"United-Guardian, Inc.",Consumer Defensive,42.0,United-Guardian
+OPGN,Opgen Inc,Healthcare,42.0,Opgen
+INUV,Inuvo Inc,Communication Services,42.0,Inuvo
+USIO,Usio Inc,Technology,41.0,Usio
+PPSI,Pioneer Power Solutions Inc,Industrials,41.0,Pioneer Power Solutions
+DARE,Dare Bioscience Inc,Healthcare,41.0,Dare Bioscience
+AIRT,Air T Inc,Industrials,41.0,Air T
+ENOB,Enochian Biosciences Inc,Healthcare,41.0,Enochian Biosciences
+NAII,"Natural Alternatives International, Inc.",Consumer Defensive,41.0,Natural Alternatives International
+ICAD,Icad Inc,Healthcare,41.0,Icad
+CUTR,Cutera Inc,Healthcare,41.0,Cutera
+SDPI,Superior Drilling Products Inc,Energy,40.0,Superior Drilling Products
+IRIX,IRIDEX Corp.,Healthcare,40.0,IRIDEX
+TLF,Tandy Leather Factory Inc,Consumer Cyclical,40.0,Tandy Leather Factory
+LTBR,Lightbridge Corp,Industrials,40.0,Lightbridge
+AWRE,Aware Inc.,Technology,40.0,Aware
+JOB,GEE Group Inc,Industrials,39.0,GEE Group
+DRRX,Durect Corp,Healthcare,38.0,Durect
+CLIR,ClearSign Technologies Corp,Industrials,38.0,ClearSign Technologies
+RFL,Rafael Holdings Inc,Healthcare,37.0,Rafael
+ZDGE,Zedge Inc,Technology,37.0,Zedge
+RAD,Rite Aid Corp.,Healthcare,37.0,Rite Aid
+CARA,Cara Therapeutics Inc,Healthcare,37.0,Cara Therapeutics
+BCLI,"Brainstorm Cell Therapeutics, Inc.",Healthcare,36.0,Brainstorm Cell Therapeutics
+OCX,Oncocyte Corporation,Healthcare,36.0,Oncocyte
+CGIX,Cancer Genetics Inc.,Healthcare,36.0,Cancer Genetics
+UAMY,United States Antimony Corp.,Basic Materials,36.0,United States Antimony
+FTEK,Fuel Tech Inc,Industrials,36.0,Fuel Tech
+LODE,Comstock Inc,Real Estate,36.0,Comstock
+ISDR,Issuer Direct Corp,Technology,35.0,Issuer Direct
+LPCN,Lipocine Inc,Healthcare,35.0,Lipocine
+FBIO,Fortress Biotech Inc,Healthcare,35.0,Fortress Biotech
+HFBL,Home Federal Bancorp Inc (Louisiana),Financial Services,35.0,Home Federal Bancorp
+TISI,"Team, Inc.",Industrials,35.0,Team Inc
+MRKR,Marker Therapeutics Inc,Healthcare,35.0,Marker Therapeutics
+KOOL,Spinnaker ETF Series,,35.0,Spinnaker ETF Series
+VIA,Via Renewables Inc,,35.0,Via Renewables
+ISNS,"Image Sensing Systems, Inc.",Technology,34.0,Image Sensing Systems
+ICCC,Immucell Corp.,Healthcare,34.0,Immucell
+RFIL,RF Industries Ltd.,Industrials,34.0,RF Industries
+TCS,Container Store Group Inc,Consumer Cyclical,34.0,Container Store Group
+BNED,Barnes & Noble Education Inc,Consumer Cyclical,34.0,Barnes & Noble Education
+SYPR,"Sypris Solutions, Inc.",Consumer Cyclical,33.0,Sypris Solutions
+TACT,Transact Technologies Inc.,Technology,33.0,Transact Technologies
+AAME,Atlantic American Corp.,Financial Services,33.0,Atlantic American
+PZG,Paramount Gold Nevada Corp,Basic Materials,33.0,Paramount Gold Nevada
+AXDX,Accelerate Diagnostics Inc,Healthcare,32.0,Accelerate Diagnostics
+SYRS,Syros Pharmaceuticals Inc.,Healthcare,32.0,Syros Pharmaceuticals
+GROW,"U.S. Global Investors, Inc.",Financial Services,31.0,US Global Investors
+CEI,Camber Energy Inc,Energy,31.0,Camber Energy
+CVV,CVD Equipment Corp.,Industrials,31.0,CVD Equipment
+PTN,Palatin Technologies Inc.,Healthcare,31.0,Palatin Technologies
+OESX,Orion Energy Systems Inc,Industrials,31.0,Orion Energy Systems
+SVT,"Servotronics, Inc.",Industrials,30.0,Servotronics
+CVU,CPI Aerostructures Inc,Industrials,30.0,CPI Aerostructures
+AVYA,Avaya Holdings Corp.,Technology,30.0,Avaya
+LCI,"Lannett Co., Inc.",Healthcare,30.0,Lannett
+BYFC,Broadway Financial Corp.,Financial Services,29.0,Broadway Financial
+GTIM,Good Times Restaurants Inc.,Consumer Cyclical,29.0,Good Times Restaurants
+NTWK,"Netsol Technologies, Inc.",Technology,29.0,Netsol Technologies
+KIRK,Kirkland`s Inc,Consumer Cyclical,29.0,Kirkland's
+AP,Ampco-Pittsburgh Corp.,Industrials,28.0,Ampco-Pittsburgh
+RVP,Retractable Technologies Inc,Healthcare,28.0,Retractable Technologies
+USEG,U.S. Energy Corp.,Energy,28.0,US Energy
+CKX,CKX Lands Inc,Energy,28.0,CKX Lands
+BRN,Barnwell Industries Inc.,Energy,28.0,Barnwell Industries
+RAVE,Rave Restaurant Group Inc,Consumer Cyclical,28.0,Rave Restaurant Group
+ONCT,Oncternal Therapeutics Inc,Healthcare,28.0,Oncternal Therapeutics
+AGE,AgeX Therapeutics Inc,Healthcare,28.0,AgeX Therapeutics
+LGL,LGL Group Inc,Technology,27.0,LGL Group
+WWR,Westwater Resources Inc,Basic Materials,27.0,Westwater Resources
+KFFB,Kentucky First Federal Bancorp,Financial Services,27.0,Kentucky First Federal Bancorp
+SOHO,Sotherly Hotels Inc,Real Estate,27.0,Sotherly Hotels
+TRT,Trio-Tech International,Technology,27.0,Trio-Tech International
+WHLM,Wilhelmina International Inc,Industrials,27.0,Wilhelmina International
+DAIO,Data io Corp.,Technology,27.0,Data io
+SGMA,Sigmatron International Inc.,Technology,26.0,Sigmatron International
+NNVC,NanoViricides Inc,Healthcare,26.0,NanoViricides
+BSGM,Biosig Technologies Inc,Healthcare,26.0,Biosig Technologies
+CPSH,CPS Technologies Corporation,Technology,25.0,CPS Technologies
+TXMD,TherapeuticsMD Inc,Healthcare,25.0,TherapeuticsMD
+IVC,Invacare Corp.,Healthcare,25.0,Invacare
+TWOU,2U Inc,Consumer Defensive,25.0,2U
+EYEG,AB Active ETFs Inc,Healthcare,25.0,AB Active ETFs
+WYY,Widepoint Corp,Technology,24.0,Widepoint
+SEEL,Seelos Therapeutics Inc,Healthcare,24.0,Seelos Therapeutics
+ACHN,Achison Inc,,24.0,Achison
+VNCE,Vince Holding Corp,Consumer Cyclical,23.0,Vince
+STRM,"Streamline Health Solutions, Inc",Healthcare,23.0,Streamline Health Solutions
+EKSO,Ekso Bionics Holdings Inc,Healthcare,22.0,Ekso Bionics
+OCC,Optical Cable Corp.,Technology,22.0,Optical Cable
+SMSI,"Smith Micro Software, Inc.",Technology,22.0,Smith Micro Software
+ICD,Independence Contract Drilling Inc,Energy,22.0,Independence Contract Drilling
+NXTD,Nxt-ID Inc,Industrials,22.0,Nxt-ID
+CPIX,Cumberland Pharmaceuticals Inc.,Healthcare,21.0,Cumberland Pharmaceuticals
+AMS,American Shared Hospital Services,Healthcare,21.0,American Shared Hospital Services
+ONTX,Onconova Therapeutics Inc,Healthcare,21.0,Onconova Therapeutics
+WVVI,Willamette Valley Vineyard Inc.,Consumer Defensive,21.0,Willamette Valley Vineyard
+AKTS,Akoustis Technologies Inc,Technology,21.0,Akoustis Technologies
+IBIO,iBio Inc,Healthcare,21.0,iBio
+MEIP,MEI Pharma Inc,Healthcare,20.0,MEI Pharma
+HPR,HighPoint Resources Corp,Energy,20.0,HighPoint Resources
+SIF,SIFCO Industries Inc.,Industrials,20.0,SIFCO Industries

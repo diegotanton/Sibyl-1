@@ -1,0 +1,502 @@
+Ticker,Name,Sector,Cap,NameCln
+LIN,Linde Plc.,Basic Materials,206652.0,Linde
+GE,GE Aerospace,Industrials,184507.0,GE Aerospace
+CAT,Caterpillar Inc.,Industrials,169442.0,Caterpillar
+UNP,Union Pacific Corp.,Industrials,139724.0,Union Pacific
+ETN,Eaton Corporation plc,Industrials,134877.0,Eaton
+HON,Honeywell International Inc,Industrials,129703.0,Honeywell International
+UPS,"United Parcel Service, Inc.",Industrials,118995.0,United Parcel Service
+LMT,Lockheed Martin Corp.,Industrials,110007.0,Lockheed Martin
+BA,Boeing Co.,Industrials,107479.0,Boeing
+DE,Deere & Co.,Industrials,102789.0,Deere
+ADP,Automatic Data Processing Inc.,Industrials,99581.0,Automatic Data Processing
+WM,"Waste Management, Inc.",Industrials,82808.0,Waste Management
+GD,General Dynamics Corp.,Industrials,81579.0,General Dynamics
+FCX,Freeport-McMoRan Inc,Basic Materials,76927.0,Freeport-McMoRan
+SHW,Sherwin-Williams Co.,Basic Materials,76503.0,Sherwin-Williams
+TDG,Transdigm Group Incorporated,Industrials,73750.0,Transdigm Group
+ITW,"Illinois Tool Works, Inc.",Industrials,70843.0,Illinois Tool Works
+CTAS,Cintas Corporation,Industrials,68014.0,Cintas
+PH,Parker-Hannifin Corp.,Industrials,67682.0,Parker-Hannifin
+NOC,Northrop Grumman Corp.,Industrials,67409.0,Northrop Grumman
+CSX,CSX Corp.,Industrials,65451.0,CSX
+ECL,"Ecolab, Inc.",Basic Materials,65367.0,Ecolab
+EMR,Emerson Electric Co.,Industrials,64104.0,Emerson Electric
+FDX,Fedex Corp,Industrials,61038.0,Fedex
+APD,Air Products & Chemicals Inc.,Basic Materials,58829.0,Air Products & Chemicals
+RSG,"Republic Services, Inc.",Industrials,57793.0,Republic Services
+ROP,Roper Technologies Inc,Industrials,57057.0,Roper Technologies
+PCAR,Paccar Inc.,Industrials,56582.0,Paccar
+MMM,3M Co.,Industrials,54606.0,3M
+CPRT,"Copart, Inc.",Industrials,50742.0,Copart
+NSC,Norfolk Southern Corp.,Industrials,50336.0,Norfolk Southern
+JCI,Johnson Controls International plc,Industrials,48963.0,Johnson Controls International
+NEM,Newmont Corp,Basic Materials,48893.0,Newmont
+GWW,W.W. Grainger Inc.,Industrials,46081.0,WW Grainger
+INFO,IHS Markit Ltd,Industrials,45801.0,IHS Markit
+URI,"United Rentals, Inc.",Industrials,44266.0,United Rentals
+PAYX,Paychex Inc.,Industrials,43293.0,Paychex
+LHX,L3Harris Technologies Inc,Industrials,41515.0,L3Harris Technologies
+PWR,"Quanta Services, Inc.",Industrials,40936.0,Quanta Services
+DOW,Dow Inc,Basic Materials,40814.0,Dow Inc
+NUE,Nucor Corp.,Basic Materials,40373.0,Nucor
+AME,Ametek Inc,Industrials,38959.0,Ametek
+CTVA,Corteva Inc,Basic Materials,38794.0,Corteva
+CMI,Cummins Inc.,Industrials,38060.0,Cummins
+IR,Ingersoll-Rand Inc,Industrials,37705.0,Ingersoll-Rand
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,37658.0,Old Dominion Freight Line
+FAST,Fastenal Co.,Industrials,37078.0,Fastenal
+VRSK,Verisk Analytics Inc,Industrials,35508.0,Verisk Analytics
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,35155.0,Martin Marietta Materials
+DD,DuPont de Nemours Inc,Basic Materials,34322.0,DuPont de Nemours
+XYL,Xylem Inc,Industrials,34030.0,Xylem
+VMC,Vulcan Materials Co,Basic Materials,33589.0,Vulcan Materials
+DAL,"Delta Air Lines, Inc.",Industrials,32446.0,Delta Air Lines
+LYB,LyondellBasell Industries NV,Basic Materials,32142.0,LyondellBasell Industries NV
+PPG,"PPG Industries, Inc.",Basic Materials,30391.0,PPG Industries
+WAB,Westinghouse Air Brake Technologies Corp,Industrials,29760.0,Westinghouse Air Brake Technologies
+ROK,Rockwell Automation Inc,Industrials,29481.0,Rockwell Automation
+EFX,"Equifax, Inc.",Industrials,29235.0,Equifax
+KSU,Kansas City Southern,Industrials,26711.0,Kansas City Southern
+GPN,"Global Payments, Inc.",Industrials,25900.0,Global Payments
+HEI,Heico Corp.,Industrials,25880.0,Heico
+DOV,Dover Corp.,Industrials,25216.0,Dover
+IFF,International Flavors & Fragrances Inc.,Basic Materials,24291.0,International Flavors & Fragrances
+WSO,Watsco Inc.,Industrials,21920.0,Watsco
+HUBB,Hubbell Inc.,Industrials,21349.0,Hubbell
+STLD,Steel Dynamics Inc.,Basic Materials,21100.0,Steel Dynamics
+WLK,Westlake Corporation,Basic Materials,20437.0,Westlake
+CSL,Carlisle Companies Inc.,Industrials,20060.0,Carlisle
+BAH,Booz Allen Hamilton Holding Corp,Industrials,19993.0,Booz Allen Hamilton
+BLDR,Builders Firstsource Inc,Industrials,19857.0,Builders Firstsource
+RS,Reliance Inc.,Basic Materials,19263.0,Reliance
+EME,"Emcor Group, Inc.",Industrials,18501.0,Emcor Group
+AVY,Avery Dennison Corp.,Industrials,18116.0,Avery Dennison
+LII,Lennox International Inc,Industrials,17917.0,Lennox International
+EXPD,"Expeditors International Of Washington, Inc.",Industrials,16822.0,Expeditors International Of Washington
+TXT,Textron Inc.,Industrials,16680.0,Textron
+UAL,United Airlines Holdings Inc,Industrials,16651.0,United Airlines
+CE,Celanese Corp,Basic Materials,16521.0,Celanese
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,16345.0,JB Hunt Transport Services
+AVTR,Avantor Inc.,Basic Materials,16105.0,Avantor
+IEX,Idex Corporation,Industrials,15990.0,Idex
+LUV,Southwest Airlines Co,Industrials,15871.0,Southwest Airlines
+OC,Owens Corning,Industrials,15412.0,Owens Corning
+ALB,Albemarle Corp.,Basic Materials,15015.0,Albemarle
+MAS,Masco Corp.,Industrials,14862.0,Masco
+TRU,TransUnion,Industrials,14569.0,TransUnion
+CF,CF Industries Holdings Inc,Basic Materials,14387.0,CF Industries
+SNA,"Snap-on, Inc.",Industrials,14203.0,Snap-on
+RPM,"RPM International, Inc.",Basic Materials,14155.0,RPM International
+NVT,nVent Electric plc,Industrials,13826.0,nVent Electric
+GGG,Graco Inc.,Industrials,13453.0,Graco
+NDSN,Nordson Corp.,Industrials,13377.0,Nordson
+WMS,Advanced Drainage Systems Inc,Industrials,13350.0,Advanced Drainage Systems
+PNR,Pentair plc,Industrials,13108.0,Pentair
+SWK,Stanley Black & Decker Inc,Industrials,13067.0,Stanley Black & Decker
+BLD,TopBuild Corp,Industrials,12824.0,TopBuild
+XPO,XPO Inc,Industrials,12711.0,XPO
+AOS,A.O. Smith Corp.,Industrials,12610.0,AO Smith
+UHAL,U-Haul Holding Company,Industrials,12121.0,U-Haul
+FIX,"Comfort Systems USA, Inc.",Industrials,12104.0,Comfort Systems USA
+EMN,Eastman Chemical Co,Basic Materials,11851.0,Eastman Chemical
+ACM,AECOM,Industrials,11771.0,AECOM
+CLH,"Clean Harbors, Inc.",Industrials,11574.0,Clean Harbors
+TTEK,"Tetra Tech, Inc.",Industrials,11422.0,Tetra Tech
+PSN,Parsons Corp,Industrials,11354.0,Parsons
+LECO,"Lincoln Electric Holdings, Inc.",Industrials,11346.0,Lincoln Electric
+WWD,Woodward Inc,Industrials,11282.0,Woodward
+ITT,ITT Inc,Industrials,10970.0,ITT
+CW,Curtiss-Wright Corp.,Industrials,10634.0,Curtiss-Wright
+SAIA,Saia Inc.,Industrials,10537.0,Saia
+ALLE,Allegion plc,Industrials,10530.0,Allegion
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,10074.0,CH Robinson Worldwide
+NLSN,Nielsen Holdings plc,Industrials,10068.0,Nielsen
+MOS,Mosaic Company,Basic Materials,10005.0,Mosaic
+HII,Huntington Ingalls Industries Inc,Industrials,9967.0,Huntington Ingalls Industries
+WCC,"Wesco International, Inc.",Industrials,9430.0,Wesco International
+TREX,"TREX Co., Inc.",Industrials,9425.0,TREX
+GNRC,Generac Holdings Inc,Industrials,9169.0,Generac
+KBR,KBR Inc,Industrials,8831.0,KBR
+AAL,American Airlines Group Inc,Industrials,8818.0,American Airlines Group
+DCI,Donaldson Co. Inc.,Industrials,8769.0,Donaldson
+MTZ,Mastec Inc.,Industrials,8762.0,Mastec
+RGLD,"Royal Gold, Inc.",Basic Materials,8591.0,Royal Gold
+RBC,RBC Bearings Inc.,Industrials,8327.0,RBC Bearings
+CR,Crane Co,Industrials,8304.0,Crane
+TTC,Toro Co.,Industrials,8289.0,Toro
+X,United States Steel Corp.,Basic Materials,8279.0,United States Steel
+CLF,Cleveland-Cliffs Inc,Basic Materials,8055.0,Cleveland-Cliffs
+BWXT,BWX Technologies Inc,Industrials,8038.0,BWX Technologies
+AGCO,AGCO Corp.,Industrials,7922.0,AGCO
+EXP,Eagle Materials Inc.,Basic Materials,7876.0,Eagle Materials
+FMC,FMC Corp.,Basic Materials,7850.0,FMC
+AYI,"Acuity Brands, Inc.",Industrials,7804.0,Acuity Brands
+AA,Alcoa Corp,Basic Materials,7757.0,Alcoa
+FCN,FTI Consulting Inc.,Industrials,7718.0,FTI Consulting
+KNX,Knight-Swift Transportation Holdings Inc,Industrials,7699.0,Knight-Swift Transportation
+AXTA,Axalta Coating Systems Ltd,Basic Materials,7687.0,Axalta Coating Systems
+ATI,ATI Inc,Industrials,7631.0,ATI
+AIT,Applied Industrial Technologies Inc.,Industrials,7561.0,Applied Industrial Technologies
+WSC,WillScot Mobile Mini Holdings Corp,Industrials,7409.0,WillScot Mobile Mini
+OSK,Oshkosh Corp,Industrials,7349.0,Oshkosh
+UFPI,UFP Industries Inc,Basic Materials,7232.0,UFP Industries
+FLR,Fluor Corporation,Industrials,7226.0,Fluor
+MSA,MSA Safety Inc,Industrials,7165.0,MSA Safety
+SSD,"Simpson Manufacturing Co., Inc.",Industrials,7120.0,Simpson Manufacturing
+KEX,Kirby Corp.,Industrials,7107.0,Kirby
+RHI,Robert Half Inc,Industrials,6875.0,Robert Half
+SITE,SiteOne Landscape Supply Inc,Industrials,6867.0,SiteOne Landscape Supply
+SUM,Summit Materials Inc,Basic Materials,6809.0,Summit Materials
+GTLS,Chart Industries Inc,Industrials,6642.0,Chart Industries
+MIDD,Middleby Corp.,Industrials,6618.0,Middleby
+SPXC,SPX Technologies Inc,Industrials,6564.0,SPX Technologies
+FLS,Flowserve Corp.,Industrials,6476.0,Flowserve
+MLI,"Mueller Industries, Inc.",Industrials,6456.0,Mueller Industries
+LPX,Louisiana-Pacific Corp.,Industrials,6427.0,Louisiana-Pacific
+OLN,Olin Corp.,Basic Materials,6419.0,Olin
+CMC,Commercial Metals Co.,Basic Materials,6411.0,Commercial Metals
+AAON,AAON Inc.,Industrials,6386.0,AAON
+LSTR,"Landstar System, Inc.",Industrials,6372.0,Landstar System
+BECN,Beacon Roofing Supply Inc,Industrials,6138.0,Beacon Roofing Supply
+ADT,ADT Inc,Industrials,6109.0,ADT
+AQUA,Evoqua Water Technologies Corp,Industrials,6104.0,Evoqua Water Technologies
+TKR,Timken Co.,Industrials,6030.0,Timken
+IBP,Installed Building Products Inc,Industrials,5952.0,Installed Building Products
+ESI,Element Solutions Inc,Basic Materials,5826.0,Element Solutions
+HXL,Hexcel Corp.,Industrials,5796.0,Hexcel
+BMI,Badger Meter Inc.,Industrials,5762.0,Badger Meter
+BCPC,Balchem Corp.,Basic Materials,5714.0,Balchem
+UNVR,Univar Solutions Inc,Basic Materials,5701.0,Univar Solutions
+CWST,"Casella Waste Systems, Inc.",Industrials,5679.0,Casella Waste Systems
+AVAV,AeroVironment Inc.,Industrials,5593.0,AeroVironment
+CRS,Carpenter Technology Corp.,Industrials,5574.0,Carpenter Technology
+CBT,Cabot Corp.,Basic Materials,5574.0,Cabot
+WTS,"Watts Water Technologies, Inc.",Industrials,5568.0,Watts Water Technologies
+IAA,IAA Inc,Industrials,5514.0,IAA
+ATKR,Atkore Inc,Industrials,5493.0,Atkore
+TNET,TriNet Group Inc,Industrials,5408.0,TriNet Group
+BCC,Boise Cascade Co,Basic Materials,5370.0,Boise Cascade
+AL,Air Lease Corp,Industrials,5330.0,Air Lease
+ALK,Alaska Air Group Inc.,Industrials,5296.0,Alaska Air Group
+R,"Ryder System, Inc.",Industrials,5288.0,Ryder System
+FSS,Federal Signal Corp.,Industrials,5268.0,Federal Signal
+DY,"Dycom Industries, Inc.",Industrials,5177.0,Dycom Industries
+MMS,Maximus Inc.,Industrials,5146.0,Maximus
+MDU,MDU Resources Group Inc,Basic Materials,5144.0,MDU Resources Group
+NEU,NewMarket Corp.,Basic Materials,5141.0,NewMarket
+VMI,"Valmont Industries, Inc.",Industrials,5076.0,Valmont Industries
+AWI,Armstrong World Industries Inc.,Industrials,5058.0,Armstrong World Industries
+ASH,Ashland Inc,Basic Materials,5018.0,Ashland
+MSM,"MSC Industrial Direct Co., Inc.",Industrials,4853.0,MSC Industrial Direct
+GATX,GATX Corp.,Industrials,4810.0,GATX
+EXPO,Exponent Inc.,Industrials,4802.0,Exponent
+AJRD,Aerojet Rocketdyne Holdings Inc,Industrials,4683.0,Aerojet Rocketdyne
+GRA,W.R. Grace & Co.,Basic Materials,4638.0,WR Grace
+SRCL,Stericycle Inc.,Industrials,4589.0,Stericycle
+GTES,Gates Industrial Corporation plc,Industrials,4574.0,Gates Industrial
+BCO,Brink`s Co.,Industrials,4556.0,Brink's
+FELE,"Franklin Electric Co., Inc.",Industrials,4517.0,Franklin Electric
+VRRM,Verra Mobility Corp,Industrials,4461.0,Verra Mobility
+NAV,Navistar International Corp.,Industrials,4439.0,Navistar International
+WIRE,Encore Wire Corp.,Industrials,4390.0,Encore Wire
+TRTN,Triton International Ltd,Industrials,4380.0,Triton International
+ENS,Enersys,Industrials,4313.0,Enersys
+MATX,Matson Inc,Industrials,4306.0,Matson
+HUN,Huntsman Corp,Basic Materials,4295.0,Huntsman
+ASGN,ASGN Inc,Industrials,4292.0,ASGN
+FUL,H.B. Fuller Company,Basic Materials,4271.0,HB Fuller
+ACA,Arcosa Inc,Industrials,4237.0,Arcosa
+TEX,Terex Corp.,Industrials,4027.0,Terex
+AEIS,Advanced Energy Industries Inc.,Industrials,4025.0,Advanced Energy Industries
+CSWI,CSW Industrials Inc,Industrials,4019.0,CSW Industrials
+HRI,Herc Holdings Inc,Industrials,3999.0,Herc
+CC,Chemours Company,Basic Materials,3968.0,Chemours
+CAR,Avis Budget Group Inc,Industrials,3965.0,Avis Budget Group
+BDC,Belden Inc,Industrials,3937.0,Belden
+CBZ,Cbiz Inc,Industrials,3858.0,Cbiz
+STRL,Sterling Infrastructure Inc,Industrials,3761.0,Sterling Infrastructure
+GMS,GMS Inc,Industrials,3724.0,GMS
+HL,Hecla Mining Co.,Basic Materials,3714.0,Hecla Mining
+BE,Bloom Energy Corp,Industrials,3703.0,Bloom Energy
+NSP,Insperity Inc,Industrials,3677.0,Insperity
+SMG,Scotts Miracle-Gro Company,Basic Materials,3674.0,Scotts Miracle-Gro
+SPR,Spirit Aerosystems Holdings Inc,Industrials,3560.0,Spirit Aerosystems
+MAN,ManpowerGroup,Industrials,3546.0,ManpowerGroup
+KFY,Korn Ferry,Industrials,3499.0,Korn Ferry
+HCC,Warrior Met Coal Inc,Basic Materials,3470.0,Warrior Met Coal
+WBT,Welbilt Inc,Industrials,3438.0,Welbilt
+GFF,Griffon Corp.,Industrials,3303.0,Griffon
+KTOS,Kratos Defense & Security Solutions Inc,Industrials,3272.0,Kratos Defense & Security Solutions
+KWR,Quaker Houghton,Basic Materials,3266.0,Quaker Houghton
+IOSP,Innospec Inc,Basic Materials,3203.0,Innospec
+SEB,Seaboard Corp.,Industrials,3188.0,Seaboard
+SXT,Sensient Technologies Corp.,Basic Materials,3173.0,Sensient Technologies
+KAI,"Kadant, Inc.",Industrials,3171.0,Kadant
+INSW,International Seaways Inc,Industrials,3169.0,International Seaways
+IESC,IES Holdings Inc,Industrials,3161.0,IES
+CNR,Cornerstone Building Brands Inc,Industrials,3141.0,Cornerstone Building Brands
+REZI,Resideo Technologies Inc,Industrials,3136.0,Resideo Technologies
+TROX,Tronox Holdings plc,Basic Materials,3120.0,Tronox
+WDFC,WD-40 Co.,Basic Materials,3106.0,WD-40
+HI,Hillenbrand Inc,Industrials,3092.0,Hillenbrand
+NPO,Enpro Inc,Industrials,3076.0,Enpro
+ARNC,Arconic Corporation,Industrials,3009.0,Arconic
+BRC,Brady Corp.,Industrials,3001.0,Brady
+JBT,John Bean Technologies Corp,Industrials,2975.0,John Bean Technologies
+LTHM,Livent Corp,Basic Materials,2967.0,Livent
+MLHR,Herman Miller Inc.,Industrials,2958.0,Herman Miller
+ABM,ABM Industries Inc.,Industrials,2946.0,ABM Industries
+PRIM,Primoris Services Corp,Industrials,2942.0,Primoris Services
+DOOR,Masonite International Corp,Industrials,2920.0,Masonite International
+SKYW,Skywest Inc.,Industrials,2909.0,Skywest
+WOR,Worthington Enterprises Inc.,Basic Materials,2863.0,Worthington Enterprises
+MWA,Mueller Water Products Inc,Industrials,2862.0,Mueller Water Products
+UFS,Domtar Corporation,Basic Materials,2796.0,Domtar
+GVA,Granite Construction Inc.,Industrials,2749.0,Granite Construction
+MTX,"Minerals Technologies, Inc.",Basic Materials,2721.0,Minerals Technologies
+MGRC,McGrath Rentcorp,Industrials,2706.0,McGrath Rentcorp
+CVA,Covanta Holding Corporation,Industrials,2695.0,Covanta
+ROAD,Construction Partners Inc,Industrials,2664.0,Construction Partners
+HUBG,"Hub Group, Inc.",Industrials,2644.0,Hub Group
+ICFI,"ICF International, Inc",Industrials,2638.0,ICF International
+MYRG,MYR Group Inc,Industrials,2631.0,MYR Group
+AZZ,AZZ Inc,Industrials,2531.0,AZZ
+PATK,"Patrick Industries, Inc.",Industrials,2528.0,Patrick Industries
+TGLS,Tecnoglass Inc,Industrials,2527.0,Tecnoglass
+TRN,"Trinity Industries, Inc.",Industrials,2517.0,Trinity Industries
+AIR,AAR Corp.,Industrials,2508.0,AAR
+POWL,"Powell Industries, Inc.",Industrials,2471.0,Powell Industries
+UNF,Unifirst Corp.,Industrials,2445.0,Unifirst
+ARCB,ArcBest Corp,Industrials,2432.0,ArcBest
+PLUG,Plug Power Inc,Industrials,2413.0,Plug Power
+PGTI,PGT Innovations Inc,Industrials,2404.0,PGT Innovations
+CUB,Cubic Corp.,Industrials,2383.0,Cubic
+GCP,GCP Applied Technologies Inc,Basic Materials,2369.0,GCP Applied Technologies
+MTRN,Materion Corp,Basic Materials,2364.0,Materion
+WERN,"Werner Enterprises, Inc.",Industrials,2346.0,Werner Enterprises
+VRTV,Veritiv Corp,Industrials,2306.0,Veritiv
+ALG,Alamo Group Inc.,Industrials,2306.0,Alamo Group
+CDE,Coeur Mining Inc,Basic Materials,2244.0,Coeur Mining
+ASPN,Aspen Aerogels Inc.,Industrials,2223.0,Aspen Aerogels
+ROCK,Gibraltar Industries Inc.,Industrials,2221.0,Gibraltar Industries
+HNI,HNI Corp.,Industrials,2128.0,HNI
+SNDR,Schneider National Inc,Industrials,2037.0,Schneider National
+ENR,Energizer Holdings Inc,Industrials,2026.0,Energizer
+B,Barnes Group Inc.,Industrials,2015.0,Barnes Group
+USLM,United States Lime & Minerals Inc.,Basic Materials,1963.0,United States Lime & Minerals
+KMT,Kennametal Inc.,Industrials,1958.0,Kennametal
+SXI,Standex International Corp.,Industrials,1940.0,Standex International
+TNC,Tennant Co.,Industrials,1927.0,Tennant
+SCL,Stepan Co.,Basic Materials,1925.0,Stepan
+NSSC,NAPCO Security Technologies Inc,Industrials,1906.0,NAPCO Security Technologies
+MRCY,Mercury Systems Inc,Industrials,1855.0,Mercury Systems
+FOE,Ferro Corp.,Basic Materials,1843.0,Ferro
+HWKN,Hawkins Inc,Basic Materials,1834.0,Hawkins
+JBLU,Jetblue Airways Corp,Industrials,1827.0,Jetblue Airways
+NGVT,Ingevity Corp,Basic Materials,1739.0,Ingevity
+CENX,Century Aluminum Co.,Basic Materials,1737.0,Century Aluminum
+HEES,H&E Equipment Services Inc,Industrials,1735.0,H&E Equipment Services
+RFP,Resolute Forest Products Inc,Basic Materials,1700.0,Resolute Forest Products
+GBX,"Greenbrier Cos., Inc.",Industrials,1638.0,Greenbrier
+KRO,"Kronos Worldwide, Inc.",Basic Materials,1630.0,Kronos Worldwide
+HLIO,Helios Technologies Inc,Industrials,1619.0,Helios Technologies
+HURN,Huron Consulting Group Inc,Industrials,1586.0,Huron Consulting Group
+KALU,Kaiser Aluminum Corp,Basic Materials,1574.0,Kaiser Aluminum
+NVEE,NV5 Global Inc,Industrials,1530.0,NV5 Global
+KRA,Kraton Corp,Basic Materials,1498.0,Kraton
+APOG,Apogee Enterprises Inc.,Industrials,1453.0,Apogee Enterprises
+UPWK,Upwork Inc,Industrials,1438.0,Upwork
+MRTN,"Marten Transport, Ltd.",Industrials,1433.0,Marten Transport
+HTZ,Hertz Global Holdings Inc.,Industrials,1425.0,Hertz Global
+REVG,REV Group Inc,Industrials,1334.0,REV Group
+BV,BrightView Holdings Inc,Industrials,1332.0,BrightView
+ARLO,Arlo Technologies Inc,Industrials,1331.0,Arlo Technologies
+KAMN,Kaman Corp.,Industrials,1303.0,Kaman
+JELD,JELD-WEN Holding Inc.,Industrials,1291.0,JELD-WEN
+CMCO,Columbus Mckinnon Corp.,Industrials,1261.0,Columbus Mckinnon
+SCS,"Steelcase, Inc.",Industrials,1244.0,Steelcase
+LNN,Lindsay Corporation,Industrials,1242.0,Lindsay
+VSEC,VSE Corp.,Industrials,1238.0,VSE
+KNL,Knoll Inc,Industrials,1227.0,Knoll
+CCF,Chase Corp.,Basic Materials,1214.0,Chase
+ULH,Universal Logistics Holdings Inc,Industrials,1203.0,Universal Logistics
+KFRC,Kforce Inc.,Industrials,1199.0,Kforce
+AMRC,Ameresco Inc.,Industrials,1191.0,Ameresco
+TRNS,Transcat Inc,Industrials,1181.0,Transcat
+CRAI,CRA International Inc.,Industrials,1179.0,CRA International
+THR,Thermon Group Holdings Inc,Industrials,1176.0,Thermon Group
+GPRE,Green Plains Inc,Basic Materials,1166.0,Green Plains
+CIR,Circor International Inc,Industrials,1142.0,Circor International
+TPC,Tutor Perini Corp,Industrials,1124.0,Tutor Perini
+LDL,"Lydall, Inc.",Industrials,1120.0,Lydall
+TRS,Trimas Corporation,Industrials,1088.0,Trimas
+TGI,Triumph Group Inc.,Industrials,1077.0,Triumph Group
+HY,Hyster-Yale Materials Handling Inc,Industrials,1062.0,Hyster-Yale Materials Handling
+NX,Quanex Building Products Corp,Industrials,1055.0,Quanex Building Products
+WNC,Wabash National Corp.,Industrials,994.0,Wabash National
+CAI,Cai International Inc,Industrials,972.0,Cai International
+GNK,Genco Shipping & Trading Limited,Industrials,935.0,Genco Shipping & Trading Limited
+AGX,"Argan, Inc.",Industrials,917.0,Argan
+PBI,"Pitney Bowes, Inc.",Industrials,902.0,Pitney Bowes
+HTLD,"Heartland Express, Inc.",Industrials,900.0,Heartland Express
+BXC,Bluelinx Hldgs Inc,Industrials,895.0,Bluelinx Hldgs
+ALGT,Allegiant Travel,Industrials,893.0,Allegiant Travel
+KOP,Koppers Holdings Inc,Basic Materials,889.0,Koppers
+SXC,SunCoke Energy Inc,Basic Materials,884.0,SunCoke Energy
+ATSG,Air Transport Services Group Inc,Industrials,881.0,Air Transport Services Group
+GRC,Gorman-Rupp Co.,Industrials,875.0,Gorman-Rupp
+MATW,Matthews International Corp.,Industrials,868.0,Matthews International
+CLW,Clearwater Paper Corp,Basic Materials,867.0,Clearwater Paper
+DCO,Ducommun Inc.,Industrials,848.0,Ducommun
+RYI,Ryerson Holding Corp.,Industrials,845.0,Ryerson
+FBM,Foundation Building Materials Inc,Industrials,831.0,Foundation Building Materials
+BBSI,Barrett Business Services Inc.,Industrials,824.0,Barrett Business Services
+ERII,Energy Recovery Inc,Industrials,791.0,Energy Recovery
+DXPE,"DXP Enterprises, Inc.",Industrials,791.0,DXP Enterprises
+RRD,R.R. Donnelley & Sons Co.,Industrials,790.0,RR Donnelley & Sons
+VRS,Verso Corp,Basic Materials,787.0,Verso
+PRLB,Proto Labs Inc,Industrials,783.0,Proto Labs
+KELYA,"Kelly Services, Inc.",Industrials,778.0,Kelly Services
+HAYN,Haynes International Inc.,Industrials,753.0,Haynes International
+RGR,"Sturm, Ruger & Co., Inc.",Industrials,749.0,Sturm Ruger
+ASTE,Astec Industries Inc.,Industrials,745.0,Astec Industries
+VVI,Viad Corp.,Industrials,710.0,Viad
+HA,"Hawaiian Holdings, Inc.",Industrials,709.0,Hawaiian
+HSII,"Heidrick & Struggles International, Inc.",Industrials,708.0,Heidrick & Struggles International
+EGLE,Eagle Bulk Shipping Inc,Industrials,693.0,Eagle Bulk Shipping
+LXU,"LSB Industries, Inc.",Basic Materials,692.0,LSB Industries
+MERC,Mercer International Inc.,Basic Materials,660.0,Mercer International
+PLPC,Preformed Line Products Co.,Industrials,650.0,Preformed Line Products
+ATRO,Astronics Corp.,Industrials,619.0,Astronics
+GLDD,Great Lakes Dredge & Dock Corporation,Industrials,618.0,Great Lakes Dredge & Dock
+IIIN,"Insteel Industries, Inc.",Industrials,617.0,Insteel Industries
+ASIX,AdvanSix Inc,Basic Materials,610.0,AdvanSix
+TWI,"Titan International, Inc.",Industrials,602.0,Titan International
+MUX,McEwen Mining Inc,Basic Materials,599.0,McEwen Mining
+OFLX,Omega Flex Inc,Industrials,593.0,Omega Flex
+ZEUS,Olympic Steel Inc.,Basic Materials,592.0,Olympic Steel
+CASS,Cass Information Systems Inc,Industrials,587.0,Cass Information Systems
+KE,Kimball Electronics Inc,Industrials,570.0,Kimball Electronics
+ACTG,Acacia Research Corp,Industrials,552.0,Acacia Research
+CYRX,CryoPort Inc,Industrials,548.0,CryoPort
+EBF,Ennis Inc.,Industrials,538.0,Ennis
+NP,Neenah Inc,Basic Materials,537.0,Neenah
+NPK,"National Presto Industries, Inc.",Industrials,529.0,National Presto Industries
+CMP,Compass Minerals International Inc,Basic Materials,520.0,Compass Minerals International
+CCRN,"Cross Country Healthcares, Inc.",Industrials,517.0,Cross Country Healthcares
+FC,Franklin Covey Co.,Industrials,491.0,Franklin Covey
+AMSC,American Superconductor Corp.,Industrials,490.0,American Superconductor
+ACCO,Acco Brands Corporation,Industrials,486.0,Acco Brands
+TRC,Tejon Ranch Co.,Industrials,483.0,Tejon Ranch
+EAF,GrafTech International Ltd.,Industrials,460.0,GrafTech International
+WLDN,Willdan Group Inc,Industrials,442.0,Willdan Group
+WLFC,Willis Lease Finance Corp.,Industrials,441.0,Willis Lease Finance
+HDSN,"Hudson Technologies, Inc.",Basic Materials,439.0,Hudson Technologies
+MTW,"Manitowoc Co., Inc.",Industrials,432.0,Manitowoc
+FCEL,Fuelcell Energy Inc,Industrials,424.0,Fuelcell Energy
+ODC,Oil-Dri Corp. Of America,Basic Materials,423.0,Oil-DriOf America
+KODK,Eastman Kodak Co.,Industrials,421.0,Eastman Kodak
+XONE,BondBloxx ETF Trust,Industrials,420.0,BondBloxx ETF Trust
+SAVE,Spirit Airlines Inc,Industrials,407.0,Spirit Airlines
+TITN,Titan Machinery Inc,Industrials,404.0,Titan Machinery
+FWRD,Forward Air Corp.,Industrials,397.0,Forward Air
+BBCP,Concrete Pumping Holdings Inc,Industrials,389.0,Concrete Pumping
+SMHI,SEACOR Marine Holdings Inc,Industrials,383.0,SEACOR Marine
+IPI,Intrepid Potash Inc,Basic Materials,366.0,Intrepid Potash
+PANL,Pangaea Logistics Solutions Ltd,Industrials,366.0,Pangaea Logistics Solutions
+RYAM,Rayonier Advanced Materials Inc,Basic Materials,365.0,Rayonier Advanced Materials
+MIC,Macquarie Infrastructure Holdings LLC,Industrials,364.0,Macquarie Infrastructure
+NL,"NL Industries, Inc.",Industrials,350.0,NL Industries
+PTSI,"P.A.M. Transportation Services, Inc.",Industrials,350.0,PAM Transportation Services
+NWPX,Northwest Pipe Co.,Industrials,345.0,Northwest Pipe
+FORR,Forrester Research Inc.,Industrials,344.0,Forrester Research
+PKOH,Park-Ohio Holdings Corp.,Industrials,341.0,Park-Ohio
+TBI,TrueBlue Inc,Industrials,332.0,TrueBlue
+USAP,"Universal Stainless & Alloy Products, Inc.",Basic Materials,317.0,Universal Stainless & Alloy Products
+CIX,"Compx International, Inc.",Industrials,309.0,Compx International
+ORN,Orion Group Holdings Inc,Industrials,306.0,Orion Group
+GHM,Graham Corp.,Industrials,298.0,Graham
+FSTR,L.B. Foster Co.,Industrials,296.0,LB Foster
+PMTS,CPI Card Group Inc,Industrials,296.0,CPI Card Group
+PKE,Park Aerospace Corp,Industrials,290.0,Park Aerospace
+MG,Mistras Group Inc,Industrials,271.0,Mistras Group
+EVI,EVI Industries Inc,Industrials,265.0,EVI Industries
+AVD,American Vanguard Corp.,Basic Materials,254.0,American Vanguard
+USX,U.S. Xpress Enterprises Inc,Industrials,251.0,US Xpress Enterprises
+PAYS,PaySign Inc,Industrials,249.0,PaySign
+RLGT,"Radiant Logistics, Inc.",Industrials,246.0,Radiant Logistics
+PFMT,Performant Financial Corp,Industrials,242.0,Performant Financial
+GENC,"Gencor Industries, Inc.",Industrials,239.0,Gencor Industries
+TREC,Trecora Resources,Basic Materials,232.0,Trecora Resources
+TPIC,TPI Composites Inc,Industrials,229.0,TPI Composites
+AAN,Aarons Company Inc (The),Industrials,217.0,Aarons
+FF,Futurefuel Corp,Basic Materials,201.0,Futurefuel
+ULBI,Ultralife Corp,Industrials,199.0,Ultralife
+TWIN,Twin Disc Incorporated,Industrials,195.0,Twin Disc
+HIL,Hill International Inc,Industrials,194.0,Hill International
+TG,Tredegar Corp.,Basic Materials,193.0,Tredegar
+QUAD,Quad/Graphics Inc,Industrials,190.0,Quad/Graphics
+QRHC,Quest Resource Holding Corp,Industrials,186.0,Quest Resource
+CMT,Core Molding Technologies,Basic Materials,183.0,Core Molding Technologies
+SRT,"Startek, Inc.",Industrials,178.0,Startek
+EML,Eastern Co.,Industrials,171.0,Eastern
+NTIC,Northern Technologies International Corp.,Basic Materials,170.0,Northern Technologies International
+GEVO,Gevo Inc,Basic Materials,166.0,Gevo
+TAYD,Taylor Devices Inc.,Industrials,161.0,Taylor Devices
+NNBR,NN Inc,Industrials,161.0,NN
+DLHC,DLH Holdings Corp,Industrials,157.0,DLH
+RCMT,"RCM Technologies, Inc.",Industrials,156.0,RCM Technologies
+PESI,"Perma-Fix Environmental Services, Inc.",Industrials,143.0,Perma-Fix Environmental Services
+SYNL,Synalloy Corp.,Basic Materials,136.0,Synalloy
+MNTX,Manitex International Inc,Industrials,130.0,Manitex International
+TSE,Trinseo PLC,Basic Materials,125.0,Trinseo
+FRD,"Friedman Industries, Inc.",Basic Materials,124.0,Friedman Industries
+LOOP,Loop Industries Inc,Basic Materials,121.0,Loop Industries
+ADES,,Industrials,120.0,nan
+ARC,ARC Document Solutions Inc,Industrials,118.0,ARC Document Solutions
+HURC,"Hurco Companies, Inc.",Industrials,117.0,Hurco
+SCX,L.S. Starrett Co.,Industrials,113.0,LS Starrett
+ISSC,Innovative Solutions And Support Inc,Industrials,110.0,Innovative Solutions And Support
+BW,Babcock & Wilcox Enterprises Inc,Industrials,106.0,Babcock & Wilcox Enterprises
+DHX,DHI Group Inc,Industrials,106.0,DHI Group
+IVAC,"Intevac, Inc.",Industrials,104.0,Intevac
+BWEN,Broadwind Inc,Industrials,96.0,Broadwind
+OMEX,"Odyssey Marine Exploration, Inc.",Industrials,95.0,Odyssey Marine Exploration
+MHH,Mastech Digital Inc,Industrials,93.0,Mastech Digital
+GLT,Glatfelter Corporation,Basic Materials,76.0,Glatfelter
+CODA,Coda Octopus Group Inc.,Industrials,74.0,Coda Octopus Group
+PPIH,Perma-Pipe International Holdings Inc,Industrials,73.0,Perma-Pipe International
+XPL,Solitario Resources Corp,Basic Materials,73.0,Solitario Resources
+BGSF,BGSF Inc,Industrials,73.0,BGSF
+STCN,Steel Connect Inc,Industrials,72.0,Steel Connect
+ALJJ,Alj Regional Holdings Inc,Industrials,70.0,Alj Regional
+RAIL,FreightCar America Inc,Industrials,69.0,FreightCar America
+SGRP,"Spar Group, Inc.",Industrials,63.0,Spar Group
+APT,Alpha Pro Tech Ltd.,Industrials,60.0,Alpha Pro Tech
+IPWR,Ideal Power Inc,Industrials,59.0,Ideal Power
+ESP,Espey Manufacturing & Electronics Corp.,Industrials,58.0,Espey Manufacturing & Electronics
+GORO,Gold Resource Corp,Basic Materials,46.0,Gold Resource
+MESA,Mesa Air Group Inc.,Industrials,46.0,Mesa Air Group
+AQMS,Aqua Metals Inc,Industrials,46.0,Aqua Metals
+HSON,Hudson Global Inc,Industrials,45.0,Hudson Global
+RRTS,Roadrunner Transportation Systems Inc,Industrials,42.0,Roadrunner Transportation Systems
+PPSI,Pioneer Power Solutions Inc,Industrials,41.0,Pioneer Power Solutions
+AIRT,Air T Inc,Industrials,41.0,Air T
+LTBR,Lightbridge Corp,Industrials,40.0,Lightbridge
+JOB,GEE Group Inc,Industrials,39.0,GEE Group
+CLIR,ClearSign Technologies Corp,Industrials,38.0,ClearSign Technologies
+UAMY,United States Antimony Corp.,Basic Materials,36.0,United States Antimony
+FTEK,Fuel Tech Inc,Industrials,36.0,Fuel Tech
+TISI,"Team, Inc.",Industrials,35.0,Team Inc
+RFIL,RF Industries Ltd.,Industrials,34.0,RF Industries
+PZG,Paramount Gold Nevada Corp,Basic Materials,33.0,Paramount Gold Nevada
+CVV,CVD Equipment Corp.,Industrials,31.0,CVD Equipment
+OESX,Orion Energy Systems Inc,Industrials,31.0,Orion Energy Systems
+SVT,"Servotronics, Inc.",Industrials,30.0,Servotronics
+CVU,CPI Aerostructures Inc,Industrials,30.0,CPI Aerostructures
+AP,Ampco-Pittsburgh Corp.,Industrials,28.0,Ampco-Pittsburgh
+WWR,Westwater Resources Inc,Basic Materials,27.0,Westwater Resources
+WHLM,Wilhelmina International Inc,Industrials,27.0,Wilhelmina International
+NXTD,Nxt-ID Inc,Industrials,22.0,Nxt-ID
+SIF,SIFCO Industries Inc.,Industrials,20.0,SIFCO Industries

@@ -1,0 +1,442 @@
+Ticker,Name,Sector,Cap,NameCln
+MSFT,Microsoft Corporation,Technology,3198270.0,Microsoft
+AAPL,Apple Inc,Technology,2913322.0,Apple
+NVDA,NVIDIA Corp,Technology,2801776.0,NVIDIA
+GOOGL,Alphabet Inc,Communication Services,2224228.0,Alphabet
+AVGO,Broadcom Inc,Technology,654559.0,Broadcom
+FB,Meta Platforms Inc,Communication Services,561211.0,Meta
+ORCL,Oracle Corp.,Technology,342161.0,Oracle
+NFLX,Netflix Inc.,Communication Services,286725.0,Netflix
+AMD,Advanced Micro Devices Inc.,Technology,277376.0,Advanced Micro Devices
+CRM,Salesforce Inc,Technology,261195.0,Salesforce
+QCOM,"Qualcomm, Inc.",Technology,237797.0,Qualcomm
+ADBE,Adobe Inc,Technology,214337.0,Adobe
+ACN,Accenture plc,Technology,199605.0,Accenture
+TMUS,T-Mobile US Inc,Communication Services,196063.0,T-Mobile US
+DIS,Walt Disney Co (The),Communication Services,186753.0,Walt Disney
+CSCO,"Cisco Systems, Inc.",Technology,186454.0,Cisco Systems
+AMAT,Applied Materials Inc.,Technology,183247.0,Applied Materials
+TXN,Texas Instruments Inc.,Technology,181732.0,Texas Instruments
+INTU,Intuit Inc,Technology,167734.0,Intuit
+VZ,Verizon Communications Inc,Communication Services,165676.0,Verizon Communications
+IBM,International Business Machines Corp.,Technology,155850.0,International Business Machines
+CMCSA,Comcast Corp,Communication Services,150853.0,Comcast
+NOW,ServiceNow Inc,Technology,149416.0,ServiceNow
+MU,Micron Technology Inc.,Technology,146915.0,Micron Technology
+INTC,Intel Corp.,Technology,132222.0,Intel
+LRCX,Lam Research Corp.,Technology,126984.0,Lam Research
+T,"AT&T, Inc.",Communication Services,123135.0,AT&T
+DELL,Dell Technologies Inc,Technology,118546.0,Dell Technologies
+UBER,Uber Technologies Inc,Technology,118205.0,Uber
+ADI,Analog Devices Inc.,Technology,115837.0,Analog Devices
+KLAC,KLA Corp.,Technology,105846.0,KLA
+PANW,Palo Alto Networks Inc,Technology,99734.0,Palo Alto Networks
+ANET,Arista Networks Inc,Technology,96356.0,Arista Networks
+SNPS,"Synopsys, Inc.",Technology,90082.0,Synopsys
+CDNS,"Cadence Design Systems, Inc.",Technology,80609.0,Cadence Design Systems
+APH,Amphenol Corp.,Technology,80469.0,Amphenol
+MRVL,Marvell Technology Inc,Technology,67793.0,Marvell Technology
+VMW,Vmware Inc.,Technology,61523.0,Vmware
+MSI,Motorola Solutions Inc,Technology,60030.0,Motorola Solutions
+DISCK,Warner Bros.Discovery Inc,Communication Services,59712.0,Warner BrosDiscovery
+MCHP,"Microchip Technology, Inc.",Technology,53055.0,Microchip Technology
+TEL,TE Connectivity Ltd,Technology,46057.0,TE Connectivity
+WDAY,Workday Inc,Technology,45758.0,Workday
+FTNT,Fortinet Inc,Technology,45416.0,Fortinet
+ADSK,Autodesk Inc.,Technology,45347.0,Autodesk
+TTD,Trade Desk Inc,Technology,42335.0,Trade Desk
+FIS,"Fidelity National Information Services, Inc.",Technology,41791.0,Fidelity National Information Services
+TWTR,Twitter Inc,Communication Services,41094.0,Twitter
+CHTR,Charter Communications Inc.,Communication Services,39093.0,Charter Communications
+MPWR,Monolithic Power System Inc,Technology,36976.0,Monolithic Power System
+SQ,Block Inc,Technology,36776.0,Block
+EA,"Electronic Arts, Inc.",Communication Services,35125.0,Electronic Arts
+FICO,Fair Isaac Corp.,Technology,34228.0,Fair Isaac
+IT,"Gartner, Inc.",Technology,33746.0,Gartner
+CTSH,Cognizant Technology Solutions Corp.,Technology,33243.0,Cognizant Technology Solutions
+HUBS,HubSpot Inc,Technology,32534.0,HubSpot
+HPQ,HP Inc,Technology,32501.0,HP
+ON,ON Semiconductor Corp.,Technology,31687.0,ON Semiconductor
+GRMN,Garmin Ltd,Technology,31193.0,Garmin
+GLW,"Corning, Inc.",Technology,30710.0,Corning
+CDW,CDW Corp,Technology,30266.0,CDW
+FSLR,First Solar Inc,Technology,29989.0,First Solar
+ANSS,Ansys Inc.,Technology,28641.0,Ansys
+FWONA,Liberty Media Corp.,Communication Services,27484.0,Liberty Media
+TTWO,"Take-Two Interactive Software, Inc.",Communication Services,26872.0,Take-Two Interactive Software
+MSTR,Microstrategy Inc.,Technology,26426.0,Microstrategy
+FTV,Fortive Corp,Technology,26247.0,Fortive
+PINS,Pinterest Inc,Communication Services,24873.0,Pinterest
+KEYS,Keysight Technologies Inc,Technology,24871.0,Keysight Technologies
+WDC,Western Digital Corp.,Technology,24862.0,Western Digital
+MDB,MongoDB Inc,Technology,24635.0,MongoDB
+ZS,Zscaler Inc,Technology,24608.0,Zscaler
+NTAP,Netapp Inc,Technology,24355.0,Netapp
+HPE,Hewlett Packard Enterprise Co,Technology,23933.0,Hewlett Packard Enterprise
+BR,"Broadridge Financial Solutions, Inc.",Technology,23191.0,Broadridge Financial Solutions
+TER,"Teradyne, Inc.",Technology,22672.0,Teradyne
+LYV,Live Nation Entertainment Inc,Communication Services,21962.0,Live Nation Entertainment
+FLT,Fleetcor Technologies Inc,Technology,21895.0,Fleetcor Technologies
+PTC,PTC Inc,Technology,21493.0,PTC
+SNAP,Snap Inc,Communication Services,21247.0,Snap
+TYL,"Tyler Technologies, Inc.",Technology,20342.0,Tyler Technologies
+PSTG,Pure Storage Inc,Technology,20325.0,Pure Storage
+STX,Seagate Technology Holdings Plc,Technology,20216.0,Seagate Technology
+LDOS,Leidos Holdings Inc,Technology,19955.0,Leidos
+ENTG,Entegris Inc,Technology,19816.0,Entegris
+GDDY,Godaddy Inc,Technology,19519.0,Godaddy
+TDY,Teledyne Technologies Inc,Technology,18713.0,Teledyne Technologies
+ZM,Zoom Video Communications Inc,Communication Services,18466.0,Zoom Video Communications
+OMC,"Omnicom Group, Inc.",Communication Services,18254.0,Omnicom Group
+ENPH,Enphase Energy Inc,Technology,17604.0,Enphase Energy
+NTNX,Nutanix Inc,Technology,17536.0,Nutanix
+VRSN,Verisign Inc.,Technology,17037.0,Verisign
+ZBRA,Zebra Technologies Corp.,Technology,16775.0,Zebra Technologies
+OKTA,Okta Inc,Technology,15394.0,Okta
+NWS,News Corp,Communication Services,15340.0,News
+FOX,Fox Corporation,Communication Services,15068.0,Fox
+SSNC,SS&C Technologies Holdings Inc,Technology,15057.0,SS&C Technologies
+CREE,"Cree, Inc.",Technology,14965.0,Cree
+SWKS,"Skyworks Solutions, Inc.",Technology,14657.0,Skyworks Solutions
+JBL,Jabil Inc,Technology,14323.0,Jabil
+AKAM,Akamai Technologies Inc,Technology,14103.0,Akamai Technologies
+MANH,"Manhattan Associates, Inc.",Technology,13902.0,Manhattan Associates
+AZPN,Aspen Technology Inc,Technology,13809.0,Aspen Technology
+TRMB,Trimble Inc,Technology,13632.0,Trimble
+BKI,Black Knight Inc,Technology,11876.0,Black Knight
+DOCU,DocuSign Inc,Technology,11855.0,DocuSign
+JKHY,"Jack Henry & Associates, Inc.",Technology,11851.0,Jack Henry & Associates
+IPG,"Interpublic Group Of Cos., Inc.",Communication Services,11772.0,Interpublic Group Of Cos
+SNX,TD Synnex Corp,Technology,11571.0,TD Synnex
+JNPR,Juniper Networks Inc,Technology,11186.0,Juniper Networks
+LSCC,Lattice Semiconductor Corp.,Technology,10658.0,Lattice Semiconductor
+SIRI,Sirius XM Holdings Inc,Communication Services,10617.0,Sirius XM
+EPAM,EPAM Systems Inc,Technology,10277.0,EPAM Systems
+TWLO,Twilio Inc,Communication Services,10094.0,Twilio
+ESTC,Elastic N.V,Technology,10093.0,Elastic NV
+GWRE,Guidewire Software Inc,Technology,9921.0,Guidewire Software
+FFIV,F5 Inc,Technology,9867.0,F5
+PAYC,Paycom Software Inc,Technology,9692.0,Paycom Software
+ZEN,Zendesk Inc,Technology,9626.0,Zendesk
+PLAN,Anaplan Inc,Technology,9593.0,Anaplan
+CACI,Caci International Inc.,Technology,9434.0,Caci International
+QRVO,Qorvo Inc,Technology,9389.0,Qorvo
+Z,Zillow Group Inc,Communication Services,9110.0,Zillow Group
+COHR,Coherent Corp,Technology,9000.0,Coherent
+FN,Fabrinet,Technology,8857.0,Fabrinet
+MKSI,"MKS Instruments, Inc.",Technology,8770.0,MKS Instruments
+UI,Ubiquiti Inc,Technology,8748.0,Ubiquiti
+OLED,Universal Display Corp.,Technology,8599.0,Universal Display
+PCTY,Paylocity Holding Corp,Technology,8565.0,Paylocity
+AVLR,Avalara Inc,Technology,8278.0,Avalara
+AMKR,AMKOR Technology Inc.,Technology,8224.0,AMKOR Technology
+NYT,New York Times Co.,Communication Services,8116.0,New York Times
+CGNX,Cognex Corp.,Technology,8102.0,Cognex
+MTCH,Match Group Inc.,Communication Services,7797.0,Match Group
+WEX,WEX Inc,Technology,7740.0,WEX
+MTSI,MACOM Technology Solutions Holdings Inc,Technology,7537.0,MACOM Technology Solutions
+LBRDA,Liberty Broadband Corp,Communication Services,7254.0,Liberty Broadband
+ROKU,Roku Inc,Communication Services,7160.0,Roku
+CIEN,CIENA Corp.,Technology,7158.0,CIENA
+SPSC,SPS Commerce Inc.,Technology,7108.0,SPS Commerce
+ARW,Arrow Electronics Inc.,Technology,6932.0,Arrow Electronics
+SAIC,Science Applications International Corp.,Technology,6925.0,Science Applications International
+NSIT,Insight Enterprises Inc.,Technology,6694.0,Insight Enterprises
+LFUS,"Littelfuse, Inc.",Technology,6388.0,Littelfuse
+ST,Sensata Technologies Holding Plc,Technology,6282.0,Sensata Technologies
+CRUS,"Cirrus Logic, Inc.",Technology,6251.0,Cirrus Logic
+LYFT,Lyft Inc,Technology,6193.0,Lyft
+SAIL,SailPoint Technologies Holdings Inc,Technology,6186.0,SailPoint Technologies
+NEWR,New Relic Inc,Technology,6178.0,New Relic
+LBTYA,Liberty Global Ltd,Communication Services,6168.0,Liberty Global
+G,Genpact Ltd,Technology,6116.0,Genpact
+RMBS,Rambus Inc.,Technology,6078.0,Rambus
+CLGX,CoreLogic Inc,Technology,5889.0,CoreLogic
+NOVT,Novanta Inc,Technology,5847.0,Novanta
+DBX,Dropbox Inc,Technology,5715.0,Dropbox
+SWCH,Switch Inc,Technology,5410.0,Switch
+SMAR,Smartsheet Inc,Technology,5399.0,Smartsheet
+QLYS,Qualys Inc,Technology,5296.0,Qualys
+WWE,"World Wrestling Entertainment, Inc.",Communication Services,5240.0,World Wrestling Entertainment
+APPF,Appfolio Inc,Technology,5199.0,Appfolio
+NXST,Nexstar Media Group Inc,Communication Services,5178.0,Nexstar Media Group
+EEFT,Euronet Worldwide Inc,Technology,5161.0,Euronet Worldwide
+TENB,Tenable Holdings Inc,Technology,5105.0,Tenable
+VRNS,Varonis Systems Inc,Technology,5098.0,Varonis Systems
+EXLS,ExlService Holdings Inc,Technology,5065.0,ExlService
+ITRI,Itron Inc.,Technology,5047.0,Itron
+PEGA,Pegasystems Inc.,Technology,5003.0,Pegasystems
+ALTR,Altair Engineering Inc,Technology,4962.0,Altair Engineering
+AVT,Avnet Inc.,Technology,4956.0,Avnet
+CVLT,Commvault Systems Inc,Technology,4833.0,Commvault Systems
+DLB,Dolby Laboratories Inc,Communication Services,4738.0,Dolby Laboratories
+CLDR,Cloudera Inc,Technology,4737.0,Cloudera
+PRSP,Perspecta Inc,Technology,4726.0,Perspecta
+FORM,FormFactor Inc.,Technology,4532.0,FormFactor
+PI,Impinj Inc,Technology,4393.0,Impinj
+POWI,Power Integrations Inc.,Technology,4392.0,Power Integrations
+SLAB,Silicon Laboratories Inc,Technology,4074.0,Silicon Laboratories
+BLKB,Blackbaud Inc,Technology,4029.0,Blackbaud
+IAC,IAC Inc,Communication Services,3994.0,IAC
+WK,Workiva Inc,Technology,3993.0,Workiva
+IPGP,IPG Photonics Corp,Technology,3816.0,IPG Photonics
+SANM,Sanmina Corp,Technology,3773.0,Sanmina
+ENV,Envestnet Inc.,Technology,3772.0,Envestnet
+ACLS,Axcelis Technologies Inc,Technology,3752.0,Axcelis Technologies
+QTWO,Q2 Holdings Inc,Technology,3747.0,Q2
+SYNA,Synaptics Inc,Technology,3700.0,Synaptics
+ACIW,ACI Worldwide Inc,Technology,3665.0,ACI Worldwide
+BOX,Box Inc,Technology,3643.0,Box
+FIVN,Five9 Inc,Technology,3605.0,Five9
+IRDM,Iridium Communications Inc,Communication Services,3592.0,Iridium Communications
+DIOD,"Diodes, Inc.",Technology,3403.0,Diodes
+ALRM,Alarm.com Holdings Inc,Technology,3370.0,Alarm.com
+AYX,Alteryx Inc,Technology,3172.0,Alteryx
+PLXS,Plexus Corp.,Technology,3087.0,Plexus
+TDC,Teradata Corp,Technology,3082.0,Teradata
+LITE,Lumentum Holdings Inc,Technology,3034.0,Lumentum
+BL,BlackLine Inc,Technology,3012.0,BlackLine
+RUN,Sunrun Inc,Technology,2992.0,Sunrun
+RIOT,Riot Platforms Inc,Technology,2986.0,Riot Platforms
+VSH,"Vishay Intertechnology, Inc.",Technology,2981.0,Vishay Intertechnology
+CCOI,Cogent Communications Holdings Inc,Communication Services,2910.0,Cogent Communications
+SEDG,Solaredge Technologies Inc,Technology,2864.0,Solaredge Technologies
+RNG,RingCentral Inc.,Technology,2861.0,RingCentral
+IDCC,Interdigital Inc,Communication Services,2816.0,Interdigital
+ESE,"Esco Technologies, Inc.",Technology,2785.0,Esco Technologies
+VCRA,Vocera Communication Inc,Technology,2773.0,Vocera Communication
+AGYS,"Agilysys, Inc",Technology,2741.0,Agilysys
+DXC,DXC Technology Co,Technology,2712.0,DXC Technology
+SMTC,Semtech Corp.,Technology,2619.0,Semtech
+KLIC,"Kulicke & Soffa Industries, Inc.",Technology,2595.0,Kulicke & Soffa Industries
+PRFT,Perficient Inc.,Technology,2595.0,Perficient
+SATS,EchoStar Corp,Technology,2588.0,EchoStar
+USM,United States Cellular Corporation,Communication Services,2507.0,United States Cellular
+YELP,Yelp Inc,Communication Services,2449.0,Yelp
+TGNA,TEGNA Inc,Communication Services,2446.0,TEGNA
+BATRA,Atlanta Braves Holdings Inc,Communication Services,2407.0,Atlanta Braves
+OSIS,"OSI Systems, Inc.",Technology,2382.0,OSI Systems
+VECO,Veeco Instruments Inc,Technology,2356.0,Veeco Instruments
+RPD,Rapid7 Inc,Technology,2350.0,Rapid7
+EVTC,Evertec Inc,Technology,2287.0,Evertec
+CALX,Calix Inc,Technology,2224.0,Calix
+ROG,Rogers Corp.,Technology,2210.0,Rogers
+PRGS,Progress Software Corp.,Technology,2164.0,Progress Software
+CNK,Cinemark Holdings Inc,Communication Services,2091.0,Cinemark
+CABO,Cable One Inc,Communication Services,2071.0,Cable One
+GSAT,Globalstar Inc.,Communication Services,2071.0,Globalstar
+CARG,CarGurus Inc,Communication Services,2070.0,CarGurus
+RAMP,LiveRamp Holdings Inc,Technology,2059.0,LiveRamp
+TDS,"Telephone And Data Systems, Inc.",Communication Services,2022.0,Telephone And Data Systems
+PLUS,ePlus Inc,Technology,2008.0,ePlus
+SONO,Sonos Inc,Technology,1987.0,Sonos
+UCTT,Ultra Clean Hldgs Inc,Technology,1985.0,Ultra Clean Hldgs
+VSAT,"Viasat, Inc.",Technology,1966.0,Viasat
+VRNT,"Verint Systems, Inc.",Technology,1930.0,Verint Systems
+TTMI,TTM Technologies Inc,Technology,1891.0,TTM Technologies
+PD,Pagerduty Inc,Technology,1882.0,Pagerduty
+CNXN,"PC Connection, Inc.",Technology,1777.0,PC Connection
+XRX,Xerox Holdings Corp,Technology,1730.0,Xerox
+PLAB,"Photronics, Inc.",Technology,1729.0,Photronics
+FIT,Fitbit Inc,Technology,1697.0,Fitbit
+LILA,Liberty Latin America Ltd,Communication Services,1680.0,Liberty Latin America
+CTS,CTS Corp.,Technology,1651.0,CTS
+PAR,Par Technology Corp.,Technology,1644.0,Par Technology
+VIAV,Viavi Solutions Inc,Technology,1641.0,Viavi Solutions
+DBD,Diebold Nixdorf Inc,Technology,1634.0,Diebold Nixdorf
+BHE,Benchmark Electronics Inc.,Technology,1566.0,Benchmark Electronics
+MXL,MaxLinear Inc,Technology,1566.0,MaxLinear
+KN,Knowles Corp,Technology,1551.0,Knowles
+PRO,Pros Holdings Inc,Technology,1500.0,Pros
+COHU,"Cohu, Inc.",Technology,1494.0,Cohu
+EXTR,Extreme Networks Inc.,Technology,1492.0,Extreme Networks
+NTCT,Netscout Systems Inc,Technology,1473.0,Netscout Systems
+EVBG,Everbridge Inc,Technology,1446.0,Everbridge
+AMC,AMC Entertainment Holdings Inc,Communication Services,1442.0,AMC Entertainment
+PDFS,PDF Solutions Inc.,Technology,1378.0,PDF Solutions
+HLIT,"Harmonic, Inc.",Technology,1349.0,Harmonic
+ACMR,ACM Research Inc,Technology,1343.0,ACM Research
+ZUO,Zuora Inc,Technology,1337.0,Zuora
+GOGO,Gogo Inc,Communication Services,1333.0,Gogo
+INFN,Infinera Corp.,Technology,1312.0,Infinera
+SSTK,Shutterstock Inc,Communication Services,1311.0,Shutterstock
+ICHR,Ichor Holdings Ltd,Technology,1273.0,Ichor
+CSGS,CSG Systems International Inc.,Technology,1267.0,CSG Systems International
+APPN,Appian Corp,Technology,1226.0,Appian
+SCSC,"Scansource, Inc.",Technology,1217.0,Scansource
+EEX,Emerald Holding Inc,Communication Services,1213.0,Emerald
+MODN,Model N Inc,Technology,1176.0,Model N
+SABR,Sabre Corp,Technology,1173.0,Sabre
+ATEN,A10 Networks Inc,Technology,1147.0,A10 Networks
+VICR,Vicor Corp.,Technology,1143.0,Vicor
+FSLY,Fastly Inc,Technology,1133.0,Fastly
+ATUS,Altice USA Inc,Communication Services,1118.0,Altice USA
+SGH,SMART Global Holdings Inc,Technology,1100.0,SMART Global
+SCHL,Scholastic Corp.,Communication Services,1029.0,Scholastic
+QNST,QuinStreet Inc,Communication Services,1012.0,QuinStreet
+DLX,Deluxe Corp.,Communication Services,975.0,Deluxe
+SHEN,Shenandoah Telecommunications Co.,Communication Services,954.0,Shenandoah Telecommunications
+IDT,IDT Corp.,Communication Services,938.0,IDT
+DGII,"Digi International, Inc.",Technology,922.0,Digi International
+BELFA,Bel Fuse Inc.,Technology,887.0,Bel Fuse
+USAT,Cantaloupe Inc,Technology,864.0,Cantaloupe
+NPTN,NeoPhotonics Corporation,Technology,860.0,NeoPhotonics
+TTGT,Techtarget Inc.,Communication Services,855.0,Techtarget
+AOSL,Alpha & Omega Semiconductor Ltd,Technology,853.0,Alpha & Omega Semiconductor
+CBB,"Cincinnati Bell, Inc.",Communication Services,788.0,Cincinnati Bell
+BOMN,Boston Omaha Corp,Communication Services,735.0,Boston Omaha
+EVER,EverQuote Inc,Communication Services,716.0,EverQuote
+CCO,Clear Channel Outdoor Holdings Inc.,Communication Services,704.0,Clear Channel Outdoor
+CNDT,Conduent Inc,Technology,696.0,Conduent
+IMXI,International Money Express Inc.,Technology,681.0,International Money Express
+ECOM,ChannelAdvisor Corp,Technology,668.0,ChannelAdvisor
+YEXT,Yext Inc,Technology,636.0,Yext
+LASR,nLIGHT Inc,Technology,624.0,nLIGHT
+GRPN,Groupon Inc,Communication Services,622.0,Groupon
+MLAB,"Mesa Laboratories, Inc.",Technology,616.0,Mesa Laboratories
+MSGN,MSG Networks Inc,Communication Services,616.0,MSG Networks
+ATEX,Anterix Inc,Communication Services,609.0,Anterix
+HCKT,Hackett Group Inc (The),Technology,601.0,Hackett Group
+MITK,Mitek Systems Inc,Technology,589.0,Mitek Systems
+DMRC,Digimarc Corporation,Technology,580.0,Digimarc
+GTN,"Gray Television, Inc.",Communication Services,578.0,Gray Television
+GCI,Gannett Co Inc.,Communication Services,556.0,Gannett
+AMCX,AMC Networks Inc,Communication Services,555.0,AMC Networks
+RBBN,Ribbon Communications Inc,Communication Services,550.0,Ribbon Communications
+NCMI,National Cinemedia Inc,Communication Services,543.0,National Cinemedia
+CLFD,Clearfield Inc,Technology,536.0,Clearfield
+DAKT,Daktronics Inc.,Technology,525.0,Daktronics
+DJCO,Daily Journal Corporation,Communication Services,525.0,Daily Journal
+SBGI,Sinclair Inc,Communication Services,524.0,Sinclair
+SPWR,Sunpower Corp,Technology,523.0,Sunpower
+BAND,Bandwidth Inc,Technology,523.0,Bandwidth
+CNSL,Consolidated Communications Holdings Inc,Communication Services,512.0,Consolidated Communications
+DDD,3D Systems Corp.,Technology,491.0,3D Systems
+OSPN,OneSpan Inc,Technology,488.0,OneSpan
+AAOI,Applied Optoelectronics Inc,Technology,482.0,Applied Optoelectronics
+CDLX,Cardlytics Inc,Communication Services,478.0,Cardlytics
+CEVA,Ceva Inc.,Technology,469.0,Ceva
+LYTS,LSI Industries Inc.,Technology,461.0,LSI Industries
+IIIV,i3 Verticals Inc,Technology,457.0,i3 Verticals
+ADTN,ADTRAN Holdings Inc,Technology,448.0,ADTRAN
+MEI,"Methode Electronics, Inc.",Technology,432.0,Methode Electronics
+EB,Eventbrite Inc,Technology,409.0,Eventbrite
+VPG,Vishay Precision Group Inc,Technology,406.0,Vishay Precision Group
+WOW,WideOpenWest Inc,Communication Services,405.0,WideOpenWest
+XPER,Xperi Inc,Technology,402.0,Xperi
+QUOT,Quotient Technology Inc,Communication Services,398.0,Quotient Technology
+NTGR,Netgear Inc,Technology,396.0,Netgear
+AVNW,Aviat Networks Inc,Technology,383.0,Aviat Networks
+EGHT,8X8 Inc.,Technology,372.0,8X8
+NVEC,NVE Corp,Technology,371.0,NVE
+INOD,Innodata Inc,Technology,370.0,Innodata
+FARO,Faro Technologies Inc.,Technology,367.0,Faro Technologies
+ATNI,ATN International Inc,Communication Services,362.0,ATN International
+HEAR,Turtle Beach Corp,Technology,350.0,Turtle Beach
+INS,CoreCard Corporation,Technology,349.0,CoreCard
+AEHR,Aehr Test Systems,Technology,334.0,Aehr Test Systems
+AMSWA,American Software Inc.,Technology,334.0,American Software
+UIS,Unisys Corp.,Technology,321.0,Unisys
+IMMR,Immersion Corp,Technology,317.0,Immersion
+LEAF,Leaf Group Ltd,Communication Services,306.0,Leaf Group
+PCYG,ReposiTrak Inc.,Technology,305.0,ReposiTrak
+SPOK,Spok Holdings Inc,Communication Services,301.0,Spok
+TTEC,TTEC Holdings Inc,Technology,298.0,TTEC
+RDVT,Red Violet Inc,Technology,296.0,Red Violet
+HCHC,HC2 Holdings Inc,Communication Services,286.0,HC2
+MCS,Marcus Corp.,Communication Services,277.0,Marcus
+IRBT,Irobot Corp,Technology,275.0,Irobot
+TRUE,Truecar Inc,Communication Services,266.0,Truecar
+DOMO,Domo Inc.,Technology,250.0,Domo
+COMM,CommScope Holding Company Inc,Technology,248.0,CommScope
+INSE,Inspired Entertainment Inc,Communication Services,243.0,Inspired Entertainment
+LIVX,LiveXLive Media Inc,Communication Services,241.0,LiveXLive Media
+MVIS,Microvision Inc.,Technology,238.0,Microvision
+APPS,Digital Turbine Inc,Technology,229.0,Digital Turbine
+WRTC,Wrap Technologies Inc,Technology,214.0,Wrap Technologies
+OOMA,Ooma Inc,Communication Services,209.0,Ooma
+SSTI,SoundThinking Inc,Technology,207.0,SoundThinking
+ASUR,Asure Software Inc,Technology,197.0,Asure Software
+ITI,Iteris Inc.,Technology,197.0,Iteris
+GPRO,GoPro Inc.,Technology,195.0,GoPro
+QUIK,Quicklogic Corp,Technology,191.0,Quicklogic
+HBB,Hamilton Beach Brands Holding Co,Technology,191.0,Hamilton Beach Brands
+SSP,E.W. Scripps Co.,Communication Services,190.0,EW Scripps
+EGAN,eGain Corp,Technology,181.0,eGain
+XELA,Exela Technologies Inc,Technology,173.0,Exela Technologies
+EVC,Entravision Communications Corp.,Communication Services,173.0,Entravision Communications
+EMAN,EMagin Corp,Technology,172.0,EMagin
+ANGI,Angi Inc,Communication Services,171.0,Angi
+TSQ,Townsquare Media Inc,Communication Services,167.0,Townsquare Media
+AXTI,AXT Inc,Technology,165.0,AXT
+III,Information Services Group Inc.,Technology,153.0,Information Services Group
+MICT,MICT Inc,Technology,146.0,MICT
+AHC,A.H. Belo Corp,Communication Services,143.0,AH Belo
+RELL,"Richardson Electronics, Ltd.",Technology,141.0,Richardson Electronics
+LTRX,Lantronix Inc,Technology,141.0,Lantronix
+GTT,GTT Communications Inc,Communication Services,139.0,GTT Communications
+CSPI,CSP Inc.,Technology,139.0,CSP
+UEIC,Universal Electronics Inc.,Technology,135.0,Universal Electronics
+ALOT,AstroNova Inc,Technology,133.0,AstroNova
+MRAM,Everspin Technologies Inc,Technology,130.0,Everspin Technologies
+CAMP,Calamp Corp.,Technology,127.0,Calamp
+INTT,Intest Corp.,Technology,126.0,Intest
+LUNA,Luna Innovations Inc,Technology,113.0,Luna Innovations
+SGA,"Saga Communications, Inc.",Communication Services,113.0,Saga Communications
+VERI,Veritone Inc,Technology,112.0,Veritone
+SCWX,SecureWorks Corp,Technology,109.0,SecureWorks
+INVE,Identiv Inc,Technology,108.0,Identiv
+INSG,Inseego Corp,Technology,104.0,Inseego
+VUZI,Vuzix Corporation,Technology,104.0,Vuzix
+KVHI,"KVH Industries, Inc.",Technology,102.0,KVH Industries
+KOPN,Kopin Corp.,Technology,99.0,Kopin
+SNCR,Synchronoss Technologies Inc,Technology,96.0,Synchronoss Technologies
+BCOV,Brightcove Inc,Technology,94.0,Brightcove
+FEIM,"Frequency Electronics, Inc.",Technology,90.0,Frequency Electronics
+ASYS,Amtech Systems Inc.,Technology,82.0,Amtech Systems
+GAIA,Gaia Inc,Communication Services,82.0,Gaia
+LEE,"Lee Enterprises, Inc.",Communication Services,81.0,Lee Enterprises
+JCS,Pineapple Holdings Inc,Technology,80.0,Pineapple
+UONE,Urban One Inc,Communication Services,76.0,Urban One
+UPLD,Upland Software Inc,Technology,76.0,Upland Software
+CMTL,Comtech Telecommunications Corp.,Technology,73.0,Comtech Telecommunications
+REFR,Research Frontiers Inc.,Technology,72.0,Research Frontiers
+NETE,Net Element Inc.,Technology,71.0,Net Element
+GSIT,GSI Technology Inc,Technology,67.0,GSI Technology
+SCOR,Comscore Inc.,Communication Services,65.0,Comscore
+IDN,Intellicheck Inc,Technology,62.0,Intellicheck
+EMMS,Emmis Corp,Communication Services,58.0,Emmis
+PXLW,Pixelworks Inc,Technology,58.0,Pixelworks
+LPSN,Liveperson Inc,Technology,58.0,Liveperson
+RDI,Reading International Inc,Communication Services,57.0,Reading International
+AIRG,Airgain Inc,Technology,57.0,Airgain
+MCHX,Marchex Inc,Communication Services,56.0,Marchex
+FLNT,Fluent Inc,Communication Services,55.0,Fluent
+HHS,"Harte-Hanks, Inc.",Communication Services,54.0,Harte-Hanks
+LPTH,"Lightpath Technologies, Inc.",Technology,50.0,Lightpath Technologies
+BKTI,BK Technologies Corp,Technology,49.0,BK Technologies
+IZEA,IZEA Worldwide Inc,Communication Services,47.0,IZEA Worldwide
+WTT,"Wireless Telecom Group, Inc.",Technology,45.0,Wireless Telecom Group
+NEON,Neonode Inc.,Technology,45.0,Neonode
+KTCC,Key Tronic Corp.,Technology,44.0,Key Tronic
+DZSI,DZS Inc,Technology,44.0,DZS
+LTRPA,Liberty TripAdvisor Holdings Inc,Communication Services,43.0,Liberty TripAdvisor
+NTIP,Network-1 Technologies Inc,Technology,42.0,Network-1 Technologies
+INUV,Inuvo Inc,Communication Services,42.0,Inuvo
+USIO,Usio Inc,Technology,41.0,Usio
+AWRE,Aware Inc.,Technology,40.0,Aware
+ZDGE,Zedge Inc,Technology,37.0,Zedge
+ISDR,Issuer Direct Corp,Technology,35.0,Issuer Direct
+ISNS,"Image Sensing Systems, Inc.",Technology,34.0,Image Sensing Systems
+TACT,Transact Technologies Inc.,Technology,33.0,Transact Technologies
+AVYA,Avaya Holdings Corp.,Technology,30.0,Avaya
+NTWK,"Netsol Technologies, Inc.",Technology,29.0,Netsol Technologies
+LGL,LGL Group Inc,Technology,27.0,LGL Group
+TRT,Trio-Tech International,Technology,27.0,Trio-Tech International
+DAIO,Data io Corp.,Technology,27.0,Data io
+SGMA,Sigmatron International Inc.,Technology,26.0,Sigmatron International
+CPSH,CPS Technologies Corporation,Technology,25.0,CPS Technologies
+WYY,Widepoint Corp,Technology,24.0,Widepoint
+OCC,Optical Cable Corp.,Technology,22.0,Optical Cable
+SMSI,"Smith Micro Software, Inc.",Technology,22.0,Smith Micro Software
+AKTS,Akoustis Technologies Inc,Technology,21.0,Akoustis Technologies

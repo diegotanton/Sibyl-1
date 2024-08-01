@@ -1,0 +1,214 @@
+Ticker,Name,Sector,Cap,NameCln
+XOM,Exxon Mobil Corp.,Energy,452894.0,Exxon Mobil
+CVX,Chevron Corp.,Energy,293105.0,Chevron
+NEE,NextEra Energy Inc,Utilities,159288.0,NextEra Energy
+COP,Conoco Phillips,Energy,139128.0,Conoco Phillips
+FI,"Fiserv, Inc.",Energy,86841.0,Fiserv
+SO,Southern Company,Utilities,84878.0,Southern
+DUK,Duke Energy Corp.,Utilities,78088.0,Duke Energy
+EOG,"EOG Resources, Inc.",Energy,72327.0,EOG Resources
+SLB,Schlumberger Ltd.,Energy,66507.0,Schlumberger
+MPC,Marathon Petroleum Corp,Energy,63124.0,Marathon Petroleum
+PXD,Pioneer Natural Resources Co.,Energy,62989.0,Pioneer Natural Resources
+PSX,Phillips 66,Energy,60523.0,Phillips 66
+OXY,Occidental Petroleum Corp.,Energy,55158.0,Occidental Petroleum
+VLO,Valero Energy Corp.,Energy,53487.0,Valero Energy
+WMB,Williams Cos Inc,Energy,49567.0,Williams
+SRE,Sempra,Utilities,47691.0,Sempra
+OKE,Oneok Inc.,Energy,47252.0,Oneok
+HES,Hess Corporation,Energy,46848.0,Hess
+AEP,American Electric Power Company Inc.,Utilities,46714.0,American Electric Power
+D,Dominion Energy Inc,Utilities,44300.0,Dominion Energy
+KMI,Kinder Morgan Inc,Energy,42324.0,Kinder Morgan
+PEG,Public Service Enterprise Group Inc.,Utilities,37127.0,Public Service Enterprise Group
+VST,Vistra Corp,Utilities,36900.0,Vistra
+EXC,Exelon Corp.,Utilities,36781.0,Exelon
+LNG,Cheniere Energy Inc.,Energy,35752.0,Cheniere Energy
+FANG,Diamondback Energy Inc,Energy,35269.0,Diamondback Energy
+HAL,Halliburton Co.,Energy,32331.0,Halliburton
+ED,"Consolidated Edison, Inc.",Utilities,32235.0,Consolidated Edison
+DVN,Devon Energy Corp.,Energy,30911.0,Devon Energy
+XEL,"Xcel Energy, Inc.",Utilities,29860.0,Xcel Energy
+EIX,Edison International,Utilities,28526.0,Edison International
+CLR,Continental Resources Inc (OKLA),Energy,26961.0,Continental Resources
+TRGP,Targa Resources Corp,Energy,25610.0,Targa Resources
+WEC,WEC Energy Group Inc,Utilities,25177.0,WEC Energy Group
+AWK,American Water Works Co. Inc.,Utilities,24594.0,American Water Works
+DTE,DTE Energy Co.,Utilities,23384.0,DTE Energy
+ETR,Entergy Corp.,Utilities,22962.0,Entergy
+FE,Firstenergy Corp.,Utilities,22324.0,Firstenergy
+PBA,Pembina Pipeline Corporation,Energy,21309.0,Pembina Pipeline
+PPL,PPL Corp,Utilities,21077.0,PPL
+CTRA,Coterra Energy Inc,Energy,20511.0,Coterra Energy
+ES,Eversource Energy,Utilities,20008.0,Eversource Energy
+AEE,Ameren Corp.,Utilities,18995.0,Ameren
+CNP,Centerpoint Energy Inc.,Utilities,18897.0,Centerpoint Energy
+CMS,CMS Energy Corporation,Utilities,18253.0,CMS Energy
+EQT,EQT Corp,Energy,18211.0,EQT
+NRG,NRG Energy Inc.,Utilities,17481.0,NRG Energy
+ATO,Atmos Energy Corp.,Utilities,16904.0,Atmos Energy
+AES,AES Corp.,Utilities,15016.0,AES
+MRO,Marathon Oil Corporation,Energy,14919.0,Marathon Oil
+AGR,Avangrid Inc,Utilities,13871.0,Avangrid
+CXO,Concho Resources Inc,Energy,12878.0,Concho Resources
+LNT,Alliant Energy Corp.,Utilities,12786.0,Alliant Energy
+NI,NiSource Inc,Utilities,12508.0,NiSource
+EVRG,Evergy Inc,Utilities,12246.0,Evergy
+CHK,Chesapeake Energy Corp.,Energy,11859.0,Chesapeake Energy
+FTI,TechnipFMC plc,Energy,11326.0,TechnipFMC
+APA,APA Corporation,Energy,11073.0,APA
+AR,Antero Resources Corp,Energy,10779.0,Antero Resources
+XEC,Cimarex Energy Co.,Energy,8965.0,Cimarex Energy
+RRC,Range Resources Corp,Energy,8946.0,Range Resources
+COG,Cabot Oil & Gas Corp.,Energy,8893.0,Cabot Oil & Gas
+PNW,Pinnacle West Capital Corp.,Utilities,8685.0,Pinnacle West Capital
+SWN,Southwestern Energy Company,Energy,8205.0,Southwestern Energy
+MTDR,Matador Resources Co,Energy,7741.0,Matador Resources
+NOV,NOV Inc,Energy,7337.0,NOV
+OGE,Oge Energy Corp.,Utilities,7109.0,Oge Energy
+AM,Antero Midstream Corp,Energy,6964.0,Antero Midstream
+NE,Noble Corp Plc,Energy,6741.0,NoblePlc
+MUR,Murphy Oil Corp.,Energy,6474.0,Murphy Oil
+PE,Parsley Energy Inc,Energy,6411.0,Parsley Energy
+ETRN,Equitrans Midstream Corporation,Energy,6210.0,Equitrans Midstream
+PBF,PBF Energy Inc,Energy,5840.0,PBF Energy
+SM,SM Energy Co,Energy,5629.0,SM Energy
+TDW,Tidewater Inc.,Energy,5579.0,Tidewater
+VAL,Valaris Ltd,Energy,5487.0,Valaris
+SWX,Southwest Gas Holdings Inc,Utilities,5447.0,Southwest Gas
+WPX,WPX Energy Inc,Energy,5291.0,WPX Energy
+VVV,Valvoline Inc,Energy,5203.0,Valvoline
+UGI,UGI Corp.,Utilities,5085.0,UGI
+NFG,National Fuel Gas Co.,Energy,5079.0,National Fuel Gas
+RIG,Transocean Ltd,Energy,5008.0,Transocean
+IDA,"Idacorp, Inc.",Utilities,4987.0,Idacorp
+ALTM,Arcadium Lithium PLC,Energy,4914.0,Arcadium Lithium
+MGY,Magnolia Oil & Gas Corp,Energy,4597.0,Magnolia Oil & Gas
+POR,Portland General Electric Co,Utilities,4472.0,Portland General Electric
+ORA,Ormat Technologies Inc,Utilities,4469.0,Ormat Technologies
+PTEN,Patterson-UTI Energy Inc,Energy,4419.0,Patterson-UTI Energy
+SJI,South Jersey Industries Inc.,Utilities,4418.0,South Jersey Industries
+NJR,New Jersey Resources Corporation,Utilities,4166.0,New Jersey Resources
+NOG,Northern Oil and Gas Inc.,Energy,4075.0,Northern Oil and Gas
+LBRT,Liberty Energy Inc,Energy,3983.0,Liberty Energy
+CNX,CNX Resources Corp,Energy,3869.0,CNX Resources
+BKH,Black Hills Corporation,Utilities,3788.0,Black Hills
+OTTR,Otter Tail Corporation,Utilities,3734.0,Otter Tail
+HP,"Helmerich & Payne, Inc.",Energy,3716.0,Helmerich & Payne
+ALE,"Allete, Inc.",Utilities,3594.0,Allete
+SR,Spire Inc.,Utilities,3426.0,Spire
+PNM,PNM Resources Inc,Utilities,3348.0,PNM Resources
+OGS,ONE Gas Inc,Utilities,3343.0,ONE Gas
+WHD,Cactus Inc,Energy,3342.0,Cactus
+CRK,"Comstock Resources, Inc.",Energy,3284.0,Comstock Resources
+CRC,California Resources Corporation,Energy,3282.0,California Resources
+NWE,NorthWestern Energy Group Inc,Utilities,3116.0,NorthWestern Energy Group
+CWEN,Clearway Energy Inc,Utilities,3101.0,Clearway Energy
+ARCH,Arch Resources Inc,Energy,3098.0,Arch Resources
+AROC,Archrock Inc,Energy,3079.0,Archrock
+UEC,Uranium Energy Corp,Energy,3027.0,Uranium Energy
+BTU,Peabody Energy Corp.,Energy,3016.0,Peabody Energy
+CVI,CVR Energy Inc,Energy,2982.0,CVR Energy
+GPOR,Gulfport Energy Corp.,Energy,2917.0,Gulfport Energy
+CEIX,Consol Energy Inc,Energy,2880.0,Consol Energy
+KOS,Kosmos Energy Ltd,Energy,2862.0,Kosmos Energy
+AVA,Avista Corp.,Utilities,2850.0,Avista
+CWT,California Water Service Group,Utilities,2829.0,California Water Service Group
+MGEE,"MGE Energy, Inc.",Utilities,2826.0,MGE Energy
+AWR,American States Water Co.,Utilities,2679.0,American States Water
+WLL,Whiting Petroleum Corp,Energy,2670.0,Whiting Petroleum
+OII,"Oceaneering International, Inc.",Energy,2417.0,Oceaneering International
+CPK,Chesapeake Utilities Corp,Utilities,2409.0,Chesapeake Utilities
+CPE,Callon Petroleum Co.,Energy,2378.0,Callon Petroleum
+ESTE,Earthstone Energy Inc,Energy,2251.0,Earthstone Energy
+OAS,Oasis Petroleum Inc.,Energy,2145.0,Oasis Petroleum
+TALO,Talos Energy Inc,Energy,2130.0,Talos Energy
+LPG,Dorian LPG Ltd,Energy,1950.0,Dorian LPG
+MNRL,Brigham Minerals Inc,Energy,1847.0,Brigham Minerals
+SJW,SJW Group,Utilities,1750.0,SJW Group
+DK,Delek US Holdings Inc,Energy,1742.0,Delek US
+HLX,Helix Energy Solutions Group Inc,Energy,1741.0,Helix Energy Solutions Group
+PARR,Par Pacific Holdings Inc,Energy,1575.0,Par Pacific
+DO,"Diamond Offshore Drilling, Inc.",Energy,1552.0,Diamond Offshore Drilling
+DNOW,Dnow Inc,Energy,1535.0,Dnow
+RES,"RPC, Inc.",Energy,1470.0,RPC
+NWN,Northwest Natural Holding Co,Utilities,1356.0,Northwest Natural
+SLCA,U.S. Silica Holdings Inc,Energy,1212.0,US Silica
+TH,Target Hospitality Corp,Energy,1150.0,Target Hospitality
+HE,"Hawaiian Electric Industries, Inc.",Utilities,1148.0,Hawaiian Electric Industries
+WTTR,Select Water Solutions Inc,Energy,1119.0,Select Water Solutions
+MRC,MRC Global Inc,Energy,1115.0,MRC Global
+PUMP,ProPetro Holding Corp,Energy,1057.0,ProPetro
+SBOW,SilverBow Resources Inc,Energy,993.0,SilverBow Resources
+QEP,QEP Resources Inc,Energy,990.0,QEP Resources
+REX,REX American Resources Corp,Energy,943.0,REX American Resources
+SBR,Sabine Royalty Trust,Energy,934.0,Sabine Royalty Trust
+MSEX,Middlesex Water Co.,Utilities,912.0,Middlesex Water
+CLB,Core Laboratories Inc,Energy,870.0,Core Laboratories
+CKH,SEACOR Holdings Inc,Energy,851.0,SEACOR
+UTL,Unitil Corp.,Utilities,821.0,Unitil
+NBR,Nabors Industries Ltd,Energy,819.0,Nabors Industries
+TRCH,Torchlight Energy Resources Inc,Energy,786.0,Torchlight Energy Resources
+LEU,Centrus Energy Corp,Energy,779.0,Centrus Energy
+NR,"Newpark Resources, Inc.",Energy,671.0,Newpark Resources
+MCF,Contango Oil & Gas Company,Energy,648.0,Contango Oil & Gas
+EGY,"VAALCO Energy, Inc.",Energy,646.0,VAALCO Energy
+DRQ,"Dril-Quip, Inc.",Energy,643.0,Dril-Quip
+CLNE,Clean Energy Fuels Corp,Energy,612.0,Clean Energy Fuels
+OSG,"Overseas Shipholding Group, Inc.",Energy,607.0,Overseas Ship Group
+PBT,Permian Basin Royalty Trust,Energy,589.0,Permian Basin Royalty Trust
+BRY,Berry Corp,Energy,526.0,Berry
+YORW,York Water Co.,Utilities,520.0,York Water
+SD,Sandridge Energy Inc,Energy,515.0,Sandridge Energy
+TTI,"Tetra Technologies, Inc.",Energy,497.0,Tetra Technologies
+PVAC,Penn Virginia Corp.,Energy,470.0,Penn Virginia
+TELL,Tellurian Inc,Energy,469.0,Tellurian
+EE,Excelerate Energy Inc,Utilities,429.0,Excelerate Energy
+SES,SES AI Corporation,Energy,404.0,SES AI
+GNE,Genie Energy Ltd,Utilities,382.0,Genie Energy
+REI,Ring Energy Inc,Energy,378.0,Ring Energy
+FTSI,FTS International Inc.,Energy,365.0,FTS International
+GDP,Goodrich Petroleum Corp.,Energy,331.0,Goodrich Petroleum
+WTI,W & T Offshore Inc,Energy,330.0,W & T Offshore
+ARTNA,Artesian Resources Corp.,Utilities,325.0,Artesian Resources
+GWRS,Global Water Resources Inc,Utilities,305.0,Global Water Resources
+OIS,"Oil States International, Inc.",Energy,300.0,Oil States International
+MTRX,Matrix Service Co.,Energy,299.0,Matrix Service
+HNRG,Hallador Energy Co,Energy,272.0,Hallador Energy
+SOI,Solaris Oilfield Infrastructure Inc,Energy,272.0,Solaris Oilfield Infrastructure
+NGS,"Natural Gas Services Group, Inc.",Energy,270.0,Natural Gas Services Group
+BOOM,DMC Global Inc,Energy,268.0,DMC Global
+PCYO,Pure Cycle Corp.,Utilities,225.0,Pure Cycle
+FET,Forum Energy Technologies Inc,Energy,224.0,Forum Energy Technologies
+CDZI,Cadiz Inc.,Utilities,216.0,Cadiz
+PNRG,PrimeEnergy Resources Corp,Energy,214.0,PrimeEnergy Resources
+RGCO,"RGC Resources, Inc.",Utilities,209.0,RGC Resources
+NC,Nacco Industries Inc.,Energy,193.0,Nacco Industries
+EPM,Evolution Petroleum Corporation,Energy,190.0,Evolution Petroleum
+TUSK,Mammoth Energy Services Inc,Energy,176.0,Mammoth Energy Services
+LONE,Lonestar Resources US Inc,Energy,162.0,Lonestar Resources US
+AMTX,Aemetis Inc,Energy,159.0,Aemetis
+EXTN,Exterran Corp,Energy,153.0,Exterran
+GEOS,Geospace Technologies Corp,Energy,138.0,Geospace Technologies
+PHX,PHX Minerals Inc,Energy,127.0,PHX Minerals
+GIFI,"Gulf Island Fabrication, Inc.",Energy,114.0,Gulf Island Fabrication
+FTK,Flotek Industries Inc,Energy,109.0,Flotek Industries
+VTNR,Vertex Energy Inc,Energy,105.0,Vertex Energy
+SND,Smart Sand Inc,Energy,94.0,Smart Sand
+KLXE,KLX Energy Services Holdings Inc,Energy,90.0,KLX Energy Services
+CRT,Cross Timbers Royalty Trust,Energy,83.0,Cross Timbers Royalty Trust
+PED,PEDEVCO Corp,Energy,83.0,PEDEVCO
+SLNG,Stabilis Solutions Inc,Energy,76.0,Stabilis Solutions
+PFIE,Profire Energy Inc,Energy,72.0,Profire Energy
+AE,Adams Resources & Energy Inc.,Energy,68.0,Adams Resources & Energy
+DWSN,Dawson Geophysical Company,Energy,62.0,Dawson Geophysical
+NINE,Nine Energy Service Inc,Energy,59.0,Nine Energy Service
+PRT,PermRock Royalty Trust,Energy,47.0,PermRock Royalty Trust
+NCSM,NCS Multistage Holdings Inc,Energy,45.0,NCS Multistage
+SDPI,Superior Drilling Products Inc,Energy,40.0,Superior Drilling Products
+CEI,Camber Energy Inc,Energy,31.0,Camber Energy
+USEG,U.S. Energy Corp.,Energy,28.0,US Energy
+CKX,CKX Lands Inc,Energy,28.0,CKX Lands
+BRN,Barnwell Industries Inc.,Energy,28.0,Barnwell Industries
+ICD,Independence Contract Drilling Inc,Energy,22.0,Independence Contract Drilling
+HPR,HighPoint Resources Corp,Energy,20.0,HighPoint Resources
