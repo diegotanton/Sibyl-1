@@ -1,3 +1,5 @@
+annotated-types==0.7.0
+anyio==4.4.0
 appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699320997592/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 beautifulsoup4==4.12.3
@@ -9,6 +11,7 @@ contourpy==1.2.1
 cycler==0.12.1
 debugpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/debugpy_1699267934478/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+distro==1.9.0
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fonttools==4.53.1
 frozendict==2.4.4
@@ -19,11 +22,15 @@ google-cloud-storage==2.18.0
 google-crc32c==1.5.0
 google-resumable-media==2.7.1
 googleapis-common-protos==1.63.2
+h11==0.14.0
 html5lib==1.1
+httpcore==1.0.5
+httpx==0.27.0
 idna==3.7
 ipykernel @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_02wd6dgggf/croot/ipykernel_1705933834674/work
 ipython @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bff2xolgq1/croot/ipython_1718287985143/work
 jedi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_dc59flyfgj/croot/jedi_1721058355050/work
+jiter==0.5.0
 jupyter_client @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_client_1701805419641/work
 jupyter_core @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_80l8bw91xp/croot/jupyter_core_1718818299834/work
 kiwisolver==1.4.5
@@ -33,6 +40,7 @@ matplotlib-inline @ file:///Users/builder/cbouss/perseverance-python-buildout/cr
 multitasking==0.0.11
 nest-asyncio @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c44_atq5c1/croot/nest-asyncio_1708532677863/work
 numpy==2.0.1
+openai==1.40.0
 packaging @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af6w2d9k11/croot/packaging_1720101860461/work
 pandas==2.2.2
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
@@ -48,9 +56,12 @@ ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptypr
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
+pydantic==2.8.2
+pydantic_core==2.20.1
 Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699240212223/work
 pyparsing==3.1.2
 python-dateutil @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_efk5_uakg8/croot/python-dateutil_1716495742183/work
+python-dotenv==1.0.1
 pytz==2024.1
 pyzmq @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c7mhasdker/croot/pyzmq_1705605099593/work
 requests==2.32.3
@@ -58,10 +69,13 @@ rsa==4.9
 seaborn==0.13.2
 setuptools==69.5.1
 six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.1
 soupsieve==2.5
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 tornado @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_7e0ruwlfee/croot/tornado_1718740118099/work
+tqdm==4.66.5
 traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f49losghmg/croot/traitlets_1718227069025/work
+typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work

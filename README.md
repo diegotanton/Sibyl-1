@@ -55,10 +55,14 @@ Historical event detection through semantic clusterings of past headlines for co
     New updates on past events should be judged as positive or negative by GPT in relation to event information
         Can even look for supplemental information on significant events
     Relevance of new headlines to significant past events
-    Ex: Event in the past triggered negative stock price reaction. Negative development on the event (as judged by GPT) should result in
-    similar negative stock price reaction, and might be weighted differently than regular headlines
+    Ex: Event in the past triggered negative stock price reaction. Negative development on the event (as judged by GPT) should result in similar negative stock price reaction, and might be weighted differently than regular headlines
     Coverage of event as number of headlines
     Indicators of event as distribution of publishers (small first, then big)
+Whether GPT thinks headline is good or bad for company (-3 to +3)
+Which GPT? GPT-4o or GPT-4o-mini? Generate predictions on subset using GPT-4o, then finetune GPT-4o-mini?
+First 100 dimensions of embedding?
+Headlines_Cnt-1
+Headlines_Cnt compared to average for company
 Perform price analysis of embeddings vs. GPTs vs. non-OpenAI chatbots
 Get rid of these: "S&amp;P"
 Did stock change happen before the headline?
