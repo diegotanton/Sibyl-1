@@ -85,3 +85,20 @@ Volatility of stock within the hour
 Volume of stock within the hour
 Other external data sources
 Starting time of interval (9:30 - 10:30am vs. 2:30 - 3:30pm will have different trading volumes / volatility)
+
+How to incorporate historical information? Here's an example below of "good" news that sounds bad:
+'Boeing to pay $244M fine as part of guilty plea over fatal 737 MAX crashes - New York Post'
+(1) GPT needs to recognize that this news is not reporting for the first time that there was a fatal crash
+(2) GPT needs to recognize that $244M is much lower than the fine originally proposed
+For instance, here's a headline from one month earlier:
+"737 Max Crash Victims' Families Seek $25 Billion Fine on Boeing (BA) - Bloomberg"
+
+Clustering by semantic similarity across all companies: earnings reports vs. analyst ratings, etc.
+    Might need to replace company name in headlines with "company"
+Clustering to find events within companies - can pass to GPT as historical information:
+    Use DBSCAN or HDBSCAN
+    Use d1024 embeddings + strongly weighted time variable (hours since start of data)
+    Identify cluster score for a real event
+    Use this cluster score to define a rough threshold for future event detection
+    Iteratively create clusters in the data only if cluster is above threshold. No clusters formed otherwise
+    Manually inspect identified "events"
